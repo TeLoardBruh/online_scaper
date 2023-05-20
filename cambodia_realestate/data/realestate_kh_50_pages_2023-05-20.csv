@@ -1,0 +1,1001 @@
+,location,price,bedrooms,bathrooms,floors,lands,type
+0,"Chey Chumneah, Daun Penh, Phnom Penh","$52,000",1,1.0,35,,Apartment
+1,"Preaek Lieb, Chroy Changvar, Phnom Penh","$290,000",4,5.0,,,Twin
+2," Sangkat Buon, Sihanoukville, Sihanoukville","$45,000",1,1.0,35,,Apartment
+3," Sangkat Bei, Sihanoukville, Sihanoukville","$7,500,000",,,,1025.0,Land
+4," Sangkat Bei, Sihanoukville, Sihanoukville","$1,500/m²",,,,1593.0,Land
+5," BKK 1, Chamkarmon, Phnom Penh","$85,496","['1', '6']",,"['39', '1068']",,Project
+6," Svay Dankum, Siem Reap, Siem Reap","$86,478","['1', '3']",,"['32', '136']",,Condo
+7," Boeung Tumpun 2, Meanchey, Phnom Penh","$115,112$80,000SAVE30.50%",1,1.0,55,,Apartment
+8,Platinum Coast,"$60,152",1,1.0,35,,Condo
+9," Tuek Thla, Sen Sok, Phnom Penh","$77,164","['1', '3']",,"['30', '127']",,
+10," Tonle Bassac, Chamkarmon, Phnom Penh","$110,000","['1', '3']",,"['59', '169']",,Project
+11," Tonle Bassac, Chamkarmon, Phnom Penh","$275,000","['1', '3']",,"['78', '196']",,Condo
+12," Srah Chak, Daun Penh, Phnom Penh","$60,067","['1', '2']",,"['37', '91']",,Project
+13," 306 , BKK 1, Chamkarmon, Phnom Penh","$115,900","['1', '2']",,"['43', '1600']",,Project
+14," BKK 1, Chamkarmon, Phnom Penh","$181,000","['2', '3']",,"['65', '153']",,
+15,"  , Sangkat Buon, Sihanoukville, Sihanoukville","$73,000",,,"['32', '66']",,Project
+16," Khmuonh, Sen Sok, Phnom Penh","$185,000","['4', '7']",,"['143', '624']",,Borey
+17,LZ Sea View Residences,"$136,000",2,2.0,68,,Condo
+18," Nirouth, Chbar Ampov, Phnom Penh","$68,000","['1', '4']",,"['32', '1800']",,Project
+19," Komai, Svay Dankum, Siem Reap, Siem Reap","$183,000","['1', '4']",,"['105', '272']",,Condo
+20,LZ Sea View Residences,"$99,946",1,1.0,64,,Condo
+21," Chroy Changvar, Chroy Changvar, Phnom Penh","$225,888","['3', '5']",,"['45', '156']",,Condo
+22,Agile Sky Residence,"$115,000",1,1.0,56,,Condo
+23,Orkide The Royal Condominium,"$185,000",2,2.0,95,,Condo
+24,"Boeung Tumpun, Meanchey, Phnom Penh","$73,000",,1.0,58,,Condo
+25," Boeung Kak 2, Toul Kork, Phnom Penh","$2,250,000",4,5.0,,789.0,Villa
+26," Dangkao, Dangkao, Phnom Penh",$125/m²,,,,3213.0,Land
+27," Tonle Bassac, Chamkarmon, Phnom Penh","$65,000",1,1.0,47,,Condo
+28,"Nirouth, Chbar Ampov, Phnom Penh","$210,000",4,5.0,81,81.0,Flat
+29,"Preaek Ta Sek, Chroy Changvar, Phnom Penh","$340,000",4,5.0,,176.0,Shophouse
+30," Sangkat Bei, Sihanoukville, Sihanoukville","$220,000",2,2.0,104,,Apartment
+31," Sangkat Pir, Sihanoukville, Sihanoukville","$79,500",2,1.0,63,,Apartment
+32," Sala Kamraeuk, Siem Reap, Siem Reap","$772,800",,,,2208.0,Land
+33," Tuol Sangkae 2, Russey Keo, Phnom Penh","$2,400,000",9,10.0,,1022.0,Villa
+34,Arakawa Residence,"$65,920$60,000SAVE8.98%",2,1.0,46,,Condo
+35,"Tuol Sangkae 2, Russey Keo, Phnom Penh","$2,400,000",9,10.0,945,1008.0,Villa
+36," Sangkat Bei, Sihanoukville, Sihanoukville","$195,000",2,2.0,130,,Apartment
+37," Chroy Changvar, Chroy Changvar, Phnom Penh","$65,000",1,1.0,62,,Condo
+38," Boeung Prolit, 7 Makara, Phnom Penh","$75,000",1,1.0,,65.0,Condo
+39," Boeung Prolit, 7 Makara, Phnom Penh","$78,000",1,1.0,,72.0,Condo
+40,"Chbar Ampov I, Chbar Ampov, Phnom Penh","$570,000",4,5.0,72,154.0,Twin
+41,"Chak Angrae Leu, Meanchey, Phnom Penh","$260,000",4,5.0,72,108.0,Twin
+42,"Boeung Kak 1, Toul Kork, Phnom Penh","$2,100,000",8,7.0,,627.0,House
+43,"Tonle Bassac, Chamkarmon, Phnom Penh","$13,000,000",,,,2767.0,Land
+44,"Preaek Aeng, Chbar Ampov, Phnom Penh","$2,800,000",6,8.0,2250,6600.0,Villa
+45,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,100,000",4,5.0,240,303.0,Villa
+46,"Kakap, Por Sen Chey, Phnom Penh","$650,000",8,9.0,,280.0,Villa
+47,"Kouk Khleang, Sen Sok, Phnom Penh","$520,000",2,11.0,210,,House
+48,"Preaek Luong, Khsach Kandal, Kandal","$53,000",3,3.0,,83.0,House
+49," Kaoh Rung, Sihanoukville, Sihanoukville","$150,000",2,,,,Villa
+50," Svay Dankum, Siem Reap, Siem Reap","$190,000",6,8.0,,,House
+51,Urban Village Phase 2,"$66,000",,1.0,26,,Condo
+52,"Samrong Tong, Samraong Tong, Kampong Speu","$41,000",2,2.0,72,,House
+53,"Svay Dankum, Siem Reap, Siem Reap","$545,000",4,5.0,,,Villa
+54,"Sala Kamraeuk, Siem Reap, Siem Reap","$320,000",3,4.0,,,House
+55,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,239,000",,,,,Condo
+56,"Tonle Bassac, Chamkarmon, Phnom Penh","$885,000",,,,,Condo
+57,"Tonle Bassac, Chamkarmon, Phnom Penh","$323,900",,,,,Condo
+58,"BKK 3, Chamkarmon, Phnom Penh","$2,200,000",6,6.0,,475.0,Villa
+59," Svay Dankum, Siem Reap, Siem Reap",$500/m²,,,,,Land
+60," Chak Angrae Leu, Meanchey, Phnom Penh","$125,000",2,1.0,70,,Condo
+61,"Preaek Lieb, Chroy Changvar, Phnom Penh","$500,000",6,5.0,,90.0,Shophouse
+62,"Boeung Kak 2, Toul Kork, Phnom Penh","$210,000",4,4.0,,,Condo
+63,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,300,000",10,9.0,,,Shophouse
+64,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,500,000",4,4.0,,,Shophouse
+65,"Phsar Thmei III, Daun Penh, Phnom Penh","$210,000",2,2.0,,,Shophouse
+66,"Phsar Thmei III, Daun Penh, Phnom Penh","$700,000",6,7.0,,,Shophouse
+67," Kandaek, Prasat Bakong, Siem Reap","$64,999",2,2.0,,,House
+68,Embassy Central,"$360,000",2,2.0,104,,Condo
+69," Toul Svay Prey 1, Chamkarmon, Phnom Penh","$2,200,000",6,7.0,,,Villa
+70,"BKK 1, Chamkarmon, Phnom Penh","$277,000",1,1.0,77,,Condo
+71,"Mittapheap, 7 Makara, Phnom Penh","$150,000",2,2.0,,,Apartment
+72," Sala Kamraeuk, Siem Reap, Siem Reap","$700,000",9,10.0,,,House
+73," Kandaek, Prasat Bakong, Siem Reap","$86,000",2,3.0,,,House
+74," Sala Kamraeuk, Siem Reap, Siem Reap",$270/m²,,,,,Land
+75,"Chreav, Siem Reap, Siem Reap","$135,500",2,3.0,108,250.0,House
+76,"Svay Dankum, Siem Reap, Siem Reap","$180,000",4,5.0,,,Villa
+77," Sala Kamraeuk, Siem Reap, Siem Reap","$1,260,000",,,,,Land
+78," Svay Dankum, Siem Reap, Siem Reap","$1,500,000",,,,,Land
+79,"Phsar Kandal I, Daun Penh, Phnom Penh","$330,000",2,4.0,346,,Apartment
+80,"Toul Tum Poung 2, Chamkarmon, Phnom Penh","$2,800,000",15,15.0,,,Apartment
+81,"Srangae, Siem Reap, Siem Reap","$108,000",2,3.0,,,House
+82,"Phsar Kandal I, Daun Penh, Phnom Penh","$299,000",2,2.0,250,,Flat
+83,"Svay Dankum, Siem Reap, Siem Reap","$100,000",3,4.0,,,House
+84,Prince Huan Yu Center,"$160,000$120,000SAVE25.00%",1,1.0,62,,Condo
+85,"Phsar Kandal I, Daun Penh, Phnom Penh","$125,000",3,2.0,99,,Apartment
+86,Urban Village Phase 2,"$119,500",2,2.0,60,,Condo
+87,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",10,10.0,,,Shophouse
+88,"BKK 3, Chamkarmon, Phnom Penh","$85,000",1,1.0,52,,Condo
+89,"Boeung Kak 2, Toul Kork, Phnom Penh","$4,200/m²",,,,,Land
+90,"Sangkat Pir, Sihanoukville, Sihanoukville","$650,000",18,,,390.0,Apartment
+91,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,300,000",3,4.0,,,Shophouse
+92,"Ou Oknha Heng, Prey Nob, Sihanoukville","$5,340,000",,,,89000.0,Land
+93,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$250,000",4,5.0,75,168.0,Villa
+94," Chroy Changvar, Chroy Changvar, Phnom Penh","$154,400","['1', '3']",,"['42', '237']",,
+95,"Svay Dankum, Siem Reap, Siem Reap","$230,000",4,5.0,,,House
+96,"Kandaek, Prasat Bakong, Siem Reap","$90,000",2,3.0,,,House
+97," Ream, Prey Nob, Sihanoukville","$8,352,000",,,,55680.0,Land
+98,"BKK 3, Chamkarmon, Phnom Penh","$78,000",1,1.0,35,,Condo
+99,"Svay Dankum, Siem Reap, Siem Reap","$240,000",3,3.0,,,Villa
+100,"BKK 1, Chamkarmon, Phnom Penh","$950,000",2,3.0,,108.0,Villa
+101," Sala Kamraeuk, Siem Reap, Siem Reap","$450,000",7,,,,House
+102,"Kouk Chak, Siem Reap, Siem Reap","$150,000",6,6.0,,,House
+103,"BKK 1, Chamkarmon, Phnom Penh","$310,000",2,2.0,95,,Condo
+104,"BKK 1, Chamkarmon, Phnom Penh","$450,000",3,3.0,120,,Condo
+105,"BKK 1, Chamkarmon, Phnom Penh","$743,000",3,3.0,161,,Apartment
+106," Sla Kram, Siem Reap, Siem Reap","$320,000",9,9.0,,,House
+107,"Svay Dankum, Siem Reap, Siem Reap","$690,000",5,10.0,,,Apartment
+108,"DABEST PROPERTIES DABEST PROPERTIES, Svay Dankum, Siem Reap, Siem Reap","$230,000",2,3.0,94,352.0,House
+109,"Svay Dankum, Siem Reap, Siem Reap","$160,000",1,1.0,,67.0,Shophouse
+110," Sangkat Sambuor, Siem Reap, Siem Reap","$78,000",3,3.0,,,Twin
+111,Rose Apple Square,"$194,010",2,,,,Condo
+112,"Sala Kamraeuk, Siem Reap, Siem Reap","$250,000",7,7.0,,,Villa
+113,"Boeung Kak 2, Toul Kork, Phnom Penh","$3,800,000",25,28.0,660,1076.0,House
+114,"Sala Kamraeuk, Siem Reap, Siem Reap","$479,900",4,2.0,,,House
+115,Kandal,"$93,000",,,52,86.0,House
+116,"Siem Reap, Siem Reap","$175,000",3,4.0,,372.0,House
+117,Siem Reap,"$69,000",1,1.0,93,154.0,House
+118,"Tumnob Tuek, Chamkarmon, Phnom Penh","$72,500",1,1.0,59,,Condo
+119,"Siem Reap, Siem Reap","$120,000",2,3.0,75,153.0,House
+120,"Chaom Chau, Por Sen Chey, Phnom Penh","$198,000",4,6.0,,,House
+121,"Boeung Kak 1, Toul Kork, Phnom Penh","$68,000",1,1.0,,,Condo
+122,"Sangkat Buon, Sihanoukville, Sihanoukville","$259,000",4,5.0,,,House
+123,"Svay Dankum, Siem Reap, Siem Reap","$1,200,000",4,5.0,,,House
+124,"Nirouth, Chbar Ampov, Phnom Penh","$100,000",4,5.0,,,House
+125,"Snaor, Por Sen Chey, Phnom Penh","$65,000",3,3.0,,,House
+126,"Boeung Tumpun, Meanchey, Phnom Penh","$75,000",1,1.0,,,Condo
+127,"Chrang Chamres 2, Russey Keo, Phnom Penh","$320,000",4,5.0,72,207.0,Villa
+128,"Svay Dankum, Siem Reap, Siem Reap","$135,000",2,3.0,,,House
+129,"Svay Dankum, Siem Reap, Siem Reap","$460,000",4,4.0,,,House
+130,"Svay Dankum, Siem Reap, Siem Reap","$139,000",3,3.0,,240.0,Villa
+131,"Sangkat Sambuor, Siem Reap, Siem Reap","$980,000",7,7.0,400,5724.0,Villa
+132,"DABEST PROPERTIES, Svay Dankum, Siem Reap, Siem Reap","$220,000",2,2.0,,422.0,Villa
+133,"Dabest Properties, Sala Kamraeuk, Siem Reap, Siem Reap","$1,950,000",6,7.0,548,2100.0,Villa
+134,"Kampong Samnanh, Ta Khmau, Kandal","$65,000",2,3.0,,,House
+135,"Svay Kravan, Chbar Mon, Kampong Speu","$45,000",3,4.0,,,House
+136,"Bak Kaeng, Chroy Changvar, Phnom Penh","$147,000",2,3.0,,,House
+137,Kandal,"$39,100",,,36,247.0,House
+138,"Chaom Chau, Por Sen Chey, Phnom Penh","$44,500",2,2.0,,,House
+139,,"$650,000",4,4.0,252,1506.0,House
+140,"Chreav, Siem Reap, Siem Reap","$110,000",2,2.0,,,House
+141,"Svay Dankum, Siem Reap, Siem Reap","$1,250,000",5,6.0,,,House
+142,"Chbar Ampov II, Chbar Ampov, Phnom Penh","$210,000",3,4.0,,,Shophouse
+143,Kampong Speu,"$250,000",3,4.0,150,300.0,House
+144,"Preaek Aeng, Chbar Ampov, Phnom Penh","$129,000",4,5.0,50,84.0,House
+145,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$330,000",4,6.0,,,House
+146,"Chomkar Somraong, Battambang, Battambang","$51,000",2,2.0,,,House
+147,"Siem Reap, Siem Reap, Siem Reap","$95,000",3,4.0,,,House
+148,"Ta Khmau, Kandal","$148,000",4,5.0,136,200.0,House
+149,"Battambang, Battambang","$55,000",2,3.0,,,House
+150,Kandal,"$28,500",2,2.0,,,House
+151,"Meanchey, Phnom Penh","$22,000",4,5.0,,,House
+152,"Ta Khmau, Kandal","$50,000",2,1.0,90,112.0,House
+153,"Baek Chan, Angk Snuol, Kandal","$185,000",3,4.0,,192.0,House
+154,Battambang,"$33,000",2,3.0,,,House
+155,"Snaor, Por Sen Chey, Phnom Penh","$95,000",4,4.0,80,180.0,House
+156,"Krang Mkak, Angk Snuol, Kandal","$78,500",3,3.0,,,Flat
+157,"Chreav, Siem Reap, Siem Reap","$495,000",4,5.0,314,615.0,Villa
+158,"Battambang, Battambang","$70,000",3,3.0,,,House
+159,Kandal,"$135,000",2,1.0,,1350.0,House
+160,"Svay Dankum, Siem Reap, Siem Reap","$119,999",3,4.0,,74.0,House
+161,,"$150,000",4,5.0,9800,,House
+162,"Kandaek, Prasat Bakong, Siem Reap","$130,000",3,3.0,,,House
+163,,"$75,000",2,3.0,,,House
+164,"Sala Kamraeuk, Siem Reap, Siem Reap","$169,000",3,3.0,,,House
+165,,"$115,000",2,3.0,6700,8600.0,House
+166,"Russey Keo, Phnom Penh","$650,000",6,6.0,,,House
+167,"Samraong Kraom, Por Sen Chey, Phnom Penh","$115,000",4,5.0,,,Villa
+168,,"$218,000",2,2.0,,169.0,House
+169,,"$120,000",,,7000,,House
+170,"Svay Dankum, Siem Reap, Siem Reap","$89,999",2,3.0,,,House
+171,"Kep, Kep","$1,000,000",2,3.0,589,818.0,House
+172,"Kakaoh, Santuk, Kampong Thom","$55,000",2,3.0,,,House
+173,,"$83,000",2,3.0,,,House
+174,"Odongk, Kampong Speu","$36,000",2,,48,777.0,House
+175,"Svay Dankum, Siem Reap, Siem Reap","$545,000",4,5.0,270,425.0,Villa
+176,"Nitean, Basedth, Kampong Speu","$3,412,225",,,,136489.0,Land
+177,"Svay Dankum, Siem Reap, Siem Reap","$120,000",2,3.0,190,607.0,House
+178,"Chroy Changvar, Phnom Penh","$74,000",5,5.0,,,House
+179,"Kampong Trach, Kampot","$265,000",4,6.0,,,House
+180,,"$158,000",,,16800,27000.0,House
+181,"Sralau, Baray, Kampong Thom","$85,000",2,2.0,48,220.0,House
+182,"Chaom Chau 2, Por Sen Chey, Phnom Penh","$67,000",1,1.0,,,Shophouse
+183,"Meanchey, Phnom Penh","$150,000",4,5.0,,,House
+184,,"$280,000",,,,,House
+185,,"$180,000",4,5.0,96,,House
+186,"Boeung Tumpun, Meanchey, Phnom Penh","$135,000",5,4.0,,,Flat
+187,,"$195,000",4,4.0,,,House
+188,,"$135,000",4,4.0,12800,25200.0,House
+189,Takeo,"$43,888",2,2.0,82,290.0,House
+190,"Chreav, Siem Reap, Siem Reap","$225,000",3,4.0,,,House
+191,"Tuol Sangke, Russey Keo, Phnom Penh","$93,000",4,5.0,,,House
+192,"Nirouth, Chbar Ampov, Phnom Penh","$95,000",4,4.0,6100,,House
+193,"Sangkat Bei, Sihanoukville, Sihanoukville","$650,000",24,,,,Flat
+194,Eastland Hotel and Apartment,"$85,000",1,1.0,38,,Apartment
+195,"Chaom Chau 1, Por Sen Chey, Phnom Penh","$97,000",2,3.0,,,House
+196,"Kampong Roteh, Stueng Saen, Kampong Thom","$280,000",3,4.0,42,408.0,House
+197,"Sangkat Buon, Sihanoukville, Sihanoukville","$350,000",,,,,House
+198,"Boeung Tumpun, Meanchey, Phnom Penh","$79,000",2,3.0,56,,House
+199,Koh Kong,"$55,000",2,1.0,60,,House
+200,"Poipet, Poipet, Banteay Meanchey","$71,000",5,5.0,,,House
+201,"Russey Keo, Phnom Penh","$92,000",2,3.0,,,House
+202,"Chaom Chau 3, Por Sen Chey, Phnom Penh","$175,000",4,5.0,58,118.0,House
+203,"Spean Thma, Dangkao, Phnom Penh","$49,999",2,3.0,,,House
+204,"Chrang Chamres 2, Russey Keo, Phnom Penh","$375,000",4,5.0,72,218.0,House
+205,"Roka Knong, Doun Kaev, Takeo","$300,000",12,12.0,,,House
+206,"Boeung Salang, Toul Kork, Phnom Penh","$650,000",7,7.0,176,336.0,House
+207,"Dangkao, Dangkao, Phnom Penh","$160,000",5,5.0,64,,House
+208,"Kandaek, Prasat Bakong, Siem Reap","$135,000",2,3.0,,,House
+209,"Tuek L'ak 3, Toul Kork, Phnom Penh","$183,880",4,5.0,60,100.0,House
+210,Siem Reap,"$185,000",3,3.0,,,House
+211,"Siem Reap, Siem Reap","$300,000",3,4.0,,,House
+212,"Siem Reap, Siem Reap","$180,000",3,4.0,,600.0,House
+213,"Kampot, Kampot","$230,000",3,3.0,,,House
+214,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",2,3.0,,,House
+215,Kandal,"$56,000",3,3.0,,,House
+216,"Chaom Chau, Por Sen Chey, Phnom Penh","$65,000",2,3.0,,76.0,House
+217,"Krang Thnong, Sen Sok, Phnom Penh","$47,000",2,3.0,,,House
+218,"Dangkao, Dangkao, Phnom Penh","$99,000",2,3.0,64,86.0,House
+219,"Chaom Chau 3, Por Sen Chey, Phnom Penh","$74,000",4,3.0,85,168.0,House
+220,"Chey Chumneah, Daun Penh, Phnom Penh","$495,000",2,3.0,,,House
+221,"Tuek Thla, Sen Sok, Phnom Penh","$335,000",6,5.0,72,125.0,House
+222,"BKK 1, Chamkarmon, Phnom Penh","$200,000$183,000SAVE8.50%",1,1.0,58,,Condo
+223,"Veal Sbov, Chbar Ampov, Phnom Penh","$195,000",,,,301.0,Land
+224,"Sla Kram, Siem Reap, Siem Reap","$125,000",4,5.0,88,161.0,House
+225,"Ta Khmau, Kandal","$72,000",5,4.0,,,House
+226,"Boeung Kak 2, Toul Kork, Phnom Penh","$269,000",4,5.0,72,158.0,House
+227,"Kakap, Por Sen Chey, Phnom Penh","$78,200",2,2.0,,,House
+228,"Stueng Mean chey 3, Meanchey, Phnom Penh","$85,000",2,3.0,,,House
+229,"Samraong Kraom, Por Sen Chey, Phnom Penh","$439,999",5,6.0,,,House
+230,"Preaek Pnov, Prek Pnov, Phnom Penh","$55,000",1,2.0,,,House
+231,"Russey Keo, Russey Keo, Phnom Penh","$48,000",2,3.0,,,House
+232,"Meanchey, Phnom Penh","$140,000",2,3.0,,,House
+233,"Dangkao, Phnom Penh","$96,000",2,3.0,,,House
+234,"Kamboul, Por Sen Chey, Phnom Penh","$120,000",5,6.0,,,House
+235,"Anlong Vil, Sangkae, Battambang","$45,000",2,2.0,,,House
+236,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$270,000",,,153,,House
+237,"Stueng Mean chey, Meanchey, Phnom Penh","$85,000",2,3.0,,,House
+238,"Preaek Anhchanh, Mukh Kampul, Kandal","$66,000",4,5.0,50,,House
+239,"Kakab 1, Por Sen Chey, Phnom Penh","$155,000",2,3.0,,,House
+240,"Preaek Kampues, Dangkao, Phnom Penh","$50,000",2,3.0,,,House
+241,"Meanchey, Phnom Penh","$90,000",4,4.0,,,House
+242,"Kamboul, Por Sen Chey, Phnom Penh","$54,500",2,3.0,,,House
+243,"Dangkao, Dangkao, Phnom Penh","$93,555",2,3.0,,92.0,House
+244,"Kandal Stueng, Kandal","$105,000",2,2.0,60,203.0,House
+245,"Kampong Chhnang, Kampong Chhnang","$98,000",2,2.0,,,House
+246,"Dangkao, Phnom Penh","$169,000",3,1.0,,,House
+247,"Meanchey, Phnom Penh","$83,500",2,3.0,,,House
+248,"Chrang Chamres 2, Russey Keo, Phnom Penh","$52,000",2,1.0,,,House
+249,"Ta Khmau, Kandal","$25,900",2,1.0,,,House
+250,"Tuek L'ak 2, Toul Kork, Phnom Penh","$600,000",4,5.0,,,House
+251,Siem Reap,"$65,000",1,2.0,65,252.0,House
+252,"Krang Thnong, Sen Sok, Phnom Penh","$98,000",2,3.0,,,House
+253,"Tuol Sangke, Russey Keo, Phnom Penh","$115,000",4,5.0,,,House
+254,"Sihanoukville, Sihanoukville","$220,000",3,3.0,80,246.0,House
+255,"Preaek Kampues, Dangkao, Phnom Penh","$140,000",,,,432.0,Land
+256," Chreav, Siem Reap, Siem Reap","$495,000",4,5.0,,,House
+257,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$655,000",,,,960.0,Land
+258,"Khmuonh, Sen Sok, Phnom Penh","$62,000",3,2.0,,105.0,House
+259,"Krang Thnong, Sen Sok, Phnom Penh","$110,000",4,5.0,,58.0,House
+260,"Nirouth, Chbar Ampov, Phnom Penh","$123,000",4,5.0,,88.0,House
+261,"Krang Thnong, Sen Sok, Phnom Penh","$85,000",2,3.0,66,92.0,Apartment
+262,"Kamboul, Por Sen Chey, Phnom Penh","$63,000",4,5.0,,49.0,House
+263,"Boeung Salang, Toul Kork, Phnom Penh","$1,200,000",5,4.0,,,House
+264,"Boeung Tumpun, Meanchey, Phnom Penh","$95,000",4,5.0,,48.0,House
+265,"Nirouth, Chbar Ampov, Phnom Penh","$77,500",3,3.0,,64.0,House
+266,"Setbou, S'ang, Kandal","$53,000",2,3.0,,84.0,House
+267,"Prey Sa, Dangkao, Phnom Penh","$169,000",5,6.0,,,House
+268,"Preaek Kampues, Dangkao, Phnom Penh","$108,000",4,5.0,,86.0,House
+269,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$155,000",5,7.0,,64.0,House
+270,"Dangkao, Phnom Penh","$138,000",4,5.0,,109.0,House
+271,"Khmuonh, Sen Sok, Phnom Penh","$225,000",4,5.0,,64.0,House
+272,"Boeung Tumpun 1, Meanchey, Phnom Penh","$137,000",5,5.0,,86.0,House
+273,"Khmuonh, Sen Sok, Phnom Penh","$240,000",4,5.0,,66.0,House
+274,"Boeung Tumpun, Meanchey, Phnom Penh","$220,000",5,5.0,,67.0,House
+275,"Chaom Chau, Por Sen Chey, Phnom Penh","$165,000",4,5.0,,133.0,House
+276,"Kamboul, Por Sen Chey, Phnom Penh","$75,000",4,5.0,,,House
+277,"Stueng Mean chey 3, Meanchey, Phnom Penh","$58,000",2,3.0,,76.0,House
+278,"Nirouth, Chbar Ampov, Phnom Penh","$120,000",,,,171.0,Land
+279,"Svay Dankum, Siem Reap, Siem Reap","$60,000",,,,,Condo
+280,"Svay Toea, Svay Rieng, Svay Rieng","$389,000",,,,1362.0,House
+281,"Nirouth, Chbar Ampov, Phnom Penh","$300,000",4,5.0,72,,Twin
+282,"Boeung Kak 1, Toul Kork, Phnom Penh","$710,000",6,5.0,168,368.0,Villa
+283,"Nirouth, Chbar Ampov, Phnom Penh","$293,700",4,5.0,72,169.0,Twin
+284,"Chak Angrae Leu, Meanchey, Phnom Penh","$105,000",,,,,Flat
+285,"Boeung Kak 1, Toul Kork, Phnom Penh","$140,000",,,62,,Condo
+286,"Ta Khmao, Ta Khmau, Kandal","$65,000",2,,,,Link
+287," Tuek Thla, Sen Sok, Phnom Penh","$390,000",5,5.0,,,Shophouse
+288," Tuek L'ak 3, Toul Kork, Phnom Penh","$580,000",,,,,Shophouse
+289," Tuek Thla, Sen Sok, Phnom Penh","$380,000",3,4.0,216,,Condo
+290," Chroy Changvar, Chroy Changvar, Phnom Penh","$145,000",2,2.0,90,,Condo
+291,"Nirouth, Chbar Ampov, Phnom Penh","$1,200,000",,,,,Villa
+292,"Kakap, Por Sen Chey, Phnom Penh","$250,000",3,2.0,,,Condo
+293,Urban Village Phase 2,"$180,000",,,78,,Condo
+294,"BKK 1, Chamkarmon, Phnom Penh","$2,100,000",5,4.0,306,411.0,Condo
+295,"Preaek Aeng, Chbar Ampov, Phnom Penh","$3,950,000",7,8.0,1100,2378.0,Villa
+296,Borey Morgan Champs-Élysées,"$1,590,000",7,8.0,754,292.0,Villa
+297,Borey Morgan Champs-Élysées,"$650,000",6,7.0,337,128.0,Twin
+298,Borey Morgan Champs-Élysées,"$1,630,000",3,20.0,1185,180.0,Shophouse
+299,Borey Morgan Champs-Élysées,"$480,000",5,6.0,245,84.0,Twin
+300,Borey Morgan Champs-Élysées,"$560,000",4,5.0,441,100.0,Shophouse
+301," Ponhea Pon, Prek Pnov, Phnom Penh","$86,000",,,,409.0,Land
+302," BKK 1, Chamkarmon, Phnom Penh","$71,766",1,1.0,383,,Apartment
+303," Ou Baek K'am, Sen Sok, Phnom Penh","$145,000",1,1.0,87,,Condo
+304,"Ou Baek K'am, Sen Sok, Phnom Penh","$68,000$58,000SAVE14.71%",1,1.0,30,,Condo
+305," Boeung Tumpun, Meanchey, Phnom Penh","$43,000",1,1.0,48,,Condo
+306," Tonle Bassac, Chamkarmon, Phnom Penh","$160,000",1,1.0,51,,Condo
+307," Svay Chrum, Khsach Kandal, Kandal","$70,000",2,2.0,,,Link
+308," Chroy Changvar, Chroy Changvar, Phnom Penh","$120,000$90,000SAVE25.00%",2,2.0,,,Condo
+309," Sla Kram, Siem Reap, Siem Reap","$2,300,000",7,8.0,,,House
+310," Chreav, Siem Reap, Siem Reap","$90,000",,,,,Land
+311," Preaek Anhchanh, Mukh Kampul, Kandal","$99,500",4,5.0,,,Shophouse
+312,"Tonle Bassac, Chamkarmon, Phnom Penh","$65,000",1,1.0,,,Condo
+313,Skylar by Meridian,"$180,000$135,000SAVE25.00%",1,1.0,57,,Condo
+314,"Svay Dankum, Siem Reap, Siem Reap","$450,000",4,5.0,,,House
+315,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$265,000",4,5.0,,,Link
+316,"Stueng Mean chey, Meanchey, Phnom Penh","$120,000",,,,,Flat
+317,Urban Village Phase 1,"$95,000",1,1.0,,,Condo
+318,"Bavet, Bavet, Svay Rieng","$310,000",,,,7644.0,Land
+319," Boeung Kak 1, Toul Kork, Phnom Penh","$85,000",2,1.0,42,,Condo
+320," Chaom Chau 3, Por Sen Chey, Phnom Penh","$55,980",2,3.0,64,,Flat
+321," Kamboul, Por Sen Chey, Phnom Penh","$165,000",2,3.0,,,House
+322," Preaek Kampues, Dangkao, Phnom Penh","$85,000",2,3.0,,,Flat
+323," Kandaek, Prasat Bakong, Siem Reap","$125,000",3,3.0,,,Twin
+324," Sala Kamraeuk, Siem Reap, Siem Reap","$150,000",4,3.0,,,House
+325," Svay Dankum, Siem Reap, Siem Reap","$678,500",,,,,Land
+326," Chreav, Siem Reap, Siem Reap","$354,250",,,,,Land
+327," Sala Kamraeuk, Siem Reap, Siem Reap","$821,600",,,,,Land
+328,"Ta Khmao, Ta Khmau, Kandal",$180/m²,,,,23442.0,Land
+329," Chreav, Siem Reap, Siem Reap","$170,000",2,3.0,,,House
+330," Svay Dankum, Siem Reap, Siem Reap","$367,200",,,,,Land
+331," Chreav, Siem Reap, Siem Reap","$135,000",2,3.0,,,House
+332," Siem Reap, Siem Reap, Siem Reap","$220,000",2,2.0,,,Villa
+333,"BKK 1, Chamkarmon, Phnom Penh","$12,000/m²",,,,,Land
+334," Veal Vong, 7 Makara, Phnom Penh","$188,688",2,2.0,75,105.0,Condo
+335," Russey Keo, Russey Keo, Phnom Penh",$500/m²,,,,363.0,Land
+336,"Sangkat Pir, Sihanoukville, Sihanoukville","$72,800",1,1.0,40,,Condo
+337,"Trapeang Thum, Prasat Bakong, Siem Reap",$70/m²,,,,,Land
+338,"Tuek L'ak 2, Toul Kork, Phnom Penh","$130,000",2,2.0,,,Condo
+339,"Kep, Kep, Kep",$220/m²,,,,,Land
+340,"Tuol Sangke, Russey Keo, Phnom Penh","$850,000",7,6.0,,,Villa
+341,"Kep, Kep, Kep",$220/m²,,,,2684.0,Villa
+342,"313 313, Boeung Kak 2, Toul Kork, Phnom Penh","$380,000",,,,60.0,House
+343,"Chaom Chau, Por Sen Chey, Phnom Penh",$59/m²,,,,2636.0,Land
+344,Royal Park Condo,"$49,999",1,1.0,,,Condo
+345," Kakab 1, Por Sen Chey, Phnom Penh","$150,000",2,2.0,108,,Condo
+346,"Achar Leak, Stueng Saen, Kampong Thom","$78,000",3,4.0,,,House
+347,Urban Village Phase 1,"$110,000",2,1.0,,,Condo
+348,"Chreav, Siem Reap, Siem Reap","$60,000",1,1.0,,,House
+349," Street 20A, Tien, Dangkao, Phnom Penh",POA,,,,,Borey
+350,"Kampong Svay, Kien Svay, Kandal","$145,000",,,,,Land
+351,"Sangkat Pir, Sihanoukville, Sihanoukville","$82,300",1,1.0,40,,Condo
+352,"Preaek Tonloab, Leuk Daek, Kandal","$16,000",,,,,Land
+353,"Phsar Chas, Daun Penh, Phnom Penh","$1,100,000",4,5.0,,,Apartment
+354,"Sangkat Buon, Sihanoukville, Sihanoukville","$580,000",14,,,,Apartment
+355,"Preaek Aeng, Chbar Ampov, Phnom Penh",$580/m²,,,,1513.0,Land
+356,"Chaom Chau, Por Sen Chey, Phnom Penh",$700/m²,,,,4193.0,Land
+357," Khmuonh, Sen Sok, Phnom Penh","$295,000",4,7.0,269,91.0,Shophouse
+358,CASA by Meridian,"$175,080",1,1.0,77,,Condo
+359,"Chaom Chau, Por Sen Chey, Phnom Penh","$560,000",28,28.0,,,House
+360,"Ou Baek K'am, Sen Sok, Phnom Penh","$178,000",,,,,Condo
+361,"Boeung Prolit, 7 Makara, Phnom Penh","$90,000",,,,,Condo
+362,"Preaek Lieb, Chroy Changvar, Phnom Penh","$260,000",5,6.0,,,House
+363,"BKK 1, Chamkarmon, Phnom Penh","$255,000",,,,,Condo
+364,"Kandaek, Prasat Bakong, Siem Reap","$50,000",,,,,Land
+365,"Boeung Tumpun 2, Meanchey, Phnom Penh","$210,000",4,4.0,,,House
+366,"Preaek Aeng, Chbar Ampov, Phnom Penh",$538/m²,,,,,Land
+367,"Svay Dankum, Siem Reap, Siem Reap","$198,000",3,3.0,,,Villa
+368,"Veal Vong, 7 Makara, Phnom Penh","$185,000",,,,,Condo
+369,"Chreav, Siem Reap, Siem Reap","$37,000",,,,,House
+370,"Sala Kamraeuk, Siem Reap, Siem Reap","$350,000",,,,,House
+371,"Sangkat Sambuor, Siem Reap, Siem Reap","$150,000",2,3.0,,,House
+372,"Samrong, Prey Nob, Sihanoukville","$250,000",,,,,Land
+373,"Sala Kamraeuk, Siem Reap, Siem Reap","$450,000",6,10.0,,,House
+374,"Sala Kamraeuk, Siem Reap, Siem Reap","$1,900,000",11,11.0,,,Villa
+375,"Cheung Aek, Dangkao, Phnom Penh","$335,000",4,5.0,,,Twin
+376,"Barong, Lvea Aem, Kandal","$125,000",,,,,Land
+377,"Chrang Chamres I, Russey Keo, Phnom Penh","$355,000",4,5.0,,,House
+378,CASA by Meridian,"$250,000",2,2.0,,,Condo
+379," Kouk Chak, Siem Reap, Siem Reap","$180,000",4,5.0,,,House
+380,"Chroy Changvar, Chroy Changvar, Phnom Penh","$126,263",,,,,Condo
+381,"Russey Keo, Russey Keo, Phnom Penh","$195,000",4,5.0,,,House
+382,"Kampong Samnanh, Ta Khmau, Kandal",$450/m²,,,,,Land
+383,"Nirouth, Chbar Ampov, Phnom Penh","$930,000",,,,,House
+384,"Preaek Pra, Chbar Ampov, Phnom Penh","$30,000",,,,84.0,Land
+385,"Veal Vong, 7 Makara, Phnom Penh","$295,000",2,1.0,136,,Condo
+386,"Veal Vong, 7 Makara, Phnom Penh","$120,000",1,1.0,46,,Condo
+387,"Svay Dankum, Siem Reap, Siem Reap",$850/m²,,,,3500.0,Land
+388,"Ovlaok, Por Sen Chey, Phnom Penh",$210/m²,,,,2381.0,Land
+389,"Krang Dei Vay, Phnum Sruoch, Kampong Speu","$600,000",,,,,Land
+390,"Preaek Anhchanh, Mukh Kampul, Kandal","$125,000",,,,,House
+391,"Ta Khmao, Ta Khmau, Kandal","$65,000",,,,,Land
+392,"Bak Kaeng, Chroy Changvar, Phnom Penh",$650/m²,,,,,Land
+393,"Ou Baek K'am, Sen Sok, Phnom Penh","$160,000",2,2.0,,,Condo
+394,"Akphivoadth, Tuek Phos, Kampong Chhnang",$19/m²,,,,,Apartment
+395,"Chaom Chau 2, Por Sen Chey, Phnom Penh","$85,000",,,,,House
+396,"Trapeang Thum, Prasat Bakong, Siem Reap","$860,000",,,,,Land
+397,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",,,,,Land
+398,"Chroy Changvar, Chroy Changvar, Phnom Penh","$1,300/m²",,,,,Villa
+399,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$9,873,600",,,,8228.0,Land
+400,"Boeung Tumpun, Meanchey, Phnom Penh","$550,000",3,3.0,,,House
+401,"Cheung Aek, Dangkao, Phnom Penh","$1,200/m²",,,,1400.0,Land
+402,"Tuol Prech, Angk Snuol, Kandal","$9,999",,,,,Land
+403,Royal Park Condo,"$53,000",,,,,Condo
+404,"Bak Kaeng, Chroy Changvar, Phnom Penh","$250,000",3,3.0,,,Villa
+405,"Ta Kdol, Ta Khmau, Kandal","$120,000",,,,,House
+406,"Kandaek, Prasat Bakong, Siem Reap",$175/m²,,,,,Land
+407,"Kandaek, Prasat Bakong, Siem Reap",$122/m²,,,,,Land
+408,"Banteay Chhmar, Thma Puok, Banteay Meanchey",$13/m²,,,,,Land
+409,"Banteay Chhmar, Thma Puok, Banteay Meanchey",$6/m²,,,,94726.0,Land
+410,"Svay Rumpear, Kampong Leaeng, Kampong Chhnang",$25/m²,,,,,Land
+411,"Wat Phnom, Daun Penh, Phnom Penh","$800,000",5,6.0,,,House
+412,"Khmuonh, Sen Sok, Phnom Penh","$262,000",4,5.0,,,House
+413,"Chak Angrae Kraom, Meanchey, Phnom Penh","$190,000",5,4.0,,,House
+414,"Svay Chrum, Khsach Kandal, Kandal","$58,000",3,,,,House
+415,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$250,000",,,,,House
+416,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",2,2.0,,,House
+417,"Preaek Anhchanh, Mukh Kampul, Kandal","$55,000",2,3.0,,,House
+418,"Dangkao, Dangkao, Phnom Penh","$78,000",4,6.0,,,House
+419,"Preaek Ta Sek, Chroy Changvar, Phnom Penh","$255,000",4,5.0,,,Twin
+420,"Phsar Thmei II, Daun Penh, Phnom Penh","$495,000",,,,,House
+421,"Veang Chas, Odongk, Kampong Speu",$65/m²,,,,314200.0,Land
+422,"Kampong Trach Khang Lech, Kampong Trach, Kampot",$30/m²,,,,,Land
+423,"Nirouth, Chbar Ampov, Phnom Penh","$147,000",4,5.0,,,House
+424,"Kamboul, Por Sen Chey, Phnom Penh","$76,500",4,5.0,,,House
+425,"Por Sen Chey, Phnom Penh","$85,000",2,3.0,,,House
+426,"Boeung Salang, Toul Kork, Phnom Penh","$290,000",6,6.0,,,House
+427,"Boeung Salang, Toul Kork, Phnom Penh","$165,000",2,2.0,,,House
+428,"Sla Kram, Siem Reap, Siem Reap","$1,800,000",8,10.0,,,Shophouse
+429,"Kouk Chak, Siem Reap, Siem Reap","$985,000",30,,360,621.0,House
+430," Svay Dankum, Siem Reap, Siem Reap","$63,960",,,,492.0,Land
+431," Svay Dankum, Siem Reap, Siem Reap","$210,000",3,,,,House
+432," Svay Dankum, Siem Reap, Siem Reap","$249,000",3,3.0,,800.0,House
+433," Kandaek, Prasat Bakong, Siem Reap","$31,482",,,,594.0,Land
+434," Sla Kram, Siem Reap, Siem Reap",$100/m²,,,,2108.0,Land
+435," Chreav, Siem Reap, Siem Reap",$120/m²,,,,,Land
+436,"Kamboul, Por Sen Chey, Phnom Penh","$99,800",4,4.0,,,House
+437,"Chhveang, Ponhea Lueu, Kandal","$26,000",,,,200.0,Land
+438,"Preaek Kampues, Dangkao, Phnom Penh",$550/m²,,,,9000.0,Land
+439,"Chbar Ampov, Phnom Penh","$60,000",1,1.0,,,Condo
+440,"Ream, Prey Nob, Sihanoukville","$500,000",,,1000,1000.0,Land
+441,"Kien Sangkae, Sout Nikom, Siem Reap",$13/m²,,,9114,9114.0,Land
+442,"Ponsang, Prek Pnov, Phnom Penh",$160/m²,,,1400,1400.0,Land
+443,"Krang Thnong, Sen Sok, Phnom Penh","$180,000",,,196,196.0,Land
+444,"Chaom Chau, Por Sen Chey, Phnom Penh","$200,000",34,34.0,280,,House
+445,"Dangkao, Dangkao, Phnom Penh","$70,000",3,3.0,74,100.0,House
+446,"Kampong Luong, Ponhea Lueu, Kandal","$80,000",,,,192.0,Land
+447,"Kampong Luong, Ponhea Lueu, Kandal","$120,000",,,,378.0,Land
+448,"Amleang, Thpong, Kampong Speu","$130,000",,,,23800.0,Land
+449,"Amleang, Thpong, Kampong Speu",$25/m²,,,,4625.0,Land
+450,"Chakto Mukh, Daun Penh, Phnom Penh","$200,000",2,3.0,140,,House
+451,"Boeung Kak 2, Toul Kork, Phnom Penh","$186,000",1,2.0,55,,Shophouse
+452,"Veal Vong, 7 Makara, Phnom Penh","$165,000",2,1.0,,,Condo
+453,"Mkak, Angk Snuol, Kandal","$20,000",,,,200.0,Land
+454,"Stueng Mean chey, Meanchey, Phnom Penh","$249,000",4,5.0,80,96.0,House
+455,"Mean Chey, Odongk, Kampong Speu","$18,000",,,,,Land
+456,"Ruessei Chrouy, Mukh Kampul, Kandal","$540,000",,,,,Land
+457,"Takaen, Chhuk, Kampot",$4/m²,,,,,Land
+458,"Chan Saen, Odongk, Kampong Speu","$12,000",,,,,Land
+459,"Vihear Suork, Khsach Kandal, Kandal","$15,000",,,,,Land
+460,"Tuek L'ak 3, Toul Kork, Phnom Penh","$285,000",,,,,House
+461,"Phnom Penh, Phnom Penh","$56,000",4,5.0,,,House
+462,Royal Park Condo,"$73,000",1,1.0,,,Condo
+463,"Boeung Kak 2, Toul Kork, Phnom Penh",POA,1,1.0,,,CondoPOA
+464,Royal Park Condo,"$70,000",1,1.0,,,Condo
+465,"Koun Satv, Tuek Chhou, Kampot",$19/m²,,,,60000.0,Land
+466,"Koh Dach, Chroy Changvar, Phnom Penh","$170,000",,,,,Land
+467," Chrang Chamres I, Russey Keo, Phnom Penh","$210,000",4,5.0,69,118.0,Villa
+468,"Preah Srae, Odongk, Kampong Speu",$50/m²,,,,116622.0,Land
+469,"Stueng Mean chey, Meanchey, Phnom Penh","$88,000",,,259,259.0,Land
+470,"Kantaok, Por Sen Chey, Phnom Penh","$60,000",,,,190.0,Land
+471,"Boeung Tumpun, Meanchey, Phnom Penh","$480,000",1,2.0,,235.0,House
+472,"Preaek Kampues, Dangkao, Phnom Penh","$115,000",4,5.0,50,,House
+473,"Ou Baek K'am, Sen Sok, Phnom Penh","$670,000",6,4.0,135,210.0,House
+474,"Nirouth, Chbar Ampov, Phnom Penh","$380,000",4,5.0,73,184.0,Twin
+475,"Andoung Khmer, Kampot, Kampot","$29,000",,,,105.0,Land
+476,"Boeung Kak 2, Toul Kork, Phnom Penh","$140,000",3,2.0,64,,Condo
+477,"Prey Sa, Dangkao, Phnom Penh","$76,877",2,3.0,56,,House
+478,"Chrang Chamres 2, Russey Keo, Phnom Penh","$380,000",4,6.0,175,,House
+479,"Ampil Ta Pok, Ou Reang Ov, Tboung Khmum","$49,900",2,1.0,67,,House
+480,"Phsar Chas, Daun Penh, Phnom Penh","$85,000",1,1.0,68,,House
+481,"Veal Sbov, Chbar Ampov, Phnom Penh","$245,000",4,5.0,200,,Twin
+482,"Svay Rieng, Svay Rieng, Svay Rieng",$726/m²,,,,551.0,Land
+483,"Makprang, Tuek Chhou, Kampot",$12/m²,,,,10486.0,Land
+484,"Srae Chea Khang Tboung, Dang Tong, Kampot",$4/m²,,,,139534.0,Land
+485,De Castle Diamond Condominium,"$337,200",4,4.0,281,,Condo
+486,De Castle Diamond Condominium,"$365,300",4,4.0,281,,Condo
+487,De Castle Diamond Condominium,"$3,552,450",,,3230,,Condo
+488,De Castle Diamond Condominium,"$365,300",4,4.0,281,,Condo
+489,De Castle Diamond Condominium,"$337,200",4,4.0,281,,Condo
+490,De Castle Diamond Condominium,"$320,600",3,3.0,229,,Condo
+491,De Castle Diamond Condominium,"$274,800",3,3.0,229,,Condo
+492,De Castle Diamond Condominium,"$351,400",3,3.0,251,,Condo
+493,De Castle Diamond Condominium,"$326,300",3,3.0,251,,Condo
+494,De Castle Diamond Condominium,"$326,300",3,3.0,251,,Condo
+495,De Castle Diamond Condominium,"$351,400",3,3.0,251,,Condo
+496,De Castle Diamond Condominium,"$210,000",2,2.0,150,,Condo
+497,De Castle Diamond Condominium,"$210,000",2,2.0,150,,Condo
+498,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo
+499,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo
+500,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo
+501,"Kaoh Rung, Sihanoukville, Sihanoukville",$850/m²,,,8361,8361.0,Land
+502,"Boeung Tumpun, Meanchey, Phnom Penh","$140,000",4,5.0,,,House
+503,"Boeung Kak 1, Toul Kork, Phnom Penh","$95,000",2,,41,,Condo
+504,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",2,5.0,66,,House
+505,"Chakto Mukh, Daun Penh, Phnom Penh","$10,000/m²",,,15882,,Land
+506,"Preaek Aeng, Chbar Ampov, Phnom Penh","$290,000",4,4.0,413,,Villa
+507,"Kouk Roka, Prek Pnov, Phnom Penh","$180,000",4,5.0,,,House
+508,"Dei Edth, Kien Svay, Kandal","$1,300,000",,,,,House
+509,"Nirouth, Chbar Ampov, Phnom Penh","$230,000",4,5.0,203,,House
+510,"Kamboul, Por Sen Chey, Phnom Penh","$55,000",,,49,,House
+511,"Veal Vong, 7 Makara, Phnom Penh","$160,000",,,,,Apartment
+512,"Toul Kork, Phnom Penh","$980,000",,,144,,Villa
+513,"Svay Chrum, Khsach Kandal, Kandal","$55,000",,,80,,Villa
+514,"Tuek Thla, Sen Sok, Phnom Penh","$1,500,000",,,741,,House
+515,"Boeung Kak 1, Toul Kork, Phnom Penh","$175,000",,,48,,Shophouse
+516,"Preaek Pra, Chbar Ampov, Phnom Penh","$750,000",,,187,,House
+517,"Toul Kork, Phnom Penh","$600,000",,,108,,Villa
+518,"Siem Reap, Siem Reap","$65,000",,,59,,House
+519,"Dangkao, Phnom Penh","$105,000",,,50,,House
+520,"Nirouth, Chbar Ampov, Phnom Penh","$148,000",,,39,,Link
+521,"Chrang Chamres 2, Russey Keo, Phnom Penh","$193,000",,,69,,Link
+522,"Chaom Chau, Por Sen Chey, Phnom Penh","$69,000",,,,,Link
+523,"Preaek Aeng, Chbar Ampov, Phnom Penh","$195,000",,,264,,Villa
+524," Sla Kram, Siem Reap, Siem Reap","$320,000",6,8.0,,262.0,House
+525,"Sen Sok, Phnom Penh","$355,000",,,79,,Twin
+526,"Preaek Aeng, Chbar Ampov, Phnom Penh","$145,000",,,62,,House
+527,"Kouk Khleang, Sen Sok, Phnom Penh","$49,000",,,50,,House
+528,"Chaom Chau, Por Sen Chey, Phnom Penh","$30,000",,,,,House
+529,"Por Sen Chey, Phnom Penh","$168,000",,,66,,Shophouse
+530,"Chreav, Siem Reap, Siem Reap","$330,000",,,300,,Villa
+531,"Tuek Thla, Sen Sok, Phnom Penh","$110,000",,,50,,Condo
+532,"Por Sen Chey, Phnom Penh","$150,000",,,63,,Shophouse
+533,"Nirouth, Chbar Ampov, Phnom Penh","$155,000",,,,,Shophouse
+534,"Nirouth, Chbar Ampov, Phnom Penh","$130,000",,,42,,Shophouse
+535,"Veal Vong, 7 Makara, Phnom Penh","$125,000",1,1.0,47,,Flat
+536,"Kandal Stueng, Kandal","$45,000",,,2192,,Land
+537,"Nirouth, Chbar Ampov, Phnom Penh","$3,900,000",,,346,,Villa
+538,"Sla Kram, Siem Reap, Siem Reap","$250,000",,,384,,House
+539,"Dangkao, Phnom Penh","$86,000",,,64,,House
+540,"Dangkao, Phnom Penh","$80,000",,,64,,House
+541,"Dangkao, Phnom Penh","$235,000",,,64,,House
+542,"Samraong Kraom, Por Sen Chey, Phnom Penh","$97,880",,,200,,House
+543,"Lvea Aem, Kandal","$380,000",,,1500,,Land
+544,"Lvea Aem, Kandal","$280,000",,,1400,,Land
+545,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$240,000",,,147,,Twin
+546,"Krang Thnong, Sen Sok, Phnom Penh","$98,000",,,49,,Shophouse
+547,"Sala Kamraeuk, Siem Reap, Siem Reap","$76,000",,,280,,House
+548,"Por Sen Chey, Phnom Penh","$43,800",,,75,,House
+549,"Chrang Chamres I, Russey Keo, Phnom Penh","$179,000",,,,,House
+550,"Ta Khmao, Ta Khmau, Kandal","$750,000",,,622,,Villa
+551,"Phnom Penh, Phnom Penh","$31,980",,,43,,House
+552,"Prey Sa, Dangkao, Phnom Penh","$70,000",,,,,House
+553,"Svay Por, Battambang, Battambang","$180,000",,,99,,House
+554,"Khnar Pou, Sout Nikom, Siem Reap","$975,000",,,13,,Land
+555,"Ballangk, Prasat Bakong, Siem Reap","$5,300,000",,,53,,Land
+556,"Peak Sneng, Angkor Thum, Siem Reap","$250,000",,,25,,Land
+557,"Chrang Chamres 2, Russey Keo, Phnom Penh","$299,999",,,72,,Twin
+558,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$74,000",,,49,,Condo
+559,"Toul Kork, Phnom Penh","$54,000",,,,,Condo
+560,"Ta Khmao, Ta Khmau, Kandal","$108,000",,,180,,House
+561,"S'ang, Kandal","$90,000",,,200,,House
+562,"Sala Kamraeuk, Siem Reap, Siem Reap","$260,000",,,96,,House
+563,"Por Sen Chey, Phnom Penh","$59,500",,,49,,House
+564,"Ta Khmao, Ta Khmau, Kandal","$440,000",,,96,,Villa
+565,"Preaek Thmei, Chbar Ampov, Phnom Penh","$46,000",,,49,,House
+566,"Russey Keo, Phnom Penh","$75,500",,,52,,House
+567,"Por Sen Chey, Phnom Penh","$99,000",,,,,House
+568,"Toul Kork, Phnom Penh","$1,900,000",,,320,,Villa
+569,"Chaom Chau, Por Sen Chey, Phnom Penh","$45,000",,,32,,House
+570,"Kampot, Kampot","$6,500",,,629,,Land
+571,"Nirouth, Chbar Ampov, Phnom Penh","$1,399,000",,,144,,Villa
+572,"Olympic, Chamkarmon, Phnom Penh","$300,000",3,,127,,Condo
+573,"Boeung Tumpun, Meanchey, Phnom Penh","$63,000",1,1.0,47,,Condo
+574,"Khmuonh, Sen Sok, Phnom Penh","$600,000",,,300,,Villa
+575,"S'ang, Kandal","$33,000",,,33,,Shophouse
+576,"Chbar Ampov, Phnom Penh","$188,000",,,100,,Villa
+577,"Boeung Tumpun, Meanchey, Phnom Penh","$53,000",1,1.0,47,,Condo
+578,"Dangkao, Phnom Penh","$195,000",,,64,,House
+579,"Toul Kork, Phnom Penh","$350,000",,,70,,Shophouse
+580,"Dangkao, Phnom Penh","$145,000",,,50,,Shophouse
+581,"Odongk, Kampong Speu","$55,000",,,88,,Villa
+582,"Chreav, Siem Reap, Siem Reap","$38,500",,,,,House
+583,"Chak Angrae Kraom, Meanchey, Phnom Penh","$265,000",,,54,,House
+584,"Siem Reap, Siem Reap","$70,000",,,56,,House
+585,"Chaom Chau, Por Sen Chey, Phnom Penh","$67,000",,,,,Twin
+586,Urban Village Phase 1,"$120,000",2,1.0,53,,Condo
+587,"Chroy Changvar, Phnom Penh","$150,000",,,80,,Villa
+588,"Krang Thnong, Sen Sok, Phnom Penh","$230,000",,,66,,Shophouse
+589,"Preaek Pnov, Prek Pnov, Phnom Penh","$50,999",,,48,,House
+590,"Krang Thnong, Sen Sok, Phnom Penh","$56,880",,,50,,House
+591,"Sihanoukville, Sihanoukville","$200,000",,,154,,Villa
+592,"Prek Ho, Ta Khmau, Kandal","$600,000",,,324,,Villa
+593,"Kampot, Kampot","$800,000",,,800,,Land
+594,"Chak Angrae Kraom, Meanchey, Phnom Penh","$160,000",,,66,,House
+595,"Dangkao, Phnom Penh","$215,000",,,104,,Villa
+596,"Kampong Kraeng, Tuek Chhou, Kampot","$500,000",,,1115,,Land
+597,"Meanchey, Phnom Penh","$199,000",,,60,,House
+598,"Russey Keo, Phnom Penh","$210,000",,,72,,Villa
+599,"Kaoh Thum, Kandal","$9,500",,,900,,Land
+600,"Sangkat Muoy, Sihanoukville, Sihanoukville","$650,000",,,307,,Villa
+601,"Tumnob Tuek, Chamkarmon, Phnom Penh","$590,000",,,117,,Shophouse
+602,"Chaom Chau, Por Sen Chey, Phnom Penh","$92,000",,,42,,House
+603,"Boeung Tumpun, Meanchey, Phnom Penh","$65,000",,,48,,House
+604,"BKK 1, Chamkarmon, Phnom Penh","$175,000",,,50,,Studio
+605,"Dangkao, Phnom Penh","$52,000",,,54,,House
+606,"Sla Kram, Siem Reap, Siem Reap","$80,000",,,108,,House
+607,"Sla Kram, Siem Reap, Siem Reap","$135,000",,,78,,Shophouse
+608,"Ta Khmao, Ta Khmau, Kandal","$350,000",,,1380,,Land
+609,"Chreav, Siem Reap, Siem Reap","$29,500",,,61,,House
+610,"Chak Angrae Leu, Meanchey, Phnom Penh","$145,000",,,37,,House
+611,"Kamboul, Por Sen Chey, Phnom Penh","$45,000",,,69,,House
+612,"Tuek Thla, Sen Sok, Phnom Penh","$50,000",,,60,,Condo
+613,"Por Sen Chey, Phnom Penh","$180,000",,,64,,Shophouse
+614,"Chaom Chau, Por Sen Chey, Phnom Penh","$48,000",,,55,,House
+615,"Tuol Sangke, Russey Keo, Phnom Penh","$160,000",,,360,,Land
+616,"Tuek L'ak 3, Toul Kork, Phnom Penh","$830,000",,,76,,House
+617,"Tuol Sangke, Russey Keo, Phnom Penh","$188,000",,,66,,House
+618,"Dangkao, Phnom Penh","$750,000",,,336,,Shophouse
+619,"Kamboul, Por Sen Chey, Phnom Penh","$75,000",,,64,,House
+620,"Sen Sok, Phnom Penh","$67,000",,,57,,Condo
+621,"Dangkao, Phnom Penh","$65,000",,,49,,House
+622,"Boeng Kak 2, Toul Kork, Phnom Penh","$56,000",1,1.0,28,,Condo
+623,"Siem Reap, Siem Reap","$75,000",,,48,,House
+624,"Prey Nheat, Kong Pisei, Kampong Speu","$270,000",,,104,,Villa
+625,"Dangkao, Phnom Penh","$58,900",,,,,House
+626,"Poipet, Poipet, Banteay Meanchey","$160,000",,,84,,Villa
+627,"Tuol Sangke, Russey Keo, Phnom Penh","$105,333",,,66,,House
+628,"Preaek Lieb, Chroy Changvar, Phnom Penh","$148,000",,,48,,Villa
+629,"Sla Kram, Siem Reap, Siem Reap","$350,000",,,,,Apartment
+630,"Dangkao, Phnom Penh","$170,000",,,395,,Land
+631,"Chaom Chau, Por Sen Chey, Phnom Penh","$129,000",,,56,,House
+632,"Stueng Mean chey, Meanchey, Phnom Penh","$36,800",,,,,House
+633,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$100,000",,,,,House
+634,"Dangkao, Phnom Penh","$55,555",,,66,,House
+635,"Kamboul, Por Sen Chey, Phnom Penh","$42,500",,,50,,House
+636,"Toul Kork, Phnom Penh","$1,700,000",,,160,,Villa
+637,"Chrang Chamres 2, Russey Keo, Phnom Penh","$320,000",,,78,,Villa
+638,"Meanchey, Phnom Penh","$59,000",,,68,,House
+639,"Tuek L'ak 1, Toul Kork, Phnom Penh","$450,000",,,88,,House
+640,"Kouk Roka, Prek Pnov, Phnom Penh","$400,000",,,185,,Shophouse
+641,"Nirouth, Chbar Ampov, Phnom Penh","$200,000",,,270,,House
+642,"Krang Thnong, Sen Sok, Phnom Penh","$68,000",,,48,,House
+643,"Tuek Chhou, Kampot","$550,000",,,5,,Land
+644,"Lvea Aem, Kandal","$95,000",,,636,,Land
+645,"Tuek Chhou, Kampot","$28,000",,,300,,Land
+646,"Krang Thnong, Sen Sok, Phnom Penh","$390,000",,,600,,Land
+647,"Cheung Aek, Dangkao, Phnom Penh","$79,000",,,200,,Land
+648,"Stueng Mean chey, Meanchey, Phnom Penh","$210,000",,,240,,House
+649,"Sangkat Pir, Sihanoukville, Sihanoukville","$650,000",,,307,,Villa
+650,"Tuol Sangke, Russey Keo, Phnom Penh","$165,000",,,198,,House
+651,"Sla Kram, Siem Reap, Siem Reap","$64,000",,,60,,House
+652,"Chaom Chau, Por Sen Chey, Phnom Penh","$60,000",,,151,,Land
+653,"Kronhoung Saen Chey, Snuol, Kratie","$20,000",,,2,,Land
+654,"Nirouth, Chbar Ampov, Phnom Penh","$140,000",,,42,,Shophouse
+655,"Kakab 1, Por Sen Chey, Phnom Penh","$325,000",,,99,,Shophouse
+656,"Ou Baek K'am, Sen Sok, Phnom Penh","$205,000",,,56,,House
+657,"Toul Kork, Phnom Penh","$65,000",,,45,,Flat
+658,"Preaek Kampues, Dangkao, Phnom Penh","$150,000",,,600,,Land
+659,"Sangkat Bei, Sihanoukville, Sihanoukville","$320,000",,,200,,House
+660,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$270,000",,,72,,Twin
+661,"Por Sen Chey, Phnom Penh","$55,000",,,33,,House
+662,"Otdam Soriya, Tram Kak, Takeo","$75,000",,,2079,,Land
+663,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$315,000",,,72,,Twin
+664,"Svay Dankum, Siem Reap, Siem Reap","$135,000",,,80,,Shophouse
+665,"Nirouth, Chbar Ampov, Phnom Penh","$1,380,000",,,144,,Villa
+666,"Snaor, Por Sen Chey, Phnom Penh","$68,000",,,67,,Shophouse
+667,"Pong Tuek, Dangkao, Phnom Penh","$69,995",,,63,,House
+668,"Prey Sa, Dangkao, Phnom Penh","$135,000",,,66,,House
+669,"Boeung Tumpun, Meanchey, Phnom Penh","$155,000",,,120,,House
+670,"Ponhea Lueu, Kandal","$48,000",,,1253,,Land
+671,"Toul Kork, Phnom Penh","$179,999",,,75,,Condo
+672,"Phum Thum, Kien Svay, Kandal","$39,900",,,,,House
+673,"Dangkao, Phnom Penh","$47,500",,,50,,House
+674,"Dangkao, Phnom Penh","$75,000",,,67,,House
+675,"Nirouth, Chbar Ampov, Phnom Penh","$850,000",,,54,,House
+676,"Siem Reap, Siem Reap","$99,000",,,273,,House
+677,"Por Sen Chey, Phnom Penh","$120,000",,,64,,House
+678,"Sangkat Buon, Sihanoukville, Sihanoukville","$185,000",,,63,,Shophouse
+679,"Krang Thnong, Sen Sok, Phnom Penh","$68,000",,,,,House
+680,"Por Sen Chey, Phnom Penh","$280,000",,,72,,Twin
+681,"Nirouth, Chbar Ampov, Phnom Penh","$398,000",,,90,,Twin
+682,"Chrang Chamres 2, Russey Keo, Phnom Penh","$198,000",,,68,,House
+683,"Sen Sok, Phnom Penh","$95,000",,,75,,House
+684,"Preaek Lieb, Chroy Changvar, Phnom Penh","$299,000",,,72,,Twin
+685,"Tuek Chhou, Kampot","$123,888",,,,,House
+686,"Chreav, Siem Reap, Siem Reap","$120,000",,,85,,House
+687,"Chrang Chamres 2, Russey Keo, Phnom Penh","$755,000",,,169,,Villa
+688,"Stueng Mean chey, Meanchey, Phnom Penh","$155,000",,,56,,Shophouse
+689,"Boeung Tumpun, Meanchey, Phnom Penh","$850,000",,,100,,Villa
+690,"Tuol Sangke, Russey Keo, Phnom Penh","$270,000",,,67,,House
+691,"Nirouth, Chbar Ampov, Phnom Penh","$400,000",,,90,,Twin
+692,"Svay Dankum, Siem Reap, Siem Reap","$265,000",,,192,,House
+693,"Krang Thnong, Sen Sok, Phnom Penh","$245,000",,,73,,Twin
+694,"Ta Khmau, Kandal","$375,000",,,128,,Villa
+695,"Kouk Khleang, Sen Sok, Phnom Penh","$198,000",,,82,,House
+696,"Chaom Chau, Por Sen Chey, Phnom Penh","$49,666",,,,,House
+697,"Dangkao, Phnom Penh","$278,000",,,72,,Twin
+698,"Tuek Thla, Sen Sok, Phnom Penh","$329,000",,,66,,Villa
+699,"Veal Vong, 7 Makara, Phnom Penh","$300,000",,,126,,Condo
+700,Urban Village Phase 1,"$120,000",,,70,,Condo
+701,"Preaek Lieb, Chroy Changvar, Phnom Penh","$200,000",,,75,,Shophouse
+702,"Nirouth, Chbar Ampov, Phnom Penh","$275,000",,,50,,Shophouse
+703,"Chak Angrae Kraom, Meanchey, Phnom Penh","$285,000",,,54,,Shophouse
+704,"Preaek Aeng, Chbar Ampov, Phnom Penh","$225,000",,,72,,Twin
+705,"Kamboul, Por Sen Chey, Phnom Penh","$68,000",,,104,,Villa
+706,"Kouk Roka, Prek Pnov, Phnom Penh","$189,800",,,67,,House
+707,"Khmuonh, Sen Sok, Phnom Penh","$460,000",,,146,,House
+708,"Chak Angrae Kraom, Meanchey, Phnom Penh","$420,000",,,72,,Twin
+709,"Chey Chumneah, Daun Penh, Phnom Penh","$450,000",,,78,,House
+710,"Boeung Tumpun, Meanchey, Phnom Penh","$160,000",,,209,,Land
+711,"Chaom Chau, Por Sen Chey, Phnom Penh","$57,999",,,80,,House
+712,"Chaom Chau, Por Sen Chey, Phnom Penh","$98,000",,,66,,Shophouse
+713,"Sala Kamraeuk, Siem Reap, Siem Reap","$95,000",,,61,,House
+714,"Stueng Mean chey, Meanchey, Phnom Penh","$125,000",,,67,,Shophouse
+715,"Chaom Chau, Por Sen Chey, Phnom Penh","$245,000",,,72,,Twin
+716,"Ta Khmao, Ta Khmau, Kandal","$155,880",,,73,,House
+717,"Preaek Aeng, Chbar Ampov, Phnom Penh","$245,000",,,,,Villa
+718,"Phsar Thmei II, Daun Penh, Phnom Penh","$455,000",,,65,,Shophouse
+719,"Ponhea Lueu, Kandal","$48,000",,,1253,,Land
+720,"Ou Baek K'am, Sen Sok, Phnom Penh","$310,000",,,70,,House
+721,"Nirouth, Chbar Ampov, Phnom Penh","$265,000",,,72,,Twin
+722,"Svay Dankum, Siem Reap, Siem Reap","$95,000",,,55,,House
+723,"Preaek Aeng, Chbar Ampov, Phnom Penh","$225,000",,,72,,Twin
+724,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$36,000",,,210,,Land
+725,"Snay Anhchet, Chum Kiri, Kampot","$22,000",,,3174,,Land
+726,"Kilomaetr Lekh Prammuoy, Russey Keo, Phnom Penh","$265,000",,,72,,Twin
+727,"Dangkao, Phnom Penh","$88,000",,,64,,House
+728,"Krang Thnong, Sen Sok, Phnom Penh","$152,000",,,210,,Land
+729,"Samraong Thum, Kien Svay, Kandal","$75,000",,,,,House
+730,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$85,000",,,570,,Land
+731,"Prey Veaeng, Dangkao, Phnom Penh","$18,000",,,82,,Land
+732,"Ta Khmao, Ta Khmau, Kandal","$129,000",,,66,,House
+733,"Nirouth, Chbar Ampov, Phnom Penh","$235,000",,,255,,House
+734,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$185,000",,,49,,Villa
+735,"Kracheh, Kratie","$18,000",,,2,,Land
+736,"Chaom Chau, Por Sen Chey, Phnom Penh","$168,000",,,100,,Shophouse
+737,"Bakong, Prasat Bakong, Siem Reap",$98/m²,,,,,Land
+738,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,000/m²",3,4.0,192,348.0,Villa
+739," Monourom, 7 Makara, Phnom Penh","$37,500",1,1.0,,,Apartment
+740," Chroy Changvar, Chroy Changvar, Phnom Penh","$1,419,760",4,4.0,354,,Condo
+741," Phnom Touch, Odongk, Kampong Speu","$120,000",,,,4797.0,Land
+742," BKK 1, Chamkarmon, Phnom Penh","$95,000",1,1.0,61,,Apartment
+743," Olympic, Chamkarmon, Phnom Penh","$47,000",1,1.0,45,,Condo
+744,"Khmuonh, Sen Sok, Phnom Penh","$190,000",4,5.0,76,100.0,Flat
+745," Chroy Changvar, Chroy Changvar, Phnom Penh","$1,150,000",5,5.0,228,450.0,Villa
+746,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$275,000",4,5.0,,,Link
+747," Prek Ho, Ta Khmau, Kandal","$1,600,000",,,,1495.0,Land
+748," Tonle Bassac, Chamkarmon, Phnom Penh","$80,000",1,1.0,49,49.0,Condo
+749," Svay Dankum, Siem Reap, Siem Reap","$352,080",,,,,Land
+750," Nirouth, Chbar Ampov, Phnom Penh",$850,4,5.0,120,320.0,Villa
+751," Sangkat Buon, Sihanoukville, Sihanoukville","$180,000",6,7.0,243,89.0,Shophouse
+752,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,600,000",5,5.0,453,560.0,Villa
+753," Sangkat Buon, Sihanoukville, Sihanoukville","$90,000",,,,200.0,Land
+754," Sangkat Bei, Sihanoukville, Sihanoukville","$88,000",1,1.0,44,,Condo
+755,"ផ្លូវបេតុង , Bakong, Prasat Bakong, Siem Reap","$22,000",,,,,Land
+756,"76 ផ្លូវជាតិ៧៦, Pir Thnu, Snuol, Kratie","$45,200",,,,,Land
+757," Prey Sa, Dangkao, Phnom Penh","$210,000",4,5.0,,542.0,House
+758,"Boeung Tumpun, Meanchey, Phnom Penh","$158,000",5,6.0,166,245.0,House
+759," Sangkat Bei, Sihanoukville, Sihanoukville","$61,200",1,1.0,36,,Apartment
+760,"Nirouth, Chbar Ampov, Phnom Penh","$210,000",4,4.0,,,House
+761," Sangkat Bei, Sihanoukville, Sihanoukville","$1,850/m²",10,11.0,,586.0,House
+762,"St 240, Boeng Reang, Daun Penh, Phnom Penh","$250,000",,2.0,,128.0,Apartment
+763," Tonle Bassac, Chamkarmon, Phnom Penh","$220,000",1,1.0,59,84.0,Condo
+764,"krang Thnong 2011, Krang Thnong, Sen Sok, Phnom Penh","$350,000",4,4.0,,240.0,Link
+765," Preaek Kampues, Dangkao, Phnom Penh","$64,500",4,5.0,,56.0,Flat
+766," Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$189,000",8,9.0,,134.0,Flat
+767," Sangkat Buon, Sihanoukville, Sihanoukville","$1,100/m²",,,,,Land
+768," Tuek Thla, Sen Sok, Phnom Penh","$185,000",2,2.0,95,,Condo
+769," Boeung Trabek, Chamkarmon, Phnom Penh","$800,000",4,6.0,448,420.0,Villa
+770," Prey Thnang, Tuek Chhou, Kampot","$315,000$157,500SAVE50.00%",4,4.0,303,720.0,Villa
+771," Nirouth, Chbar Ampov, Phnom Penh","$1,250,000",7,9.0,,538.0,Villa
+772,"Nirouth, Chbar Ampov, Phnom Penh","$1,100,000",5,6.0,300,450.0,Villa
+773," Cheung Aek, Dangkao, Phnom Penh","$380,000",5,6.0,270,220.0,Twin
+774," Boeung Tumpun, Meanchey, Phnom Penh","$1,200,000",8,9.0,459,92.0,Shophouse
+775," Tonle Bassac, Chamkarmon, Phnom Penh","$228,000",2,1.0,93,63.0,Condo
+776," Tonle Bassac, Chamkarmon, Phnom Penh","$124,500",,,,,Condo
+777,"Boeung Kak 2, Toul Kork, Phnom Penh","$58,000",1,1.0,24,,Condo
+778," BKK 3, Chamkarmon, Phnom Penh","$105,000",2,2.0,84,,Condo
+779," Boeung Tumpun, Meanchey, Phnom Penh","$100,000",2,2.0,90,,Condo
+780," Sangkat Pir, Sihanoukville, Sihanoukville",$380/m²,,,,478.0,Land
+781," Boeng Reang, Daun Penh, Phnom Penh","$80,000",1,1.0,47,38.0,Condo
+782," Chroy Changvar, Chroy Changvar, Phnom Penh","$68,000",1,1.0,84,63.0,Condo
+783," Tonle Bassac, Chamkarmon, Phnom Penh","$300,000",3,2.0,127,,Condo
+784," Ou Baek K'am, Sen Sok, Phnom Penh","$185,000",2,2.0,9523,,Condo
+785," Pak Khlang, Mondol Seima, Koh Kong","$2,100,000",,,,6420.0,Land
+786,"Nirouth, Chbar Ampov, Phnom Penh","$1,200,000",6,7.0,,,Villa
+787," Cheung Aek, Dangkao, Phnom Penh","$120,000",3,4.0,165,280.0,Villa
+788,"Nirouth, Chbar Ampov, Phnom Penh","$1,400,000",5,6.0,,,Villa
+789,"Preaek Kampues, Dangkao, Phnom Penh","$64,500",4,5.0,49,56.0,House
+790," Sangkat Muoy, Sihanoukville, Sihanoukville","$128,000",5,6.0,192,72.0,Shophouse
+791,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$2,020,000",6,7.0,,,Villa
+792,"Svay Dankum, Siem Reap, Siem Reap","$89,000",,,,,Land
+793,"លំ , Thmei, Tuek Chhou, Kampot","$900,000",,,,150000.0,Land
+794,"Chreav, Siem Reap, Siem Reap","$60,000",,,,420.0,Land
+795,"Sangkat Bei, Sihanoukville, Sihanoukville","$60,000",1,1.0,25,25.0,Condo
+796," Boeung Tumpun, Meanchey, Phnom Penh","$51,000",1,1.0,56,,Condo
+797," Tonle Bassac, Chamkarmon, Phnom Penh","$340,000",3,2.0,160,170.0,Condo
+798,"Sla Kram, Siem Reap, Siem Reap","$160,000",2,2.0,,,House
+799," Tonle Bassac, Chamkarmon, Phnom Penh","$338,000",3,2.0,127,,Condo
+800," Sangkat Buon, Sihanoukville, Sihanoukville",POA,,,,634.0,LandPOA
+801,"NR-3 , L'ang, Dang Tong, Kampot","$3,000,000",,,,34086.0,Land
+802,"7NG , Preaek Ampil, Khsach Kandal, Kandal","$35,500",2,2.0,105,105.0,Link
+803," Ou, Phnum Sruoch, Kampong Speu",$75/m²,,,,,Land
+804," Sala Kamraeuk, Siem Reap, Siem Reap","$700,000",21,21.0,,512.0,Apartment
+805,"7NG , Preaek Ampil, Khsach Kandal, Kandal","$35,500",2,2.0,105,105.0,Link
+806," Boeung Trabek, Chamkarmon, Phnom Penh","$650,000",4,4.0,300,125.0,Shophouse
+807," Chroy Changvar, Chroy Changvar, Phnom Penh","$58,000",1,1.0,50,,Condo
+808," Tonle Bassac, Chamkarmon, Phnom Penh","$340,000",3,3.0,156,156.0,Condo
+809,"Lum 201, Kampong Samnanh, Ta Khmau, Kandal","$300,000",5,5.0,,,House
+810," Chak Angrae Leu, Meanchey, Phnom Penh","$80,000",1,1.0,,,Condo
+811," Tonle Bassac, Chamkarmon, Phnom Penh","$250,000",2,2.0,,,Condo
+812," Chak Angrae Leu, Meanchey, Phnom Penh","$105,000",2,2.0,,,Condo
+813," Tonle Bassac, Chamkarmon, Phnom Penh","$7,960,000",3,3.0,,,Condo
+814," Tonle Bassac, Chamkarmon, Phnom Penh","$442,300",2,2.0,,,Condo
+815," Tonle Bassac, Chamkarmon, Phnom Penh","$323,900",2,2.0,,,Condo
+816," Tonle Bassac, Chamkarmon, Phnom Penh","$166,858",1,1.0,,,Condo
+817," Svay Dankum, Siem Reap, Siem Reap","$369,600",,,,1056.0,Land
+818," Phnom Penh Thmey, Sen Sok, Phnom Penh","$750,000",6,7.0,324,115.0,Shophouse
+819," Tonle Bassac, Chamkarmon, Phnom Penh","$115,000",1,1.0,,,Condo
+820," Prey Sa, Dangkao, Phnom Penh","$880,000",6,8.0,507,448.0,Villa
+821," Preaek Lieb, Chroy Changvar, Phnom Penh","$550,000",5,7.0,324,322.0,Villa
+822," Preaek Lieb, Chroy Changvar, Phnom Penh","$170,000",5,4.0,,110.0,House
+823," Chrang Chamres I, Russey Keo, Phnom Penh","$650,000",5,7.0,324,352.0,Villa
+824," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$790,000",7,6.0,200,150.0,Flat
+825," Chak Angrae Leu, Meanchey, Phnom Penh","$860,000",5,7.0,324,322.0,Villa
+826," Preaek Lieb, Chroy Changvar, Phnom Penh","$750,000",5,7.0,488,391.0,Villa
+827,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$850,000",9,9.0,,,Shophouse
+828," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,300,000",8,7.0,189,456.0,Villa
+829," Tonle Bassac, Chamkarmon, Phnom Penh","$118,000",1,1.0,52,,Condo
+830," Boeung Kak 1, Toul Kork, Phnom Penh","$58,000",1,1.0,38,,Apartment
+831,"Sangkat Muoy, Sihanoukville, Sihanoukville","$60,000",1,1.0,32,32.0,Condo
+832," Tonle Bassac, Chamkarmon, Phnom Penh","$55,000",1,1.0,40,,Condo
+833," Sangkat Bei, Sihanoukville, Sihanoukville","$110,000",1,1.0,48,,Apartment
+834," Tonle Bassac, Chamkarmon, Phnom Penh","$76,800",1,1.0,46,,Condo
+835,"Tumnob Tuek, Chamkarmon, Phnom Penh","$580,000",,,,189.0,Land
+836,"Boeung Trabek, Chamkarmon, Phnom Penh","$37,000",1,1.0,38,,Condo
+837," Chroy Changvar, Chroy Changvar, Phnom Penh","$141,900",1,1.0,35,,Condo
+838," Chrang Chamres 2, Russey Keo, Phnom Penh","$900,000",6,7.0,546,426.0,Villa
+839,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$55,000",1,1.0,46,,Condo
+840," Chreav, Siem Reap, Siem Reap","$270,000",3,4.0,,,House
+841,"BKK 1, Chamkarmon, Phnom Penh","$700,000",2,2.0,105,105.0,Shophouse
+842,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$1,600,000",,,,,Land
+843,"Nirouth, Chbar Ampov, Phnom Penh","$220,000",4,5.0,40,81.0,House
+844," Svay Dankum, Siem Reap, Siem Reap","$330,000",6,6.0,,,House
+845,"Phsar Kandal I, Daun Penh, Phnom Penh","$150,000$100,000SAVE33.33%",2,2.0,120,,Apartment
+846,"Kaoh Sdach, Kiri Sakor, Koh Kong","$250,000",3,4.0,252,,Villa
+847,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,260,000",,,,450.0,Land
+848,"BKK 1, Chamkarmon, Phnom Penh","$183,000",1,1.0,53,,Condo
+849,"BKK 1, Chamkarmon, Phnom Penh","$99,000",1,1.0,30,,Condo
+850," Krang Thnong, Sen Sok, Phnom Penh","$35,000",1,1.0,,57.0,Flat
+851,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$360,000",3,3.0,,151.0,Flat
+852,"Boeung Kak 2, Toul Kork, Phnom Penh","$300,000",5,4.0,144,75.0,Flat
+853," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$250,000",4,5.0,256,64.0,Flat
+854," Phnom Penh Thmey, Sen Sok, Phnom Penh","$110,000",6,7.0,,64.0,Flat
+855," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$280,000",7,8.0,256,64.0,Flat
+856,"Andoung Khmer, Kampot, Kampot","$175,000",2,3.0,,,House
+857,"Chroy Changvar, Chroy Changvar, Phnom Penh","$600,000",,,,350.0,House
+858,"Boeung Kak 1, Toul Kork, Phnom Penh","$2,200,000",9,7.0,,500.0,Villa
+859,"Phsar Kandal II, Daun Penh, Phnom Penh","$141,000",2,2.0,128,,Apartment
+860,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$220,000",3,4.0,80,312.0,Villa
+861,"Kakap, Por Sen Chey, Phnom Penh","$260,000",4,4.0,180,308.0,Villa
+862,"Chak Angrae Leu, Meanchey, Phnom Penh","$110,000$75,000SAVE31.82%",1,2.0,52,,Condo
+863,"BKK 2, Chamkarmon, Phnom Penh","$350,000",2,2.0,82,82.0,Land
+864," Preaek Lieb, Chroy Changvar, Phnom Penh","$490,000",6,8.0,,366.0,Shophouse
+865," Preaek Lieb, Chroy Changvar, Phnom Penh","$170,000",1,1.0,,143.0,House
+866," Preaek Koy, S'ang, Kandal","$74,850",,,,2994.0,Land
+867," Preaek Lieb, Chroy Changvar, Phnom Penh","$195,000",3,4.0,,98.0,Link
+868," Chrang Chamres I, Russey Keo, Phnom Penh","$6,820,000",,,,3410.0,Land
+869," BKK 3, Chamkarmon, Phnom Penh","$200,000",5,4.0,50,172.0,Flat
+870," Phnom Penh Thmey, Sen Sok, Phnom Penh","$300,000",4,5.0,,92.0,Flat
+871," Phnom Penh Thmey, Sen Sok, Phnom Penh","$580,000",9,3.0,,108.0,Shophouse
+872,"Srah Chak, Daun Penh, Phnom Penh","$1,700,000",2,3.0,,330.0,Villa
+873,"Tumnob Tuek, Chamkarmon, Phnom Penh","$6,600/m²",,,,180.0,Land
+874,"Tumnob Tuek, Chamkarmon, Phnom Penh","$3,500/m²",,,,578.0,Land
+875,"Preaek Aeng, Chbar Ampov, Phnom Penh","$158,000",4,5.0,,,Apartment
+876,"Preaek Aeng, Chbar Ampov, Phnom Penh","$78,000",2,3.0,,68.0,Apartment
+877,"Tonle Bassac, Chamkarmon, Phnom Penh","$12,008,000",,,,1501.0,Land
+878," Run Ta Aek, Banteay Srei, Siem Reap",$52/m²,,,,,Land
+879," Siem Reap, Siem Reap, Siem Reap","$100,000",,,,,Land
+880,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,300,000",8,7.0,,456.0,Villa
+881," Boeung Kak 2, Toul Kork, Phnom Penh","$65,000",1,1.0,33,,Condo
+882," Boeng Reang, Daun Penh, Phnom Penh","$3,060,000",8,9.0,,425.0,Villa
+883," Tonle Bassac, Chamkarmon, Phnom Penh","$2,200,000",1,1.0,,825.0,Villa
+884," Kep, Kep, Kep","$2,000,000",25,,,4000.0,Villa
+885," Traeuy Kaoh, Kampot, Kampot","$600,000",9,11.0,,2500.0,Villa
+886," Phnom Penh Thmey, Sen Sok, Phnom Penh","$115,000",1,1.0,62,,Condo
+887," Preaek Anhchanh, Mukh Kampul, Kandal","$59,000",2,3.0,,81.0,Flat
+888," Chroy Changvar, Chroy Changvar, Phnom Penh","$800,000",7,7.0,,360.0,Villa
+889," BKK 3, Chamkarmon, Phnom Penh","$550,000",7,7.0,,132.0,House
+890," Prey Sa, Dangkao, Phnom Penh","$125,000",4,5.0,,70.0,Link
+891,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$1,500,000",6,7.0,,,House
+892," Phnom Penh Thmey, Sen Sok, Phnom Penh","$60,000",2,2.0,40,,Condo
+893,"BKK 1, Chamkarmon, Phnom Penh","$80,000",1,1.0,30,37.0,Condo
+894," Chaom Chau 1, Por Sen Chey, Phnom Penh","$135,000",5,6.0,,135000.0,Flat
+895,"Chey Chumneah, Daun Penh, Phnom Penh","$650,000",8,7.0,,,Flat
+896," Chaom Chau 1, Por Sen Chey, Phnom Penh","$135,000",4,5.0,,67.0,Flat
+897,"Wat Phnom, Daun Penh, Phnom Penh","$200,000",2,2.0,,165.0,Flat
+898," Tuol Sangkae 2, Russey Keo, Phnom Penh","$650,000",1,1.0,112,,House
+899," Boeung Kak 1, Toul Kork, Phnom Penh","$95,000$85,000SAVE10.53%",2,1.0,54,,Condo
+900," Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$99,900",4,5.0,,175.0,Shophouse
+901," Akreiy Ksatr, Lvea Aem, Kandal","$39,500",2,2.0,,50.0,Flat
+902," Preaek Lieb, Chroy Changvar, Phnom Penh","$450,000",4,6.0,336,276.0,Villa
+903,"Boeung Kak 1, Toul Kork, Phnom Penh","$3,500/m²",,,,1320.0,Land
+904," Nirouth, Chbar Ampov, Phnom Penh","$175,000",4,5.0,,85.0,Link
+905,"Tuol Sangkae 1, Russey Keo, Phnom Penh","$538,000",5,6.0,,368.0,Villa
+906,"Veal Sbov, Chbar Ampov, Phnom Penh","$295,000",4,5.0,,72.0,Twin
+907,"Boeung Prolit, 7 Makara, Phnom Penh","$480,000",2,2.0,,90.0,Flat
+908," Preaek Lieb, Chroy Changvar, Phnom Penh","$330,000",4,5.0,234,178.0,Twin
+909," Preaek Lieb, Chroy Changvar, Phnom Penh","$690,000",5,6.0,468,420.0,Villa
+910," Sangkat Bei, Sihanoukville, Sihanoukville","$380,000",4,5.0,,120.0,Shophouse
+911,"Boeung Kak 1, Toul Kork, Phnom Penh","$3,500,000",15,15.0,,729.0,Villa
+912," Mittapheap, 7 Makara, Phnom Penh","$180,000",3,3.0,,,Apartment
+913," Olympic, Chamkarmon, Phnom Penh","$50,000",1,1.0,45,,Condo
+914," Boeung Kak 1, Toul Kork, Phnom Penh","$600,000",3,4.0,333,,Condo
+915," Preaek Lieb, Chroy Changvar, Phnom Penh","$95,000",2,2.0,71,,Condo
+916," Chak Angrae Kraom, Meanchey, Phnom Penh","$9,504,000",,,,3520.0,Land
+917," Chrang Chamres 2, Russey Keo, Phnom Penh","$750,000",,,,,Shophouse
+918," Sangkat Bei, Sihanoukville, Sihanoukville","$1,400,000",24,24.0,,263.0,Apartment
+919,"Nirouth, Chbar Ampov, Phnom Penh","$400,000",5,7.0,270,250.0,Twin
+920," Tonle Bassac, Chamkarmon, Phnom Penh","$303,000",3,2.0,119,,Apartment
+921," Sala Kamraeuk, Siem Reap, Siem Reap","$130,000",2,3.0,,,House
+922," Sala Kamraeuk, Siem Reap, Siem Reap","$129,000",6,4.0,,,House
+923," Chroy Changvar, Chroy Changvar, Phnom Penh","$190,000",3,4.0,152,,Condo
+924," Phnom Penh Thmey, Sen Sok, Phnom Penh","$390,000",4,5.0,,,Twin
+925," Svay Dankum, Siem Reap, Siem Reap","$280,000",5,4.0,,,House
+926,"Phsar Kandal II, Daun Penh, Phnom Penh","$250,000",5,3.0,,,Flat
+927," Phnom Penh Thmey, Sen Sok, Phnom Penh","$320,000",4,6.0,,157.0,Twin
+928,"Phsar Kandal I, Daun Penh, Phnom Penh","$1,500,000",2,2.0,,74.0,Shophouse
+929,"Phsar Kandal I, Daun Penh, Phnom Penh","$2,800,000",6,11.0,,126.0,House
+930," Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,500,000",6,8.0,,438.0,Villa
+931," Phnom Penh Thmey, Sen Sok, Phnom Penh","$350,000",4,6.0,,157.0,Twin
+932," Phnom Penh Thmey, Sen Sok, Phnom Penh","$300,000",4,5.0,,157.0,Twin
+933,"Chroy Changvar, Chroy Changvar, Phnom Penh","$160,315",1,1.0,75,,Apartment
+934,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$2,200,000",6,7.0,,475.0,Villa
+935," Phsar Kandal I, Daun Penh, Phnom Penh","$200,000",2,2.0,70,,Apartment
+936," Dangkao, Dangkao, Phnom Penh","$169,000",3,5.0,227,99.0,Shophouse
+937,"Tonle Bassac, Chamkarmon, Phnom Penh","$550,604",3,3.0,288,,Condo
+938," Dangkao, Dangkao, Phnom Penh","$249,000",4,5.0,287,185.0,Twin
+939," Tonle Bassac, Chamkarmon, Phnom Penh","$130,000",1,1.0,53,,Condo
+940," Svay Dankum, Siem Reap, Siem Reap","$634,950",,,,,Land
+941,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$2,000,000",,4.0,,,Apartment
+942," Svay Dankum, Siem Reap, Siem Reap","$190,000",2,3.0,,,House
+943,"Phsar Thmei III, Daun Penh, Phnom Penh","$790,000",2,3.0,,107.0,Shophouse
+944," Svay Dankum, Siem Reap, Siem Reap","$850,000",2,3.0,,,House
+945," Boeung Kak 1, Toul Kork, Phnom Penh","$76,200",1,1.0,40,,Condo
+946," Boeung Kak 1, Toul Kork, Phnom Penh","$68,200",1,,43,,Condo
+947," Boeung Tumpun, Meanchey, Phnom Penh","$550,000",10,11.0,,87.0,Shophouse
+948,"BKK 3, Chamkarmon, Phnom Penh","$150,693",2,1.0,72,,Condo
+949,"Anlong Romiet, Kandal Stueng, Kandal","$69,000",4,5.0,,200.0,House
+950,"BKK 3, Chamkarmon, Phnom Penh","$103,730",1,1.0,57,,Condo
+951," Nirouth, Chbar Ampov, Phnom Penh","$255,000",4,5.0,,68.0,Shophouse
+952," Kampong Kraeng, Tuek Chhou, Kampot","$1,800,000",,,,6645.0,Land
+953," Chak Angrae Leu, Meanchey, Phnom Penh","$480,000",4,4.0,260,,Condo
+954,"Chakto Mukh, Daun Penh, Phnom Penh","$42,000",2,1.0,88,,Flat
+955,"Phsar Thmei I, Daun Penh, Phnom Penh","$850,000",6,8.0,113,,Shophouse
+956," Tuol Sangkae 1, Russey Keo, Phnom Penh","$82,000",1,1.0,67,,Condo
+957,"BKK 2, Chamkarmon, Phnom Penh","$53,000",1,1.0,35,,Condo
+958," Chrang Chamres 2, Russey Keo, Phnom Penh","$140,000",3,4.0,,60.0,Link
+959," Sala Kamraeuk, Siem Reap, Siem Reap",$450/m²,,,,,Land
+960," Chroy Changvar, Chroy Changvar, Phnom Penh","$8,455,200",1,1.0,,3523.0,Villa
+961,"Chaom Chau, Por Sen Chey, Phnom Penh","$2,900,000",7,10.0,200,844.0,Villa
+962,"214 , Boeng Reang, Daun Penh, Phnom Penh","$95,000",,1.0,38,,Condo
+963," Tonle Bassac, Chamkarmon, Phnom Penh",$450,1,1.0,,,Apartment
+964," Svay Dankum, Siem Reap, Siem Reap","$800,000",3,3.0,,,Land
+965," Tonle Bassac, Chamkarmon, Phnom Penh","$409,217",,,,,Condo
+966," Tonle Bassac, Chamkarmon, Phnom Penh","$150,172",,,,,Condo
+967," Tonle Bassac, Chamkarmon, Phnom Penh","$442,300",,,,,Condo
+968," Sala Kamraeuk, Siem Reap, Siem Reap","$1,160,000",,,,,Land
+969,"Boeung Trabek, Chamkarmon, Phnom Penh","$8,496,000",,,,708.0,Land
+970,"Svay Dankum, Siem Reap, Siem Reap","$612,000",,,,3060.0,Land
+971,"Chey Chumneah, Daun Penh, Phnom Penh","$917,000",3,2.0,,131.0,Apartment
+972,"Chey Chumneah, Daun Penh, Phnom Penh","$1,500,000",4,5.0,108,141.0,Shophouse
+973,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",4,6.0,,118.0,Shophouse
+974,"Chey Chumneah, Daun Penh, Phnom Penh","$650,000",,,,100.0,Shophouse
+975,"Chey Chumneah, Daun Penh, Phnom Penh","$580,000",3,6.0,,68.0,Flat
+976,"Phsar Chas, Daun Penh, Phnom Penh","$450,000",3,3.0,151,151.0,Shophouse
+977," BKK 1, Chamkarmon, Phnom Penh","$125,000",1,1.0,89,,Condo
+978," Chreav, Siem Reap, Siem Reap","$150,000",3,4.0,,,House
+979,"Chay Stueng Chay Stueng, Kampong Seila, Kampong Seila, Sihanoukville","$292,050",4,5.0,,1239.0,Villa
+980," Chey Chumneah, Daun Penh, Phnom Penh","$700,000",5,3.0,400,100.0,Flat
+981,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,400,000",,,,280.0,Land
+982," BKK 3, Chamkarmon, Phnom Penh",$450,,,,,Condo
+983," Kouk Roka, Prek Pnov, Phnom Penh","$50,000",2,3.0,,49.0,Flat
+984,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,500,000",,,,442.0,Land
+985," Tumnob Tuek, Chamkarmon, Phnom Penh","$230,000",3,4.0,,72.0,Shophouse
+986," Pong Tuek, Dangkao, Phnom Penh","$90,000",4,5.0,,79.0,Flat
+987,"Stueng Mean chey 1, Meanchey, Phnom Penh","$1,200,000",,,,1804.0,Land
+988," Chrang Chamres 2, Russey Keo, Phnom Penh","$280,000",5,6.0,,92.0,Shophouse
+989," Krang Thnong, Sen Sok, Phnom Penh","$110,000",2,3.0,,90.0,Link
+990," Boeung Kak 1, Toul Kork, Phnom Penh","$260,000",2,3.0,,87.0,Flat
+991," Veal Vong, 7 Makara, Phnom Penh","$280,000",1,1.0,,88.0,Shophouse
+992," Tuol Sangke, Russey Keo, Phnom Penh","$250,000",4,5.0,,148.0,Flat
+993,"Tuek L'ak 1, Toul Kork, Phnom Penh","$260,000",,,,271.0,Land
+994," Chaom Chau 3, Por Sen Chey, Phnom Penh","$98,000",3,3.0,,98.0,Link
+995," Kakab 1, Por Sen Chey, Phnom Penh","$120,000",5,6.0,,102.0,Flat
+996," Ta Khmao, Ta Khmau, Kandal","$47,000",2,3.0,,77.0,Flat
+997," Khmuonh, Sen Sok, Phnom Penh","$255,000",4,5.0,,160.0,Twin
+998," Svay Dankum, Siem Reap, Siem Reap","$1,054,000",1,1.0,,1054.0,House
+999,"Phsar Thmei III, Daun Penh, Phnom Penh","$700,000",4,5.0,,,Shophouse
