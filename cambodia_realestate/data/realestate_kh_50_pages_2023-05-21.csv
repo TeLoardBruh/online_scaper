@@ -1,0 +1,2001 @@
+,location,price,bedrooms,bathrooms,floors,lands,realestate_category,type
+0,"Chey Chumneah, Daun Penh, Phnom Penh","$52,000",1,1.0,35,,Apartment,buy
+1,"Preaek Lieb, Chroy Changvar, Phnom Penh","$290,000",4,5.0,,,Twin,buy
+2," Sangkat Buon, Sihanoukville, Sihanoukville","$45,000",1,1.0,35,,Apartment,buy
+3," Sangkat Bei, Sihanoukville, Sihanoukville","$7,500,000",,,,1025.0,Land,buy
+4," Sangkat Bei, Sihanoukville, Sihanoukville","$1,500/m²",,,,1593.0,Land,buy
+5," BKK 1, Chamkarmon, Phnom Penh","$85,496","['1', '6']",,"['39', '1068']",,Project,buy
+6," Svay Dankum, Siem Reap, Siem Reap","$86,478","['1', '3']",,"['32', '136']",,Condo,buy
+7," Boeung Tumpun 2, Meanchey, Phnom Penh","$115,112$80,000SAVE30.50%",1,1.0,55,,Apartment,buy
+8,Platinum Coast,"$60,152",1,1.0,35,,Condo,buy
+9," Tuek Thla, Sen Sok, Phnom Penh","$77,164","['1', '3']",,"['30', '127']",,,buy
+10," Tonle Bassac, Chamkarmon, Phnom Penh","$110,000","['1', '3']",,"['59', '169']",,Project,buy
+11," Tonle Bassac, Chamkarmon, Phnom Penh","$275,000","['1', '3']",,"['78', '196']",,Condo,buy
+12," Srah Chak, Daun Penh, Phnom Penh","$60,067","['1', '2']",,"['37', '91']",,Project,buy
+13," 306 , BKK 1, Chamkarmon, Phnom Penh","$115,900","['1', '2']",,"['43', '1600']",,Project,buy
+14," BKK 1, Chamkarmon, Phnom Penh","$181,000","['2', '3']",,"['65', '153']",,,buy
+15,"  , Sangkat Buon, Sihanoukville, Sihanoukville","$73,000",,,"['32', '66']",,Project,buy
+16," Khmuonh, Sen Sok, Phnom Penh","$185,000","['4', '7']",,"['143', '624']",,Borey,buy
+17,LZ Sea View Residences,"$136,000",2,2.0,68,,Condo,buy
+18," Nirouth, Chbar Ampov, Phnom Penh","$68,000","['1', '4']",,"['32', '1800']",,Project,buy
+19," Komai, Svay Dankum, Siem Reap, Siem Reap","$183,000","['1', '4']",,"['105', '272']",,Condo,buy
+20,LZ Sea View Residences,"$99,946",1,1.0,64,,Condo,buy
+21," Chroy Changvar, Chroy Changvar, Phnom Penh","$225,888","['3', '5']",,"['45', '156']",,Condo,buy
+22,Agile Sky Residence,"$115,000",1,1.0,56,,Condo,buy
+23,Orkide The Royal Condominium,"$185,000",2,2.0,95,,Condo,buy
+24,"Boeung Tumpun, Meanchey, Phnom Penh","$73,000",,1.0,58,,Condo,buy
+25," Boeung Kak 2, Toul Kork, Phnom Penh","$2,250,000",4,5.0,,789.0,Villa,buy
+26," Dangkao, Dangkao, Phnom Penh",$125/m²,,,,3213.0,Land,buy
+27," Tonle Bassac, Chamkarmon, Phnom Penh","$65,000",1,1.0,47,,Condo,buy
+28,"Nirouth, Chbar Ampov, Phnom Penh","$210,000",4,5.0,81,81.0,Flat,buy
+29,"Preaek Ta Sek, Chroy Changvar, Phnom Penh","$340,000",4,5.0,,176.0,Shophouse,buy
+30," Sangkat Bei, Sihanoukville, Sihanoukville","$220,000",2,2.0,104,,Apartment,buy
+31," Sangkat Pir, Sihanoukville, Sihanoukville","$79,500",2,1.0,63,,Apartment,buy
+32," Sala Kamraeuk, Siem Reap, Siem Reap","$772,800",,,,2208.0,Land,buy
+33," Tuol Sangkae 2, Russey Keo, Phnom Penh","$2,400,000",9,10.0,,1022.0,Villa,buy
+34,Arakawa Residence,"$65,920$60,000SAVE8.98%",2,1.0,46,,Condo,buy
+35,"Tuol Sangkae 2, Russey Keo, Phnom Penh","$2,400,000",9,10.0,945,1008.0,Villa,buy
+36," Sangkat Bei, Sihanoukville, Sihanoukville","$195,000",2,2.0,130,,Apartment,buy
+37," Chroy Changvar, Chroy Changvar, Phnom Penh","$65,000",1,1.0,62,,Condo,buy
+38," Boeung Prolit, 7 Makara, Phnom Penh","$75,000",1,1.0,,65.0,Condo,buy
+39," Boeung Prolit, 7 Makara, Phnom Penh","$78,000",1,1.0,,72.0,Condo,buy
+40,"Chbar Ampov I, Chbar Ampov, Phnom Penh","$570,000",4,5.0,72,154.0,Twin,buy
+41,"Chak Angrae Leu, Meanchey, Phnom Penh","$260,000",4,5.0,72,108.0,Twin,buy
+42,"Boeung Kak 1, Toul Kork, Phnom Penh","$2,100,000",8,7.0,,627.0,House,buy
+43,"Tonle Bassac, Chamkarmon, Phnom Penh","$13,000,000",,,,2767.0,Land,buy
+44,"Preaek Aeng, Chbar Ampov, Phnom Penh","$2,800,000",6,8.0,2250,6600.0,Villa,buy
+45,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,100,000",4,5.0,240,303.0,Villa,buy
+46,"Kakap, Por Sen Chey, Phnom Penh","$650,000",8,9.0,,280.0,Villa,buy
+47,"Kouk Khleang, Sen Sok, Phnom Penh","$520,000",2,11.0,210,,House,buy
+48,"Preaek Luong, Khsach Kandal, Kandal","$53,000",3,3.0,,83.0,House,buy
+49," Kaoh Rung, Sihanoukville, Sihanoukville","$150,000",2,,,,Villa,buy
+50," Svay Dankum, Siem Reap, Siem Reap","$190,000",6,8.0,,,House,buy
+51,Urban Village Phase 2,"$66,000",,1.0,26,,Condo,buy
+52,"Samrong Tong, Samraong Tong, Kampong Speu","$41,000",2,2.0,72,,House,buy
+53,"Svay Dankum, Siem Reap, Siem Reap","$545,000",4,5.0,,,Villa,buy
+54,"Sala Kamraeuk, Siem Reap, Siem Reap","$320,000",3,4.0,,,House,buy
+55,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,239,000",,,,,Condo,buy
+56,"Tonle Bassac, Chamkarmon, Phnom Penh","$885,000",,,,,Condo,buy
+57,"Tonle Bassac, Chamkarmon, Phnom Penh","$323,900",,,,,Condo,buy
+58,"BKK 3, Chamkarmon, Phnom Penh","$2,200,000",6,6.0,,475.0,Villa,buy
+59," Svay Dankum, Siem Reap, Siem Reap",$500/m²,,,,,Land,buy
+60," Chak Angrae Leu, Meanchey, Phnom Penh","$125,000",2,1.0,70,,Condo,buy
+61,"Preaek Lieb, Chroy Changvar, Phnom Penh","$500,000",6,5.0,,90.0,Shophouse,buy
+62,"Boeung Kak 2, Toul Kork, Phnom Penh","$210,000",4,4.0,,,Condo,buy
+63,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,300,000",10,9.0,,,Shophouse,buy
+64,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,500,000",4,4.0,,,Shophouse,buy
+65,"Phsar Thmei III, Daun Penh, Phnom Penh","$210,000",2,2.0,,,Shophouse,buy
+66,"Phsar Thmei III, Daun Penh, Phnom Penh","$700,000",6,7.0,,,Shophouse,buy
+67," Kandaek, Prasat Bakong, Siem Reap","$64,999",2,2.0,,,House,buy
+68,Embassy Central,"$360,000",2,2.0,104,,Condo,buy
+69," Toul Svay Prey 1, Chamkarmon, Phnom Penh","$2,200,000",6,7.0,,,Villa,buy
+70,"BKK 1, Chamkarmon, Phnom Penh","$277,000",1,1.0,77,,Condo,buy
+71,"Mittapheap, 7 Makara, Phnom Penh","$150,000",2,2.0,,,Apartment,buy
+72," Sala Kamraeuk, Siem Reap, Siem Reap","$700,000",9,10.0,,,House,buy
+73," Kandaek, Prasat Bakong, Siem Reap","$86,000",2,3.0,,,House,buy
+74," Sala Kamraeuk, Siem Reap, Siem Reap",$270/m²,,,,,Land,buy
+75,"Chreav, Siem Reap, Siem Reap","$135,500",2,3.0,108,250.0,House,buy
+76,"Svay Dankum, Siem Reap, Siem Reap","$180,000",4,5.0,,,Villa,buy
+77," Sala Kamraeuk, Siem Reap, Siem Reap","$1,260,000",,,,,Land,buy
+78," Svay Dankum, Siem Reap, Siem Reap","$1,500,000",,,,,Land,buy
+79,"Phsar Kandal I, Daun Penh, Phnom Penh","$330,000",2,4.0,346,,Apartment,buy
+80,"Toul Tum Poung 2, Chamkarmon, Phnom Penh","$2,800,000",15,15.0,,,Apartment,buy
+81,"Srangae, Siem Reap, Siem Reap","$108,000",2,3.0,,,House,buy
+82,"Phsar Kandal I, Daun Penh, Phnom Penh","$299,000",2,2.0,250,,Flat,buy
+83,"Svay Dankum, Siem Reap, Siem Reap","$100,000",3,4.0,,,House,buy
+84,Prince Huan Yu Center,"$160,000$120,000SAVE25.00%",1,1.0,62,,Condo,buy
+85,"Phsar Kandal I, Daun Penh, Phnom Penh","$125,000",3,2.0,99,,Apartment,buy
+86,Urban Village Phase 2,"$119,500",2,2.0,60,,Condo,buy
+87,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",10,10.0,,,Shophouse,buy
+88,"BKK 3, Chamkarmon, Phnom Penh","$85,000",1,1.0,52,,Condo,buy
+89,"Boeung Kak 2, Toul Kork, Phnom Penh","$4,200/m²",,,,,Land,buy
+90,"Sangkat Pir, Sihanoukville, Sihanoukville","$650,000",18,,,390.0,Apartment,buy
+91,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,300,000",3,4.0,,,Shophouse,buy
+92,"Ou Oknha Heng, Prey Nob, Sihanoukville","$5,340,000",,,,89000.0,Land,buy
+93,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$250,000",4,5.0,75,168.0,Villa,buy
+94," Chroy Changvar, Chroy Changvar, Phnom Penh","$154,400","['1', '3']",,"['42', '237']",,,buy
+95,"Svay Dankum, Siem Reap, Siem Reap","$230,000",4,5.0,,,House,buy
+96,"Kandaek, Prasat Bakong, Siem Reap","$90,000",2,3.0,,,House,buy
+97," Ream, Prey Nob, Sihanoukville","$8,352,000",,,,55680.0,Land,buy
+98,"BKK 3, Chamkarmon, Phnom Penh","$78,000",1,1.0,35,,Condo,buy
+99,"Svay Dankum, Siem Reap, Siem Reap","$240,000",3,3.0,,,Villa,buy
+100,"BKK 1, Chamkarmon, Phnom Penh","$950,000",2,3.0,,108.0,Villa,buy
+101," Sala Kamraeuk, Siem Reap, Siem Reap","$450,000",7,,,,House,buy
+102,"Kouk Chak, Siem Reap, Siem Reap","$150,000",6,6.0,,,House,buy
+103,"BKK 1, Chamkarmon, Phnom Penh","$310,000",2,2.0,95,,Condo,buy
+104,"BKK 1, Chamkarmon, Phnom Penh","$450,000",3,3.0,120,,Condo,buy
+105,"BKK 1, Chamkarmon, Phnom Penh","$743,000",3,3.0,161,,Apartment,buy
+106," Sla Kram, Siem Reap, Siem Reap","$320,000",9,9.0,,,House,buy
+107,"Svay Dankum, Siem Reap, Siem Reap","$690,000",5,10.0,,,Apartment,buy
+108,"DABEST PROPERTIES DABEST PROPERTIES, Svay Dankum, Siem Reap, Siem Reap","$230,000",2,3.0,94,352.0,House,buy
+109,"Svay Dankum, Siem Reap, Siem Reap","$160,000",1,1.0,,67.0,Shophouse,buy
+110," Sangkat Sambuor, Siem Reap, Siem Reap","$78,000",3,3.0,,,Twin,buy
+111,Rose Apple Square,"$194,010",2,,,,Condo,buy
+112,"Sala Kamraeuk, Siem Reap, Siem Reap","$250,000",7,7.0,,,Villa,buy
+113,"Boeung Kak 2, Toul Kork, Phnom Penh","$3,800,000",25,28.0,660,1076.0,House,buy
+114,"Sala Kamraeuk, Siem Reap, Siem Reap","$479,900",4,2.0,,,House,buy
+115,Kandal,"$93,000",,,52,86.0,House,buy
+116,"Siem Reap, Siem Reap","$175,000",3,4.0,,372.0,House,buy
+117,Siem Reap,"$69,000",1,1.0,93,154.0,House,buy
+118,"Tumnob Tuek, Chamkarmon, Phnom Penh","$72,500",1,1.0,59,,Condo,buy
+119,"Siem Reap, Siem Reap","$120,000",2,3.0,75,153.0,House,buy
+120,"Chaom Chau, Por Sen Chey, Phnom Penh","$198,000",4,6.0,,,House,buy
+121,"Boeung Kak 1, Toul Kork, Phnom Penh","$68,000",1,1.0,,,Condo,buy
+122,"Sangkat Buon, Sihanoukville, Sihanoukville","$259,000",4,5.0,,,House,buy
+123,"Svay Dankum, Siem Reap, Siem Reap","$1,200,000",4,5.0,,,House,buy
+124,"Nirouth, Chbar Ampov, Phnom Penh","$100,000",4,5.0,,,House,buy
+125,"Snaor, Por Sen Chey, Phnom Penh","$65,000",3,3.0,,,House,buy
+126,"Boeung Tumpun, Meanchey, Phnom Penh","$75,000",1,1.0,,,Condo,buy
+127,"Chrang Chamres 2, Russey Keo, Phnom Penh","$320,000",4,5.0,72,207.0,Villa,buy
+128,"Svay Dankum, Siem Reap, Siem Reap","$135,000",2,3.0,,,House,buy
+129,"Svay Dankum, Siem Reap, Siem Reap","$460,000",4,4.0,,,House,buy
+130,"Svay Dankum, Siem Reap, Siem Reap","$139,000",3,3.0,,240.0,Villa,buy
+131,"Sangkat Sambuor, Siem Reap, Siem Reap","$980,000",7,7.0,400,5724.0,Villa,buy
+132,"DABEST PROPERTIES, Svay Dankum, Siem Reap, Siem Reap","$220,000",2,2.0,,422.0,Villa,buy
+133,"Dabest Properties, Sala Kamraeuk, Siem Reap, Siem Reap","$1,950,000",6,7.0,548,2100.0,Villa,buy
+134,"Kampong Samnanh, Ta Khmau, Kandal","$65,000",2,3.0,,,House,buy
+135,"Svay Kravan, Chbar Mon, Kampong Speu","$45,000",3,4.0,,,House,buy
+136,"Bak Kaeng, Chroy Changvar, Phnom Penh","$147,000",2,3.0,,,House,buy
+137,Kandal,"$39,100",,,36,247.0,House,buy
+138,"Chaom Chau, Por Sen Chey, Phnom Penh","$44,500",2,2.0,,,House,buy
+139,,"$650,000",4,4.0,252,1506.0,House,buy
+140,"Chreav, Siem Reap, Siem Reap","$110,000",2,2.0,,,House,buy
+141,"Svay Dankum, Siem Reap, Siem Reap","$1,250,000",5,6.0,,,House,buy
+142,"Chbar Ampov II, Chbar Ampov, Phnom Penh","$210,000",3,4.0,,,Shophouse,buy
+143,Kampong Speu,"$250,000",3,4.0,150,300.0,House,buy
+144,"Preaek Aeng, Chbar Ampov, Phnom Penh","$129,000",4,5.0,50,84.0,House,buy
+145,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$330,000",4,6.0,,,House,buy
+146,"Chomkar Somraong, Battambang, Battambang","$51,000",2,2.0,,,House,buy
+147,"Siem Reap, Siem Reap, Siem Reap","$95,000",3,4.0,,,House,buy
+148,"Ta Khmau, Kandal","$148,000",4,5.0,136,200.0,House,buy
+149,"Battambang, Battambang","$55,000",2,3.0,,,House,buy
+150,Kandal,"$28,500",2,2.0,,,House,buy
+151,"Meanchey, Phnom Penh","$22,000",4,5.0,,,House,buy
+152,"Ta Khmau, Kandal","$50,000",2,1.0,90,112.0,House,buy
+153,"Baek Chan, Angk Snuol, Kandal","$185,000",3,4.0,,192.0,House,buy
+154,Battambang,"$33,000",2,3.0,,,House,buy
+155,"Snaor, Por Sen Chey, Phnom Penh","$95,000",4,4.0,80,180.0,House,buy
+156,"Krang Mkak, Angk Snuol, Kandal","$78,500",3,3.0,,,Flat,buy
+157,"Chreav, Siem Reap, Siem Reap","$495,000",4,5.0,314,615.0,Villa,buy
+158,"Battambang, Battambang","$70,000",3,3.0,,,House,buy
+159,Kandal,"$135,000",2,1.0,,1350.0,House,buy
+160,"Svay Dankum, Siem Reap, Siem Reap","$119,999",3,4.0,,74.0,House,buy
+161,,"$150,000",4,5.0,9800,,House,buy
+162,"Kandaek, Prasat Bakong, Siem Reap","$130,000",3,3.0,,,House,buy
+163,,"$75,000",2,3.0,,,House,buy
+164,"Sala Kamraeuk, Siem Reap, Siem Reap","$169,000",3,3.0,,,House,buy
+165,,"$115,000",2,3.0,6700,8600.0,House,buy
+166,"Russey Keo, Phnom Penh","$650,000",6,6.0,,,House,buy
+167,"Samraong Kraom, Por Sen Chey, Phnom Penh","$115,000",4,5.0,,,Villa,buy
+168,,"$218,000",2,2.0,,169.0,House,buy
+169,,"$120,000",,,7000,,House,buy
+170,"Svay Dankum, Siem Reap, Siem Reap","$89,999",2,3.0,,,House,buy
+171,"Kep, Kep","$1,000,000",2,3.0,589,818.0,House,buy
+172,"Kakaoh, Santuk, Kampong Thom","$55,000",2,3.0,,,House,buy
+173,,"$83,000",2,3.0,,,House,buy
+174,"Odongk, Kampong Speu","$36,000",2,,48,777.0,House,buy
+175,"Svay Dankum, Siem Reap, Siem Reap","$545,000",4,5.0,270,425.0,Villa,buy
+176,"Nitean, Basedth, Kampong Speu","$3,412,225",,,,136489.0,Land,buy
+177,"Svay Dankum, Siem Reap, Siem Reap","$120,000",2,3.0,190,607.0,House,buy
+178,"Chroy Changvar, Phnom Penh","$74,000",5,5.0,,,House,buy
+179,"Kampong Trach, Kampot","$265,000",4,6.0,,,House,buy
+180,,"$158,000",,,16800,27000.0,House,buy
+181,"Sralau, Baray, Kampong Thom","$85,000",2,2.0,48,220.0,House,buy
+182,"Chaom Chau 2, Por Sen Chey, Phnom Penh","$67,000",1,1.0,,,Shophouse,buy
+183,"Meanchey, Phnom Penh","$150,000",4,5.0,,,House,buy
+184,,"$280,000",,,,,House,buy
+185,,"$180,000",4,5.0,96,,House,buy
+186,"Boeung Tumpun, Meanchey, Phnom Penh","$135,000",5,4.0,,,Flat,buy
+187,,"$195,000",4,4.0,,,House,buy
+188,,"$135,000",4,4.0,12800,25200.0,House,buy
+189,Takeo,"$43,888",2,2.0,82,290.0,House,buy
+190,"Chreav, Siem Reap, Siem Reap","$225,000",3,4.0,,,House,buy
+191,"Tuol Sangke, Russey Keo, Phnom Penh","$93,000",4,5.0,,,House,buy
+192,"Nirouth, Chbar Ampov, Phnom Penh","$95,000",4,4.0,6100,,House,buy
+193,"Sangkat Bei, Sihanoukville, Sihanoukville","$650,000",24,,,,Flat,buy
+194,Eastland Hotel and Apartment,"$85,000",1,1.0,38,,Apartment,buy
+195,"Chaom Chau 1, Por Sen Chey, Phnom Penh","$97,000",2,3.0,,,House,buy
+196,"Kampong Roteh, Stueng Saen, Kampong Thom","$280,000",3,4.0,42,408.0,House,buy
+197,"Sangkat Buon, Sihanoukville, Sihanoukville","$350,000",,,,,House,buy
+198,"Boeung Tumpun, Meanchey, Phnom Penh","$79,000",2,3.0,56,,House,buy
+199,Koh Kong,"$55,000",2,1.0,60,,House,buy
+200,"Poipet, Poipet, Banteay Meanchey","$71,000",5,5.0,,,House,buy
+201,"Russey Keo, Phnom Penh","$92,000",2,3.0,,,House,buy
+202,"Chaom Chau 3, Por Sen Chey, Phnom Penh","$175,000",4,5.0,58,118.0,House,buy
+203,"Spean Thma, Dangkao, Phnom Penh","$49,999",2,3.0,,,House,buy
+204,"Chrang Chamres 2, Russey Keo, Phnom Penh","$375,000",4,5.0,72,218.0,House,buy
+205,"Roka Knong, Doun Kaev, Takeo","$300,000",12,12.0,,,House,buy
+206,"Boeung Salang, Toul Kork, Phnom Penh","$650,000",7,7.0,176,336.0,House,buy
+207,"Dangkao, Dangkao, Phnom Penh","$160,000",5,5.0,64,,House,buy
+208,"Kandaek, Prasat Bakong, Siem Reap","$135,000",2,3.0,,,House,buy
+209,"Tuek L'ak 3, Toul Kork, Phnom Penh","$183,880",4,5.0,60,100.0,House,buy
+210,Siem Reap,"$185,000",3,3.0,,,House,buy
+211,"Siem Reap, Siem Reap","$300,000",3,4.0,,,House,buy
+212,"Siem Reap, Siem Reap","$180,000",3,4.0,,600.0,House,buy
+213,"Kampot, Kampot","$230,000",3,3.0,,,House,buy
+214,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",2,3.0,,,House,buy
+215,Kandal,"$56,000",3,3.0,,,House,buy
+216,"Chaom Chau, Por Sen Chey, Phnom Penh","$65,000",2,3.0,,76.0,House,buy
+217,"Krang Thnong, Sen Sok, Phnom Penh","$47,000",2,3.0,,,House,buy
+218,"Dangkao, Dangkao, Phnom Penh","$99,000",2,3.0,64,86.0,House,buy
+219,"Chaom Chau 3, Por Sen Chey, Phnom Penh","$74,000",4,3.0,85,168.0,House,buy
+220,"Chey Chumneah, Daun Penh, Phnom Penh","$495,000",2,3.0,,,House,buy
+221,"Tuek Thla, Sen Sok, Phnom Penh","$335,000",6,5.0,72,125.0,House,buy
+222,"BKK 1, Chamkarmon, Phnom Penh","$200,000$183,000SAVE8.50%",1,1.0,58,,Condo,buy
+223,"Veal Sbov, Chbar Ampov, Phnom Penh","$195,000",,,,301.0,Land,buy
+224,"Sla Kram, Siem Reap, Siem Reap","$125,000",4,5.0,88,161.0,House,buy
+225,"Ta Khmau, Kandal","$72,000",5,4.0,,,House,buy
+226,"Boeung Kak 2, Toul Kork, Phnom Penh","$269,000",4,5.0,72,158.0,House,buy
+227,"Kakap, Por Sen Chey, Phnom Penh","$78,200",2,2.0,,,House,buy
+228,"Stueng Mean chey 3, Meanchey, Phnom Penh","$85,000",2,3.0,,,House,buy
+229,"Samraong Kraom, Por Sen Chey, Phnom Penh","$439,999",5,6.0,,,House,buy
+230,"Preaek Pnov, Prek Pnov, Phnom Penh","$55,000",1,2.0,,,House,buy
+231,"Russey Keo, Russey Keo, Phnom Penh","$48,000",2,3.0,,,House,buy
+232,"Meanchey, Phnom Penh","$140,000",2,3.0,,,House,buy
+233,"Dangkao, Phnom Penh","$96,000",2,3.0,,,House,buy
+234,"Kamboul, Por Sen Chey, Phnom Penh","$120,000",5,6.0,,,House,buy
+235,"Anlong Vil, Sangkae, Battambang","$45,000",2,2.0,,,House,buy
+236,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$270,000",,,153,,House,buy
+237,"Stueng Mean chey, Meanchey, Phnom Penh","$85,000",2,3.0,,,House,buy
+238,"Preaek Anhchanh, Mukh Kampul, Kandal","$66,000",4,5.0,50,,House,buy
+239,"Kakab 1, Por Sen Chey, Phnom Penh","$155,000",2,3.0,,,House,buy
+240,"Preaek Kampues, Dangkao, Phnom Penh","$50,000",2,3.0,,,House,buy
+241,"Meanchey, Phnom Penh","$90,000",4,4.0,,,House,buy
+242,"Kamboul, Por Sen Chey, Phnom Penh","$54,500",2,3.0,,,House,buy
+243,"Dangkao, Dangkao, Phnom Penh","$93,555",2,3.0,,92.0,House,buy
+244,"Kandal Stueng, Kandal","$105,000",2,2.0,60,203.0,House,buy
+245,"Kampong Chhnang, Kampong Chhnang","$98,000",2,2.0,,,House,buy
+246,"Dangkao, Phnom Penh","$169,000",3,1.0,,,House,buy
+247,"Meanchey, Phnom Penh","$83,500",2,3.0,,,House,buy
+248,"Chrang Chamres 2, Russey Keo, Phnom Penh","$52,000",2,1.0,,,House,buy
+249,"Ta Khmau, Kandal","$25,900",2,1.0,,,House,buy
+250,"Tuek L'ak 2, Toul Kork, Phnom Penh","$600,000",4,5.0,,,House,buy
+251,Siem Reap,"$65,000",1,2.0,65,252.0,House,buy
+252,"Krang Thnong, Sen Sok, Phnom Penh","$98,000",2,3.0,,,House,buy
+253,"Tuol Sangke, Russey Keo, Phnom Penh","$115,000",4,5.0,,,House,buy
+254,"Sihanoukville, Sihanoukville","$220,000",3,3.0,80,246.0,House,buy
+255,"Preaek Kampues, Dangkao, Phnom Penh","$140,000",,,,432.0,Land,buy
+256," Chreav, Siem Reap, Siem Reap","$495,000",4,5.0,,,House,buy
+257,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$655,000",,,,960.0,Land,buy
+258,"Khmuonh, Sen Sok, Phnom Penh","$62,000",3,2.0,,105.0,House,buy
+259,"Krang Thnong, Sen Sok, Phnom Penh","$110,000",4,5.0,,58.0,House,buy
+260,"Nirouth, Chbar Ampov, Phnom Penh","$123,000",4,5.0,,88.0,House,buy
+261,"Krang Thnong, Sen Sok, Phnom Penh","$85,000",2,3.0,66,92.0,Apartment,buy
+262,"Kamboul, Por Sen Chey, Phnom Penh","$63,000",4,5.0,,49.0,House,buy
+263,"Boeung Salang, Toul Kork, Phnom Penh","$1,200,000",5,4.0,,,House,buy
+264,"Boeung Tumpun, Meanchey, Phnom Penh","$95,000",4,5.0,,48.0,House,buy
+265,"Nirouth, Chbar Ampov, Phnom Penh","$77,500",3,3.0,,64.0,House,buy
+266,"Setbou, S'ang, Kandal","$53,000",2,3.0,,84.0,House,buy
+267,"Prey Sa, Dangkao, Phnom Penh","$169,000",5,6.0,,,House,buy
+268,"Preaek Kampues, Dangkao, Phnom Penh","$108,000",4,5.0,,86.0,House,buy
+269,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$155,000",5,7.0,,64.0,House,buy
+270,"Dangkao, Phnom Penh","$138,000",4,5.0,,109.0,House,buy
+271,"Khmuonh, Sen Sok, Phnom Penh","$225,000",4,5.0,,64.0,House,buy
+272,"Boeung Tumpun 1, Meanchey, Phnom Penh","$137,000",5,5.0,,86.0,House,buy
+273,"Khmuonh, Sen Sok, Phnom Penh","$240,000",4,5.0,,66.0,House,buy
+274,"Boeung Tumpun, Meanchey, Phnom Penh","$220,000",5,5.0,,67.0,House,buy
+275,"Chaom Chau, Por Sen Chey, Phnom Penh","$165,000",4,5.0,,133.0,House,buy
+276,"Kamboul, Por Sen Chey, Phnom Penh","$75,000",4,5.0,,,House,buy
+277,"Stueng Mean chey 3, Meanchey, Phnom Penh","$58,000",2,3.0,,76.0,House,buy
+278,"Nirouth, Chbar Ampov, Phnom Penh","$120,000",,,,171.0,Land,buy
+279,"Svay Dankum, Siem Reap, Siem Reap","$60,000",,,,,Condo,buy
+280,"Svay Toea, Svay Rieng, Svay Rieng","$389,000",,,,1362.0,House,buy
+281,"Nirouth, Chbar Ampov, Phnom Penh","$300,000",4,5.0,72,,Twin,buy
+282,"Boeung Kak 1, Toul Kork, Phnom Penh","$710,000",6,5.0,168,368.0,Villa,buy
+283,"Nirouth, Chbar Ampov, Phnom Penh","$293,700",4,5.0,72,169.0,Twin,buy
+284,"Chak Angrae Leu, Meanchey, Phnom Penh","$105,000",,,,,Flat,buy
+285,"Boeung Kak 1, Toul Kork, Phnom Penh","$140,000",,,62,,Condo,buy
+286,"Ta Khmao, Ta Khmau, Kandal","$65,000",2,,,,Link,buy
+287," Tuek Thla, Sen Sok, Phnom Penh","$390,000",5,5.0,,,Shophouse,buy
+288," Tuek L'ak 3, Toul Kork, Phnom Penh","$580,000",,,,,Shophouse,buy
+289," Tuek Thla, Sen Sok, Phnom Penh","$380,000",3,4.0,216,,Condo,buy
+290," Chroy Changvar, Chroy Changvar, Phnom Penh","$145,000",2,2.0,90,,Condo,buy
+291,"Nirouth, Chbar Ampov, Phnom Penh","$1,200,000",,,,,Villa,buy
+292,"Kakap, Por Sen Chey, Phnom Penh","$250,000",3,2.0,,,Condo,buy
+293,Urban Village Phase 2,"$180,000",,,78,,Condo,buy
+294,"BKK 1, Chamkarmon, Phnom Penh","$2,100,000",5,4.0,306,411.0,Condo,buy
+295,"Preaek Aeng, Chbar Ampov, Phnom Penh","$3,950,000",7,8.0,1100,2378.0,Villa,buy
+296,Borey Morgan Champs-Élysées,"$1,590,000",7,8.0,754,292.0,Villa,buy
+297,Borey Morgan Champs-Élysées,"$650,000",6,7.0,337,128.0,Twin,buy
+298,Borey Morgan Champs-Élysées,"$1,630,000",3,20.0,1185,180.0,Shophouse,buy
+299,Borey Morgan Champs-Élysées,"$480,000",5,6.0,245,84.0,Twin,buy
+300,Borey Morgan Champs-Élysées,"$560,000",4,5.0,441,100.0,Shophouse,buy
+301," Ponhea Pon, Prek Pnov, Phnom Penh","$86,000",,,,409.0,Land,buy
+302," BKK 1, Chamkarmon, Phnom Penh","$71,766",1,1.0,383,,Apartment,buy
+303," Ou Baek K'am, Sen Sok, Phnom Penh","$145,000",1,1.0,87,,Condo,buy
+304,"Ou Baek K'am, Sen Sok, Phnom Penh","$68,000$58,000SAVE14.71%",1,1.0,30,,Condo,buy
+305," Boeung Tumpun, Meanchey, Phnom Penh","$43,000",1,1.0,48,,Condo,buy
+306," Tonle Bassac, Chamkarmon, Phnom Penh","$160,000",1,1.0,51,,Condo,buy
+307," Svay Chrum, Khsach Kandal, Kandal","$70,000",2,2.0,,,Link,buy
+308," Chroy Changvar, Chroy Changvar, Phnom Penh","$120,000$90,000SAVE25.00%",2,2.0,,,Condo,buy
+309," Sla Kram, Siem Reap, Siem Reap","$2,300,000",7,8.0,,,House,buy
+310," Chreav, Siem Reap, Siem Reap","$90,000",,,,,Land,buy
+311," Preaek Anhchanh, Mukh Kampul, Kandal","$99,500",4,5.0,,,Shophouse,buy
+312,"Tonle Bassac, Chamkarmon, Phnom Penh","$65,000",1,1.0,,,Condo,buy
+313,Skylar by Meridian,"$180,000$135,000SAVE25.00%",1,1.0,57,,Condo,buy
+314,"Svay Dankum, Siem Reap, Siem Reap","$450,000",4,5.0,,,House,buy
+315,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$265,000",4,5.0,,,Link,buy
+316,"Stueng Mean chey, Meanchey, Phnom Penh","$120,000",,,,,Flat,buy
+317,Urban Village Phase 1,"$95,000",1,1.0,,,Condo,buy
+318,"Bavet, Bavet, Svay Rieng","$310,000",,,,7644.0,Land,buy
+319," Boeung Kak 1, Toul Kork, Phnom Penh","$85,000",2,1.0,42,,Condo,buy
+320," Chaom Chau 3, Por Sen Chey, Phnom Penh","$55,980",2,3.0,64,,Flat,buy
+321," Kamboul, Por Sen Chey, Phnom Penh","$165,000",2,3.0,,,House,buy
+322," Preaek Kampues, Dangkao, Phnom Penh","$85,000",2,3.0,,,Flat,buy
+323," Kandaek, Prasat Bakong, Siem Reap","$125,000",3,3.0,,,Twin,buy
+324," Sala Kamraeuk, Siem Reap, Siem Reap","$150,000",4,3.0,,,House,buy
+325," Svay Dankum, Siem Reap, Siem Reap","$678,500",,,,,Land,buy
+326," Chreav, Siem Reap, Siem Reap","$354,250",,,,,Land,buy
+327," Sala Kamraeuk, Siem Reap, Siem Reap","$821,600",,,,,Land,buy
+328,"Ta Khmao, Ta Khmau, Kandal",$180/m²,,,,23442.0,Land,buy
+329," Chreav, Siem Reap, Siem Reap","$170,000",2,3.0,,,House,buy
+330," Svay Dankum, Siem Reap, Siem Reap","$367,200",,,,,Land,buy
+331," Chreav, Siem Reap, Siem Reap","$135,000",2,3.0,,,House,buy
+332," Siem Reap, Siem Reap, Siem Reap","$220,000",2,2.0,,,Villa,buy
+333,"BKK 1, Chamkarmon, Phnom Penh","$12,000/m²",,,,,Land,buy
+334," Veal Vong, 7 Makara, Phnom Penh","$188,688",2,2.0,75,105.0,Condo,buy
+335," Russey Keo, Russey Keo, Phnom Penh",$500/m²,,,,363.0,Land,buy
+336,"Sangkat Pir, Sihanoukville, Sihanoukville","$72,800",1,1.0,40,,Condo,buy
+337,"Trapeang Thum, Prasat Bakong, Siem Reap",$70/m²,,,,,Land,buy
+338,"Tuek L'ak 2, Toul Kork, Phnom Penh","$130,000",2,2.0,,,Condo,buy
+339,"Kep, Kep, Kep",$220/m²,,,,,Land,buy
+340,"Tuol Sangke, Russey Keo, Phnom Penh","$850,000",7,6.0,,,Villa,buy
+341,"Kep, Kep, Kep",$220/m²,,,,2684.0,Villa,buy
+342,"313 313, Boeung Kak 2, Toul Kork, Phnom Penh","$380,000",,,,60.0,House,buy
+343,"Chaom Chau, Por Sen Chey, Phnom Penh",$59/m²,,,,2636.0,Land,buy
+344,Royal Park Condo,"$49,999",1,1.0,,,Condo,buy
+345," Kakab 1, Por Sen Chey, Phnom Penh","$150,000",2,2.0,108,,Condo,buy
+346,"Achar Leak, Stueng Saen, Kampong Thom","$78,000",3,4.0,,,House,buy
+347,Urban Village Phase 1,"$110,000",2,1.0,,,Condo,buy
+348,"Chreav, Siem Reap, Siem Reap","$60,000",1,1.0,,,House,buy
+349," Street 20A, Tien, Dangkao, Phnom Penh",POA,,,,,Borey,buy
+350,"Kampong Svay, Kien Svay, Kandal","$145,000",,,,,Land,buy
+351,"Sangkat Pir, Sihanoukville, Sihanoukville","$82,300",1,1.0,40,,Condo,buy
+352,"Preaek Tonloab, Leuk Daek, Kandal","$16,000",,,,,Land,buy
+353,"Phsar Chas, Daun Penh, Phnom Penh","$1,100,000",4,5.0,,,Apartment,buy
+354,"Sangkat Buon, Sihanoukville, Sihanoukville","$580,000",14,,,,Apartment,buy
+355,"Preaek Aeng, Chbar Ampov, Phnom Penh",$580/m²,,,,1513.0,Land,buy
+356,"Chaom Chau, Por Sen Chey, Phnom Penh",$700/m²,,,,4193.0,Land,buy
+357," Khmuonh, Sen Sok, Phnom Penh","$295,000",4,7.0,269,91.0,Shophouse,buy
+358,CASA by Meridian,"$175,080",1,1.0,77,,Condo,buy
+359,"Chaom Chau, Por Sen Chey, Phnom Penh","$560,000",28,28.0,,,House,buy
+360,"Ou Baek K'am, Sen Sok, Phnom Penh","$178,000",,,,,Condo,buy
+361,"Boeung Prolit, 7 Makara, Phnom Penh","$90,000",,,,,Condo,buy
+362,"Preaek Lieb, Chroy Changvar, Phnom Penh","$260,000",5,6.0,,,House,buy
+363,"BKK 1, Chamkarmon, Phnom Penh","$255,000",,,,,Condo,buy
+364,"Kandaek, Prasat Bakong, Siem Reap","$50,000",,,,,Land,buy
+365,"Boeung Tumpun 2, Meanchey, Phnom Penh","$210,000",4,4.0,,,House,buy
+366,"Preaek Aeng, Chbar Ampov, Phnom Penh",$538/m²,,,,,Land,buy
+367,"Svay Dankum, Siem Reap, Siem Reap","$198,000",3,3.0,,,Villa,buy
+368,"Veal Vong, 7 Makara, Phnom Penh","$185,000",,,,,Condo,buy
+369,"Chreav, Siem Reap, Siem Reap","$37,000",,,,,House,buy
+370,"Sala Kamraeuk, Siem Reap, Siem Reap","$350,000",,,,,House,buy
+371,"Sangkat Sambuor, Siem Reap, Siem Reap","$150,000",2,3.0,,,House,buy
+372,"Samrong, Prey Nob, Sihanoukville","$250,000",,,,,Land,buy
+373,"Sala Kamraeuk, Siem Reap, Siem Reap","$450,000",6,10.0,,,House,buy
+374,"Sala Kamraeuk, Siem Reap, Siem Reap","$1,900,000",11,11.0,,,Villa,buy
+375,"Cheung Aek, Dangkao, Phnom Penh","$335,000",4,5.0,,,Twin,buy
+376,"Barong, Lvea Aem, Kandal","$125,000",,,,,Land,buy
+377,"Chrang Chamres I, Russey Keo, Phnom Penh","$355,000",4,5.0,,,House,buy
+378,CASA by Meridian,"$250,000",2,2.0,,,Condo,buy
+379," Kouk Chak, Siem Reap, Siem Reap","$180,000",4,5.0,,,House,buy
+380,"Chroy Changvar, Chroy Changvar, Phnom Penh","$126,263",,,,,Condo,buy
+381,"Russey Keo, Russey Keo, Phnom Penh","$195,000",4,5.0,,,House,buy
+382,"Kampong Samnanh, Ta Khmau, Kandal",$450/m²,,,,,Land,buy
+383,"Nirouth, Chbar Ampov, Phnom Penh","$930,000",,,,,House,buy
+384,"Preaek Pra, Chbar Ampov, Phnom Penh","$30,000",,,,84.0,Land,buy
+385,"Veal Vong, 7 Makara, Phnom Penh","$295,000",2,1.0,136,,Condo,buy
+386,"Veal Vong, 7 Makara, Phnom Penh","$120,000",1,1.0,46,,Condo,buy
+387,"Svay Dankum, Siem Reap, Siem Reap",$850/m²,,,,3500.0,Land,buy
+388,"Ovlaok, Por Sen Chey, Phnom Penh",$210/m²,,,,2381.0,Land,buy
+389,"Krang Dei Vay, Phnum Sruoch, Kampong Speu","$600,000",,,,,Land,buy
+390,"Preaek Anhchanh, Mukh Kampul, Kandal","$125,000",,,,,House,buy
+391,"Ta Khmao, Ta Khmau, Kandal","$65,000",,,,,Land,buy
+392,"Bak Kaeng, Chroy Changvar, Phnom Penh",$650/m²,,,,,Land,buy
+393,"Ou Baek K'am, Sen Sok, Phnom Penh","$160,000",2,2.0,,,Condo,buy
+394,"Akphivoadth, Tuek Phos, Kampong Chhnang",$19/m²,,,,,Apartment,buy
+395,"Chaom Chau 2, Por Sen Chey, Phnom Penh","$85,000",,,,,House,buy
+396,"Trapeang Thum, Prasat Bakong, Siem Reap","$860,000",,,,,Land,buy
+397,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",,,,,Land,buy
+398,"Chroy Changvar, Chroy Changvar, Phnom Penh","$1,300/m²",,,,,Villa,buy
+399,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$9,873,600",,,,8228.0,Land,buy
+400,"Boeung Tumpun, Meanchey, Phnom Penh","$550,000",3,3.0,,,House,buy
+401,"Cheung Aek, Dangkao, Phnom Penh","$1,200/m²",,,,1400.0,Land,buy
+402,"Tuol Prech, Angk Snuol, Kandal","$9,999",,,,,Land,buy
+403,Royal Park Condo,"$53,000",,,,,Condo,buy
+404,"Bak Kaeng, Chroy Changvar, Phnom Penh","$250,000",3,3.0,,,Villa,buy
+405,"Ta Kdol, Ta Khmau, Kandal","$120,000",,,,,House,buy
+406,"Kandaek, Prasat Bakong, Siem Reap",$175/m²,,,,,Land,buy
+407,"Kandaek, Prasat Bakong, Siem Reap",$122/m²,,,,,Land,buy
+408,"Banteay Chhmar, Thma Puok, Banteay Meanchey",$13/m²,,,,,Land,buy
+409,"Banteay Chhmar, Thma Puok, Banteay Meanchey",$6/m²,,,,94726.0,Land,buy
+410,"Svay Rumpear, Kampong Leaeng, Kampong Chhnang",$25/m²,,,,,Land,buy
+411,"Wat Phnom, Daun Penh, Phnom Penh","$800,000",5,6.0,,,House,buy
+412,"Khmuonh, Sen Sok, Phnom Penh","$262,000",4,5.0,,,House,buy
+413,"Chak Angrae Kraom, Meanchey, Phnom Penh","$190,000",5,4.0,,,House,buy
+414,"Svay Chrum, Khsach Kandal, Kandal","$58,000",3,,,,House,buy
+415,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$250,000",,,,,House,buy
+416,"Chaom Chau, Por Sen Chey, Phnom Penh","$55,000",2,2.0,,,House,buy
+417,"Preaek Anhchanh, Mukh Kampul, Kandal","$55,000",2,3.0,,,House,buy
+418,"Dangkao, Dangkao, Phnom Penh","$78,000",4,6.0,,,House,buy
+419,"Preaek Ta Sek, Chroy Changvar, Phnom Penh","$255,000",4,5.0,,,Twin,buy
+420,"Phsar Thmei II, Daun Penh, Phnom Penh","$495,000",,,,,House,buy
+421,"Veang Chas, Odongk, Kampong Speu",$65/m²,,,,314200.0,Land,buy
+422,"Kampong Trach Khang Lech, Kampong Trach, Kampot",$30/m²,,,,,Land,buy
+423,"Nirouth, Chbar Ampov, Phnom Penh","$147,000",4,5.0,,,House,buy
+424,"Kamboul, Por Sen Chey, Phnom Penh","$76,500",4,5.0,,,House,buy
+425,"Por Sen Chey, Phnom Penh","$85,000",2,3.0,,,House,buy
+426,"Boeung Salang, Toul Kork, Phnom Penh","$290,000",6,6.0,,,House,buy
+427,"Boeung Salang, Toul Kork, Phnom Penh","$165,000",2,2.0,,,House,buy
+428,"Sla Kram, Siem Reap, Siem Reap","$1,800,000",8,10.0,,,Shophouse,buy
+429,"Kouk Chak, Siem Reap, Siem Reap","$985,000",30,,360,621.0,House,buy
+430," Svay Dankum, Siem Reap, Siem Reap","$63,960",,,,492.0,Land,buy
+431," Svay Dankum, Siem Reap, Siem Reap","$210,000",3,,,,House,buy
+432," Svay Dankum, Siem Reap, Siem Reap","$249,000",3,3.0,,800.0,House,buy
+433," Kandaek, Prasat Bakong, Siem Reap","$31,482",,,,594.0,Land,buy
+434," Sla Kram, Siem Reap, Siem Reap",$100/m²,,,,2108.0,Land,buy
+435," Chreav, Siem Reap, Siem Reap",$120/m²,,,,,Land,buy
+436,"Kamboul, Por Sen Chey, Phnom Penh","$99,800",4,4.0,,,House,buy
+437,"Chhveang, Ponhea Lueu, Kandal","$26,000",,,,200.0,Land,buy
+438,"Preaek Kampues, Dangkao, Phnom Penh",$550/m²,,,,9000.0,Land,buy
+439,"Chbar Ampov, Phnom Penh","$60,000",1,1.0,,,Condo,buy
+440,"Ream, Prey Nob, Sihanoukville","$500,000",,,1000,1000.0,Land,buy
+441,"Kien Sangkae, Sout Nikom, Siem Reap",$13/m²,,,9114,9114.0,Land,buy
+442,"Ponsang, Prek Pnov, Phnom Penh",$160/m²,,,1400,1400.0,Land,buy
+443,"Krang Thnong, Sen Sok, Phnom Penh","$180,000",,,196,196.0,Land,buy
+444,"Chaom Chau, Por Sen Chey, Phnom Penh","$200,000",34,34.0,280,,House,buy
+445,"Dangkao, Dangkao, Phnom Penh","$70,000",3,3.0,74,100.0,House,buy
+446,"Kampong Luong, Ponhea Lueu, Kandal","$80,000",,,,192.0,Land,buy
+447,"Kampong Luong, Ponhea Lueu, Kandal","$120,000",,,,378.0,Land,buy
+448,"Amleang, Thpong, Kampong Speu","$130,000",,,,23800.0,Land,buy
+449,"Amleang, Thpong, Kampong Speu",$25/m²,,,,4625.0,Land,buy
+450,"Chakto Mukh, Daun Penh, Phnom Penh","$200,000",2,3.0,140,,House,buy
+451,"Boeung Kak 2, Toul Kork, Phnom Penh","$186,000",1,2.0,55,,Shophouse,buy
+452,"Veal Vong, 7 Makara, Phnom Penh","$165,000",2,1.0,,,Condo,buy
+453,"Mkak, Angk Snuol, Kandal","$20,000",,,,200.0,Land,buy
+454,"Stueng Mean chey, Meanchey, Phnom Penh","$249,000",4,5.0,80,96.0,House,buy
+455,"Mean Chey, Odongk, Kampong Speu","$18,000",,,,,Land,buy
+456,"Ruessei Chrouy, Mukh Kampul, Kandal","$540,000",,,,,Land,buy
+457,"Takaen, Chhuk, Kampot",$4/m²,,,,,Land,buy
+458,"Chan Saen, Odongk, Kampong Speu","$12,000",,,,,Land,buy
+459,"Vihear Suork, Khsach Kandal, Kandal","$15,000",,,,,Land,buy
+460,"Tuek L'ak 3, Toul Kork, Phnom Penh","$285,000",,,,,House,buy
+461,"Phnom Penh, Phnom Penh","$56,000",4,5.0,,,House,buy
+462,Royal Park Condo,"$73,000",1,1.0,,,Condo,buy
+463,"Boeung Kak 2, Toul Kork, Phnom Penh",POA,1,1.0,,,CondoPOA,buy
+464,Royal Park Condo,"$70,000",1,1.0,,,Condo,buy
+465,"Koun Satv, Tuek Chhou, Kampot",$19/m²,,,,60000.0,Land,buy
+466,"Koh Dach, Chroy Changvar, Phnom Penh","$170,000",,,,,Land,buy
+467," Chrang Chamres I, Russey Keo, Phnom Penh","$210,000",4,5.0,69,118.0,Villa,buy
+468,"Preah Srae, Odongk, Kampong Speu",$50/m²,,,,116622.0,Land,buy
+469,"Stueng Mean chey, Meanchey, Phnom Penh","$88,000",,,259,259.0,Land,buy
+470,"Kantaok, Por Sen Chey, Phnom Penh","$60,000",,,,190.0,Land,buy
+471,"Boeung Tumpun, Meanchey, Phnom Penh","$480,000",1,2.0,,235.0,House,buy
+472,"Preaek Kampues, Dangkao, Phnom Penh","$115,000",4,5.0,50,,House,buy
+473,"Ou Baek K'am, Sen Sok, Phnom Penh","$670,000",6,4.0,135,210.0,House,buy
+474,"Nirouth, Chbar Ampov, Phnom Penh","$380,000",4,5.0,73,184.0,Twin,buy
+475,"Andoung Khmer, Kampot, Kampot","$29,000",,,,105.0,Land,buy
+476,"Boeung Kak 2, Toul Kork, Phnom Penh","$140,000",3,2.0,64,,Condo,buy
+477,"Prey Sa, Dangkao, Phnom Penh","$76,877",2,3.0,56,,House,buy
+478,"Chrang Chamres 2, Russey Keo, Phnom Penh","$380,000",4,6.0,175,,House,buy
+479,"Ampil Ta Pok, Ou Reang Ov, Tboung Khmum","$49,900",2,1.0,67,,House,buy
+480,"Phsar Chas, Daun Penh, Phnom Penh","$85,000",1,1.0,68,,House,buy
+481,"Veal Sbov, Chbar Ampov, Phnom Penh","$245,000",4,5.0,200,,Twin,buy
+482,"Svay Rieng, Svay Rieng, Svay Rieng",$726/m²,,,,551.0,Land,buy
+483,"Makprang, Tuek Chhou, Kampot",$12/m²,,,,10486.0,Land,buy
+484,"Srae Chea Khang Tboung, Dang Tong, Kampot",$4/m²,,,,139534.0,Land,buy
+485,De Castle Diamond Condominium,"$337,200",4,4.0,281,,Condo,buy
+486,De Castle Diamond Condominium,"$365,300",4,4.0,281,,Condo,buy
+487,De Castle Diamond Condominium,"$3,552,450",,,3230,,Condo,buy
+488,De Castle Diamond Condominium,"$365,300",4,4.0,281,,Condo,buy
+489,De Castle Diamond Condominium,"$337,200",4,4.0,281,,Condo,buy
+490,De Castle Diamond Condominium,"$320,600",3,3.0,229,,Condo,buy
+491,De Castle Diamond Condominium,"$274,800",3,3.0,229,,Condo,buy
+492,De Castle Diamond Condominium,"$351,400",3,3.0,251,,Condo,buy
+493,De Castle Diamond Condominium,"$326,300",3,3.0,251,,Condo,buy
+494,De Castle Diamond Condominium,"$326,300",3,3.0,251,,Condo,buy
+495,De Castle Diamond Condominium,"$351,400",3,3.0,251,,Condo,buy
+496,De Castle Diamond Condominium,"$210,000",2,2.0,150,,Condo,buy
+497,De Castle Diamond Condominium,"$210,000",2,2.0,150,,Condo,buy
+498,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo,buy
+499,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo,buy
+500,De Castle Diamond Condominium,"$160,300",1,1.0,114,,Condo,buy
+501,"Kaoh Rung, Sihanoukville, Sihanoukville",$850/m²,,,8361,8361.0,Land,buy
+502,"Boeung Tumpun, Meanchey, Phnom Penh","$140,000",4,5.0,,,House,buy
+503,"Boeung Kak 1, Toul Kork, Phnom Penh","$95,000",2,,41,,Condo,buy
+504,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",2,5.0,66,,House,buy
+505,"Chakto Mukh, Daun Penh, Phnom Penh","$10,000/m²",,,15882,,Land,buy
+506,"Preaek Aeng, Chbar Ampov, Phnom Penh","$290,000",4,4.0,413,,Villa,buy
+507,"Kouk Roka, Prek Pnov, Phnom Penh","$180,000",4,5.0,,,House,buy
+508,"Dei Edth, Kien Svay, Kandal","$1,300,000",,,,,House,buy
+509,"Nirouth, Chbar Ampov, Phnom Penh","$230,000",4,5.0,203,,House,buy
+510,"Kamboul, Por Sen Chey, Phnom Penh","$55,000",,,49,,House,buy
+511,"Veal Vong, 7 Makara, Phnom Penh","$160,000",,,,,Apartment,buy
+512,"Toul Kork, Phnom Penh","$980,000",,,144,,Villa,buy
+513,"Svay Chrum, Khsach Kandal, Kandal","$55,000",,,80,,Villa,buy
+514,"Tuek Thla, Sen Sok, Phnom Penh","$1,500,000",,,741,,House,buy
+515,"Boeung Kak 1, Toul Kork, Phnom Penh","$175,000",,,48,,Shophouse,buy
+516,"Preaek Pra, Chbar Ampov, Phnom Penh","$750,000",,,187,,House,buy
+517,"Toul Kork, Phnom Penh","$600,000",,,108,,Villa,buy
+518,"Siem Reap, Siem Reap","$65,000",,,59,,House,buy
+519,"Dangkao, Phnom Penh","$105,000",,,50,,House,buy
+520,"Nirouth, Chbar Ampov, Phnom Penh","$148,000",,,39,,Link,buy
+521,"Chrang Chamres 2, Russey Keo, Phnom Penh","$193,000",,,69,,Link,buy
+522,"Chaom Chau, Por Sen Chey, Phnom Penh","$69,000",,,,,Link,buy
+523,"Preaek Aeng, Chbar Ampov, Phnom Penh","$195,000",,,264,,Villa,buy
+524," Sla Kram, Siem Reap, Siem Reap","$320,000",6,8.0,,262.0,House,buy
+525,"Sen Sok, Phnom Penh","$355,000",,,79,,Twin,buy
+526,"Preaek Aeng, Chbar Ampov, Phnom Penh","$145,000",,,62,,House,buy
+527,"Kouk Khleang, Sen Sok, Phnom Penh","$49,000",,,50,,House,buy
+528,"Chaom Chau, Por Sen Chey, Phnom Penh","$30,000",,,,,House,buy
+529,"Por Sen Chey, Phnom Penh","$168,000",,,66,,Shophouse,buy
+530,"Chreav, Siem Reap, Siem Reap","$330,000",,,300,,Villa,buy
+531,"Tuek Thla, Sen Sok, Phnom Penh","$110,000",,,50,,Condo,buy
+532,"Por Sen Chey, Phnom Penh","$150,000",,,63,,Shophouse,buy
+533,"Nirouth, Chbar Ampov, Phnom Penh","$155,000",,,,,Shophouse,buy
+534,"Nirouth, Chbar Ampov, Phnom Penh","$130,000",,,42,,Shophouse,buy
+535,"Veal Vong, 7 Makara, Phnom Penh","$125,000",1,1.0,47,,Flat,buy
+536,"Kandal Stueng, Kandal","$45,000",,,2192,,Land,buy
+537,"Nirouth, Chbar Ampov, Phnom Penh","$3,900,000",,,346,,Villa,buy
+538,"Sla Kram, Siem Reap, Siem Reap","$250,000",,,384,,House,buy
+539,"Dangkao, Phnom Penh","$86,000",,,64,,House,buy
+540,"Dangkao, Phnom Penh","$80,000",,,64,,House,buy
+541,"Dangkao, Phnom Penh","$235,000",,,64,,House,buy
+542,"Samraong Kraom, Por Sen Chey, Phnom Penh","$97,880",,,200,,House,buy
+543,"Lvea Aem, Kandal","$380,000",,,1500,,Land,buy
+544,"Lvea Aem, Kandal","$280,000",,,1400,,Land,buy
+545,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$240,000",,,147,,Twin,buy
+546,"Krang Thnong, Sen Sok, Phnom Penh","$98,000",,,49,,Shophouse,buy
+547,"Sala Kamraeuk, Siem Reap, Siem Reap","$76,000",,,280,,House,buy
+548,"Por Sen Chey, Phnom Penh","$43,800",,,75,,House,buy
+549,"Chrang Chamres I, Russey Keo, Phnom Penh","$179,000",,,,,House,buy
+550,"Ta Khmao, Ta Khmau, Kandal","$750,000",,,622,,Villa,buy
+551,"Phnom Penh, Phnom Penh","$31,980",,,43,,House,buy
+552,"Prey Sa, Dangkao, Phnom Penh","$70,000",,,,,House,buy
+553,"Svay Por, Battambang, Battambang","$180,000",,,99,,House,buy
+554,"Khnar Pou, Sout Nikom, Siem Reap","$975,000",,,13,,Land,buy
+555,"Ballangk, Prasat Bakong, Siem Reap","$5,300,000",,,53,,Land,buy
+556,"Peak Sneng, Angkor Thum, Siem Reap","$250,000",,,25,,Land,buy
+557,"Chrang Chamres 2, Russey Keo, Phnom Penh","$299,999",,,72,,Twin,buy
+558,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$74,000",,,49,,Condo,buy
+559,"Toul Kork, Phnom Penh","$54,000",,,,,Condo,buy
+560,"Ta Khmao, Ta Khmau, Kandal","$108,000",,,180,,House,buy
+561,"S'ang, Kandal","$90,000",,,200,,House,buy
+562,"Sala Kamraeuk, Siem Reap, Siem Reap","$260,000",,,96,,House,buy
+563,"Por Sen Chey, Phnom Penh","$59,500",,,49,,House,buy
+564,"Ta Khmao, Ta Khmau, Kandal","$440,000",,,96,,Villa,buy
+565,"Preaek Thmei, Chbar Ampov, Phnom Penh","$46,000",,,49,,House,buy
+566,"Russey Keo, Phnom Penh","$75,500",,,52,,House,buy
+567,"Por Sen Chey, Phnom Penh","$99,000",,,,,House,buy
+568,"Toul Kork, Phnom Penh","$1,900,000",,,320,,Villa,buy
+569,"Chaom Chau, Por Sen Chey, Phnom Penh","$45,000",,,32,,House,buy
+570,"Kampot, Kampot","$6,500",,,629,,Land,buy
+571,"Nirouth, Chbar Ampov, Phnom Penh","$1,399,000",,,144,,Villa,buy
+572,"Olympic, Chamkarmon, Phnom Penh","$300,000",3,,127,,Condo,buy
+573,"Boeung Tumpun, Meanchey, Phnom Penh","$63,000",1,1.0,47,,Condo,buy
+574,"Khmuonh, Sen Sok, Phnom Penh","$600,000",,,300,,Villa,buy
+575,"S'ang, Kandal","$33,000",,,33,,Shophouse,buy
+576,"Chbar Ampov, Phnom Penh","$188,000",,,100,,Villa,buy
+577,"Boeung Tumpun, Meanchey, Phnom Penh","$53,000",1,1.0,47,,Condo,buy
+578,"Dangkao, Phnom Penh","$195,000",,,64,,House,buy
+579,"Toul Kork, Phnom Penh","$350,000",,,70,,Shophouse,buy
+580,"Dangkao, Phnom Penh","$145,000",,,50,,Shophouse,buy
+581,"Odongk, Kampong Speu","$55,000",,,88,,Villa,buy
+582,"Chreav, Siem Reap, Siem Reap","$38,500",,,,,House,buy
+583,"Chak Angrae Kraom, Meanchey, Phnom Penh","$265,000",,,54,,House,buy
+584,"Siem Reap, Siem Reap","$70,000",,,56,,House,buy
+585,"Chaom Chau, Por Sen Chey, Phnom Penh","$67,000",,,,,Twin,buy
+586,Urban Village Phase 1,"$120,000",2,1.0,53,,Condo,buy
+587,"Chroy Changvar, Phnom Penh","$150,000",,,80,,Villa,buy
+588,"Krang Thnong, Sen Sok, Phnom Penh","$230,000",,,66,,Shophouse,buy
+589,"Preaek Pnov, Prek Pnov, Phnom Penh","$50,999",,,48,,House,buy
+590,"Krang Thnong, Sen Sok, Phnom Penh","$56,880",,,50,,House,buy
+591,"Sihanoukville, Sihanoukville","$200,000",,,154,,Villa,buy
+592,"Prek Ho, Ta Khmau, Kandal","$600,000",,,324,,Villa,buy
+593,"Kampot, Kampot","$800,000",,,800,,Land,buy
+594,"Chak Angrae Kraom, Meanchey, Phnom Penh","$160,000",,,66,,House,buy
+595,"Dangkao, Phnom Penh","$215,000",,,104,,Villa,buy
+596,"Kampong Kraeng, Tuek Chhou, Kampot","$500,000",,,1115,,Land,buy
+597,"Meanchey, Phnom Penh","$199,000",,,60,,House,buy
+598,"Russey Keo, Phnom Penh","$210,000",,,72,,Villa,buy
+599,"Kaoh Thum, Kandal","$9,500",,,900,,Land,buy
+600,"Sangkat Muoy, Sihanoukville, Sihanoukville","$650,000",,,307,,Villa,buy
+601,"Tumnob Tuek, Chamkarmon, Phnom Penh","$590,000",,,117,,Shophouse,buy
+602,"Chaom Chau, Por Sen Chey, Phnom Penh","$92,000",,,42,,House,buy
+603,"Boeung Tumpun, Meanchey, Phnom Penh","$65,000",,,48,,House,buy
+604,"BKK 1, Chamkarmon, Phnom Penh","$175,000",,,50,,Studio,buy
+605,"Dangkao, Phnom Penh","$52,000",,,54,,House,buy
+606,"Sla Kram, Siem Reap, Siem Reap","$80,000",,,108,,House,buy
+607,"Sla Kram, Siem Reap, Siem Reap","$135,000",,,78,,Shophouse,buy
+608,"Ta Khmao, Ta Khmau, Kandal","$350,000",,,1380,,Land,buy
+609,"Chreav, Siem Reap, Siem Reap","$29,500",,,61,,House,buy
+610,"Chak Angrae Leu, Meanchey, Phnom Penh","$145,000",,,37,,House,buy
+611,"Kamboul, Por Sen Chey, Phnom Penh","$45,000",,,69,,House,buy
+612,"Tuek Thla, Sen Sok, Phnom Penh","$50,000",,,60,,Condo,buy
+613,"Por Sen Chey, Phnom Penh","$180,000",,,64,,Shophouse,buy
+614,"Chaom Chau, Por Sen Chey, Phnom Penh","$48,000",,,55,,House,buy
+615,"Tuol Sangke, Russey Keo, Phnom Penh","$160,000",,,360,,Land,buy
+616,"Tuek L'ak 3, Toul Kork, Phnom Penh","$830,000",,,76,,House,buy
+617,"Tuol Sangke, Russey Keo, Phnom Penh","$188,000",,,66,,House,buy
+618,"Dangkao, Phnom Penh","$750,000",,,336,,Shophouse,buy
+619,"Kamboul, Por Sen Chey, Phnom Penh","$75,000",,,64,,House,buy
+620,"Sen Sok, Phnom Penh","$67,000",,,57,,Condo,buy
+621,"Dangkao, Phnom Penh","$65,000",,,49,,House,buy
+622,"Boeng Kak 2, Toul Kork, Phnom Penh","$56,000",1,1.0,28,,Condo,buy
+623,"Siem Reap, Siem Reap","$75,000",,,48,,House,buy
+624,"Prey Nheat, Kong Pisei, Kampong Speu","$270,000",,,104,,Villa,buy
+625,"Dangkao, Phnom Penh","$58,900",,,,,House,buy
+626,"Poipet, Poipet, Banteay Meanchey","$160,000",,,84,,Villa,buy
+627,"Tuol Sangke, Russey Keo, Phnom Penh","$105,333",,,66,,House,buy
+628,"Preaek Lieb, Chroy Changvar, Phnom Penh","$148,000",,,48,,Villa,buy
+629,"Sla Kram, Siem Reap, Siem Reap","$350,000",,,,,Apartment,buy
+630,"Dangkao, Phnom Penh","$170,000",,,395,,Land,buy
+631,"Chaom Chau, Por Sen Chey, Phnom Penh","$129,000",,,56,,House,buy
+632,"Stueng Mean chey, Meanchey, Phnom Penh","$36,800",,,,,House,buy
+633,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$100,000",,,,,House,buy
+634,"Dangkao, Phnom Penh","$55,555",,,66,,House,buy
+635,"Kamboul, Por Sen Chey, Phnom Penh","$42,500",,,50,,House,buy
+636,"Toul Kork, Phnom Penh","$1,700,000",,,160,,Villa,buy
+637,"Chrang Chamres 2, Russey Keo, Phnom Penh","$320,000",,,78,,Villa,buy
+638,"Meanchey, Phnom Penh","$59,000",,,68,,House,buy
+639,"Tuek L'ak 1, Toul Kork, Phnom Penh","$450,000",,,88,,House,buy
+640,"Kouk Roka, Prek Pnov, Phnom Penh","$400,000",,,185,,Shophouse,buy
+641,"Nirouth, Chbar Ampov, Phnom Penh","$200,000",,,270,,House,buy
+642,"Krang Thnong, Sen Sok, Phnom Penh","$68,000",,,48,,House,buy
+643,"Tuek Chhou, Kampot","$550,000",,,5,,Land,buy
+644,"Lvea Aem, Kandal","$95,000",,,636,,Land,buy
+645,"Tuek Chhou, Kampot","$28,000",,,300,,Land,buy
+646,"Krang Thnong, Sen Sok, Phnom Penh","$390,000",,,600,,Land,buy
+647,"Cheung Aek, Dangkao, Phnom Penh","$79,000",,,200,,Land,buy
+648,"Stueng Mean chey, Meanchey, Phnom Penh","$210,000",,,240,,House,buy
+649,"Sangkat Pir, Sihanoukville, Sihanoukville","$650,000",,,307,,Villa,buy
+650,"Tuol Sangke, Russey Keo, Phnom Penh","$165,000",,,198,,House,buy
+651,"Sla Kram, Siem Reap, Siem Reap","$64,000",,,60,,House,buy
+652,"Chaom Chau, Por Sen Chey, Phnom Penh","$60,000",,,151,,Land,buy
+653,"Kronhoung Saen Chey, Snuol, Kratie","$20,000",,,2,,Land,buy
+654,"Nirouth, Chbar Ampov, Phnom Penh","$140,000",,,42,,Shophouse,buy
+655,"Kakab 1, Por Sen Chey, Phnom Penh","$325,000",,,99,,Shophouse,buy
+656,"Ou Baek K'am, Sen Sok, Phnom Penh","$205,000",,,56,,House,buy
+657,"Toul Kork, Phnom Penh","$65,000",,,45,,Flat,buy
+658,"Preaek Kampues, Dangkao, Phnom Penh","$150,000",,,600,,Land,buy
+659,"Sangkat Bei, Sihanoukville, Sihanoukville","$320,000",,,200,,House,buy
+660,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$270,000",,,72,,Twin,buy
+661,"Por Sen Chey, Phnom Penh","$55,000",,,33,,House,buy
+662,"Otdam Soriya, Tram Kak, Takeo","$75,000",,,2079,,Land,buy
+663,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$315,000",,,72,,Twin,buy
+664,"Svay Dankum, Siem Reap, Siem Reap","$135,000",,,80,,Shophouse,buy
+665,"Nirouth, Chbar Ampov, Phnom Penh","$1,380,000",,,144,,Villa,buy
+666,"Snaor, Por Sen Chey, Phnom Penh","$68,000",,,67,,Shophouse,buy
+667,"Pong Tuek, Dangkao, Phnom Penh","$69,995",,,63,,House,buy
+668,"Prey Sa, Dangkao, Phnom Penh","$135,000",,,66,,House,buy
+669,"Boeung Tumpun, Meanchey, Phnom Penh","$155,000",,,120,,House,buy
+670,"Ponhea Lueu, Kandal","$48,000",,,1253,,Land,buy
+671,"Toul Kork, Phnom Penh","$179,999",,,75,,Condo,buy
+672,"Phum Thum, Kien Svay, Kandal","$39,900",,,,,House,buy
+673,"Dangkao, Phnom Penh","$47,500",,,50,,House,buy
+674,"Dangkao, Phnom Penh","$75,000",,,67,,House,buy
+675,"Nirouth, Chbar Ampov, Phnom Penh","$850,000",,,54,,House,buy
+676,"Siem Reap, Siem Reap","$99,000",,,273,,House,buy
+677,"Por Sen Chey, Phnom Penh","$120,000",,,64,,House,buy
+678,"Sangkat Buon, Sihanoukville, Sihanoukville","$185,000",,,63,,Shophouse,buy
+679,"Krang Thnong, Sen Sok, Phnom Penh","$68,000",,,,,House,buy
+680,"Por Sen Chey, Phnom Penh","$280,000",,,72,,Twin,buy
+681,"Nirouth, Chbar Ampov, Phnom Penh","$398,000",,,90,,Twin,buy
+682,"Chrang Chamres 2, Russey Keo, Phnom Penh","$198,000",,,68,,House,buy
+683,"Sen Sok, Phnom Penh","$95,000",,,75,,House,buy
+684,"Preaek Lieb, Chroy Changvar, Phnom Penh","$299,000",,,72,,Twin,buy
+685,"Tuek Chhou, Kampot","$123,888",,,,,House,buy
+686,"Chreav, Siem Reap, Siem Reap","$120,000",,,85,,House,buy
+687,"Chrang Chamres 2, Russey Keo, Phnom Penh","$755,000",,,169,,Villa,buy
+688,"Stueng Mean chey, Meanchey, Phnom Penh","$155,000",,,56,,Shophouse,buy
+689,"Boeung Tumpun, Meanchey, Phnom Penh","$850,000",,,100,,Villa,buy
+690,"Tuol Sangke, Russey Keo, Phnom Penh","$270,000",,,67,,House,buy
+691,"Nirouth, Chbar Ampov, Phnom Penh","$400,000",,,90,,Twin,buy
+692,"Svay Dankum, Siem Reap, Siem Reap","$265,000",,,192,,House,buy
+693,"Krang Thnong, Sen Sok, Phnom Penh","$245,000",,,73,,Twin,buy
+694,"Ta Khmau, Kandal","$375,000",,,128,,Villa,buy
+695,"Kouk Khleang, Sen Sok, Phnom Penh","$198,000",,,82,,House,buy
+696,"Chaom Chau, Por Sen Chey, Phnom Penh","$49,666",,,,,House,buy
+697,"Dangkao, Phnom Penh","$278,000",,,72,,Twin,buy
+698,"Tuek Thla, Sen Sok, Phnom Penh","$329,000",,,66,,Villa,buy
+699,"Veal Vong, 7 Makara, Phnom Penh","$300,000",,,126,,Condo,buy
+700,Urban Village Phase 1,"$120,000",,,70,,Condo,buy
+701,"Preaek Lieb, Chroy Changvar, Phnom Penh","$200,000",,,75,,Shophouse,buy
+702,"Nirouth, Chbar Ampov, Phnom Penh","$275,000",,,50,,Shophouse,buy
+703,"Chak Angrae Kraom, Meanchey, Phnom Penh","$285,000",,,54,,Shophouse,buy
+704,"Preaek Aeng, Chbar Ampov, Phnom Penh","$225,000",,,72,,Twin,buy
+705,"Kamboul, Por Sen Chey, Phnom Penh","$68,000",,,104,,Villa,buy
+706,"Kouk Roka, Prek Pnov, Phnom Penh","$189,800",,,67,,House,buy
+707,"Khmuonh, Sen Sok, Phnom Penh","$460,000",,,146,,House,buy
+708,"Chak Angrae Kraom, Meanchey, Phnom Penh","$420,000",,,72,,Twin,buy
+709,"Chey Chumneah, Daun Penh, Phnom Penh","$450,000",,,78,,House,buy
+710,"Boeung Tumpun, Meanchey, Phnom Penh","$160,000",,,209,,Land,buy
+711,"Chaom Chau, Por Sen Chey, Phnom Penh","$57,999",,,80,,House,buy
+712,"Chaom Chau, Por Sen Chey, Phnom Penh","$98,000",,,66,,Shophouse,buy
+713,"Sala Kamraeuk, Siem Reap, Siem Reap","$95,000",,,61,,House,buy
+714,"Stueng Mean chey, Meanchey, Phnom Penh","$125,000",,,67,,Shophouse,buy
+715,"Chaom Chau, Por Sen Chey, Phnom Penh","$245,000",,,72,,Twin,buy
+716,"Ta Khmao, Ta Khmau, Kandal","$155,880",,,73,,House,buy
+717,"Preaek Aeng, Chbar Ampov, Phnom Penh","$245,000",,,,,Villa,buy
+718,"Phsar Thmei II, Daun Penh, Phnom Penh","$455,000",,,65,,Shophouse,buy
+719,"Ponhea Lueu, Kandal","$48,000",,,1253,,Land,buy
+720,"Ou Baek K'am, Sen Sok, Phnom Penh","$310,000",,,70,,House,buy
+721,"Nirouth, Chbar Ampov, Phnom Penh","$265,000",,,72,,Twin,buy
+722,"Svay Dankum, Siem Reap, Siem Reap","$95,000",,,55,,House,buy
+723,"Preaek Aeng, Chbar Ampov, Phnom Penh","$225,000",,,72,,Twin,buy
+724,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$36,000",,,210,,Land,buy
+725,"Snay Anhchet, Chum Kiri, Kampot","$22,000",,,3174,,Land,buy
+726,"Kilomaetr Lekh Prammuoy, Russey Keo, Phnom Penh","$265,000",,,72,,Twin,buy
+727,"Dangkao, Phnom Penh","$88,000",,,64,,House,buy
+728,"Krang Thnong, Sen Sok, Phnom Penh","$152,000",,,210,,Land,buy
+729,"Samraong Thum, Kien Svay, Kandal","$75,000",,,,,House,buy
+730,"Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$85,000",,,570,,Land,buy
+731,"Prey Veaeng, Dangkao, Phnom Penh","$18,000",,,82,,Land,buy
+732,"Ta Khmao, Ta Khmau, Kandal","$129,000",,,66,,House,buy
+733,"Nirouth, Chbar Ampov, Phnom Penh","$235,000",,,255,,House,buy
+734,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$185,000",,,49,,Villa,buy
+735,"Kracheh, Kratie","$18,000",,,2,,Land,buy
+736,"Chaom Chau, Por Sen Chey, Phnom Penh","$168,000",,,100,,Shophouse,buy
+737,"Bakong, Prasat Bakong, Siem Reap",$98/m²,,,,,Land,buy
+738,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,000/m²",3,4.0,192,348.0,Villa,buy
+739," Monourom, 7 Makara, Phnom Penh","$37,500",1,1.0,,,Apartment,buy
+740," Chroy Changvar, Chroy Changvar, Phnom Penh","$1,419,760",4,4.0,354,,Condo,buy
+741," Phnom Touch, Odongk, Kampong Speu","$120,000",,,,4797.0,Land,buy
+742," BKK 1, Chamkarmon, Phnom Penh","$95,000",1,1.0,61,,Apartment,buy
+743," Olympic, Chamkarmon, Phnom Penh","$47,000",1,1.0,45,,Condo,buy
+744,"Khmuonh, Sen Sok, Phnom Penh","$190,000",4,5.0,76,100.0,Flat,buy
+745," Chroy Changvar, Chroy Changvar, Phnom Penh","$1,150,000",5,5.0,228,450.0,Villa,buy
+746,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$275,000",4,5.0,,,Link,buy
+747," Prek Ho, Ta Khmau, Kandal","$1,600,000",,,,1495.0,Land,buy
+748," Tonle Bassac, Chamkarmon, Phnom Penh","$80,000",1,1.0,49,49.0,Condo,buy
+749," Svay Dankum, Siem Reap, Siem Reap","$352,080",,,,,Land,buy
+750," Nirouth, Chbar Ampov, Phnom Penh",$850,4,5.0,120,320.0,Villa,buy
+751," Sangkat Buon, Sihanoukville, Sihanoukville","$180,000",6,7.0,243,89.0,Shophouse,buy
+752,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,600,000",5,5.0,453,560.0,Villa,buy
+753," Sangkat Buon, Sihanoukville, Sihanoukville","$90,000",,,,200.0,Land,buy
+754," Sangkat Bei, Sihanoukville, Sihanoukville","$88,000",1,1.0,44,,Condo,buy
+755,"ផ្លូវបេតុង , Bakong, Prasat Bakong, Siem Reap","$22,000",,,,,Land,buy
+756,"76 ផ្លូវជាតិ៧៦, Pir Thnu, Snuol, Kratie","$45,200",,,,,Land,buy
+757," Prey Sa, Dangkao, Phnom Penh","$210,000",4,5.0,,542.0,House,buy
+758,"Boeung Tumpun, Meanchey, Phnom Penh","$158,000",5,6.0,166,245.0,House,buy
+759," Sangkat Bei, Sihanoukville, Sihanoukville","$61,200",1,1.0,36,,Apartment,buy
+760,"Nirouth, Chbar Ampov, Phnom Penh","$210,000",4,4.0,,,House,buy
+761," Sangkat Bei, Sihanoukville, Sihanoukville","$1,850/m²",10,11.0,,586.0,House,buy
+762,"St 240, Boeng Reang, Daun Penh, Phnom Penh","$250,000",,2.0,,128.0,Apartment,buy
+763," Tonle Bassac, Chamkarmon, Phnom Penh","$220,000",1,1.0,59,84.0,Condo,buy
+764,"krang Thnong 2011, Krang Thnong, Sen Sok, Phnom Penh","$350,000",4,4.0,,240.0,Link,buy
+765," Preaek Kampues, Dangkao, Phnom Penh","$64,500",4,5.0,,56.0,Flat,buy
+766," Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$189,000",8,9.0,,134.0,Flat,buy
+767," Sangkat Buon, Sihanoukville, Sihanoukville","$1,100/m²",,,,,Land,buy
+768," Tuek Thla, Sen Sok, Phnom Penh","$185,000",2,2.0,95,,Condo,buy
+769," Boeung Trabek, Chamkarmon, Phnom Penh","$800,000",4,6.0,448,420.0,Villa,buy
+770," Prey Thnang, Tuek Chhou, Kampot","$315,000$157,500SAVE50.00%",4,4.0,303,720.0,Villa,buy
+771," Nirouth, Chbar Ampov, Phnom Penh","$1,250,000",7,9.0,,538.0,Villa,buy
+772,"Nirouth, Chbar Ampov, Phnom Penh","$1,100,000",5,6.0,300,450.0,Villa,buy
+773," Cheung Aek, Dangkao, Phnom Penh","$380,000",5,6.0,270,220.0,Twin,buy
+774," Boeung Tumpun, Meanchey, Phnom Penh","$1,200,000",8,9.0,459,92.0,Shophouse,buy
+775," Tonle Bassac, Chamkarmon, Phnom Penh","$228,000",2,1.0,93,63.0,Condo,buy
+776," Tonle Bassac, Chamkarmon, Phnom Penh","$124,500",,,,,Condo,buy
+777,"Boeung Kak 2, Toul Kork, Phnom Penh","$58,000",1,1.0,24,,Condo,buy
+778," BKK 3, Chamkarmon, Phnom Penh","$105,000",2,2.0,84,,Condo,buy
+779," Boeung Tumpun, Meanchey, Phnom Penh","$100,000",2,2.0,90,,Condo,buy
+780," Sangkat Pir, Sihanoukville, Sihanoukville",$380/m²,,,,478.0,Land,buy
+781," Boeng Reang, Daun Penh, Phnom Penh","$80,000",1,1.0,47,38.0,Condo,buy
+782," Chroy Changvar, Chroy Changvar, Phnom Penh","$68,000",1,1.0,84,63.0,Condo,buy
+783," Tonle Bassac, Chamkarmon, Phnom Penh","$300,000",3,2.0,127,,Condo,buy
+784," Ou Baek K'am, Sen Sok, Phnom Penh","$185,000",2,2.0,9523,,Condo,buy
+785," Pak Khlang, Mondol Seima, Koh Kong","$2,100,000",,,,6420.0,Land,buy
+786,"Nirouth, Chbar Ampov, Phnom Penh","$1,200,000",6,7.0,,,Villa,buy
+787," Cheung Aek, Dangkao, Phnom Penh","$120,000",3,4.0,165,280.0,Villa,buy
+788,"Nirouth, Chbar Ampov, Phnom Penh","$1,400,000",5,6.0,,,Villa,buy
+789,"Preaek Kampues, Dangkao, Phnom Penh","$64,500",4,5.0,49,56.0,House,buy
+790," Sangkat Muoy, Sihanoukville, Sihanoukville","$128,000",5,6.0,192,72.0,Shophouse,buy
+791,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$2,020,000",6,7.0,,,Villa,buy
+792,"Svay Dankum, Siem Reap, Siem Reap","$89,000",,,,,Land,buy
+793,"លំ , Thmei, Tuek Chhou, Kampot","$900,000",,,,150000.0,Land,buy
+794,"Chreav, Siem Reap, Siem Reap","$60,000",,,,420.0,Land,buy
+795,"Sangkat Bei, Sihanoukville, Sihanoukville","$60,000",1,1.0,25,25.0,Condo,buy
+796," Boeung Tumpun, Meanchey, Phnom Penh","$51,000",1,1.0,56,,Condo,buy
+797," Tonle Bassac, Chamkarmon, Phnom Penh","$340,000",3,2.0,160,170.0,Condo,buy
+798,"Sla Kram, Siem Reap, Siem Reap","$160,000",2,2.0,,,House,buy
+799," Tonle Bassac, Chamkarmon, Phnom Penh","$338,000",3,2.0,127,,Condo,buy
+800," Sangkat Buon, Sihanoukville, Sihanoukville",POA,,,,634.0,LandPOA,buy
+801,"NR-3 , L'ang, Dang Tong, Kampot","$3,000,000",,,,34086.0,Land,buy
+802,"7NG , Preaek Ampil, Khsach Kandal, Kandal","$35,500",2,2.0,105,105.0,Link,buy
+803," Ou, Phnum Sruoch, Kampong Speu",$75/m²,,,,,Land,buy
+804," Sala Kamraeuk, Siem Reap, Siem Reap","$700,000",21,21.0,,512.0,Apartment,buy
+805,"7NG , Preaek Ampil, Khsach Kandal, Kandal","$35,500",2,2.0,105,105.0,Link,buy
+806," Boeung Trabek, Chamkarmon, Phnom Penh","$650,000",4,4.0,300,125.0,Shophouse,buy
+807," Chroy Changvar, Chroy Changvar, Phnom Penh","$58,000",1,1.0,50,,Condo,buy
+808," Tonle Bassac, Chamkarmon, Phnom Penh","$340,000",3,3.0,156,156.0,Condo,buy
+809,"Lum 201, Kampong Samnanh, Ta Khmau, Kandal","$300,000",5,5.0,,,House,buy
+810," Chak Angrae Leu, Meanchey, Phnom Penh","$80,000",1,1.0,,,Condo,buy
+811," Tonle Bassac, Chamkarmon, Phnom Penh","$250,000",2,2.0,,,Condo,buy
+812," Chak Angrae Leu, Meanchey, Phnom Penh","$105,000",2,2.0,,,Condo,buy
+813," Tonle Bassac, Chamkarmon, Phnom Penh","$7,960,000",3,3.0,,,Condo,buy
+814," Tonle Bassac, Chamkarmon, Phnom Penh","$442,300",2,2.0,,,Condo,buy
+815," Tonle Bassac, Chamkarmon, Phnom Penh","$323,900",2,2.0,,,Condo,buy
+816," Tonle Bassac, Chamkarmon, Phnom Penh","$166,858",1,1.0,,,Condo,buy
+817," Svay Dankum, Siem Reap, Siem Reap","$369,600",,,,1056.0,Land,buy
+818," Phnom Penh Thmey, Sen Sok, Phnom Penh","$750,000",6,7.0,324,115.0,Shophouse,buy
+819," Tonle Bassac, Chamkarmon, Phnom Penh","$115,000",1,1.0,,,Condo,buy
+820," Prey Sa, Dangkao, Phnom Penh","$880,000",6,8.0,507,448.0,Villa,buy
+821," Preaek Lieb, Chroy Changvar, Phnom Penh","$550,000",5,7.0,324,322.0,Villa,buy
+822," Preaek Lieb, Chroy Changvar, Phnom Penh","$170,000",5,4.0,,110.0,House,buy
+823," Chrang Chamres I, Russey Keo, Phnom Penh","$650,000",5,7.0,324,352.0,Villa,buy
+824," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$790,000",7,6.0,200,150.0,Flat,buy
+825," Chak Angrae Leu, Meanchey, Phnom Penh","$860,000",5,7.0,324,322.0,Villa,buy
+826," Preaek Lieb, Chroy Changvar, Phnom Penh","$750,000",5,7.0,488,391.0,Villa,buy
+827,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$850,000",9,9.0,,,Shophouse,buy
+828," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,300,000",8,7.0,189,456.0,Villa,buy
+829," Tonle Bassac, Chamkarmon, Phnom Penh","$118,000",1,1.0,52,,Condo,buy
+830," Boeung Kak 1, Toul Kork, Phnom Penh","$58,000",1,1.0,38,,Apartment,buy
+831,"Sangkat Muoy, Sihanoukville, Sihanoukville","$60,000",1,1.0,32,32.0,Condo,buy
+832," Tonle Bassac, Chamkarmon, Phnom Penh","$55,000",1,1.0,40,,Condo,buy
+833," Sangkat Bei, Sihanoukville, Sihanoukville","$110,000",1,1.0,48,,Apartment,buy
+834," Tonle Bassac, Chamkarmon, Phnom Penh","$76,800",1,1.0,46,,Condo,buy
+835,"Tumnob Tuek, Chamkarmon, Phnom Penh","$580,000",,,,189.0,Land,buy
+836,"Boeung Trabek, Chamkarmon, Phnom Penh","$37,000",1,1.0,38,,Condo,buy
+837," Chroy Changvar, Chroy Changvar, Phnom Penh","$141,900",1,1.0,35,,Condo,buy
+838," Chrang Chamres 2, Russey Keo, Phnom Penh","$900,000",6,7.0,546,426.0,Villa,buy
+839,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$55,000",1,1.0,46,,Condo,buy
+840," Chreav, Siem Reap, Siem Reap","$270,000",3,4.0,,,House,buy
+841,"BKK 1, Chamkarmon, Phnom Penh","$700,000",2,2.0,105,105.0,Shophouse,buy
+842,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$1,600,000",,,,,Land,buy
+843,"Nirouth, Chbar Ampov, Phnom Penh","$220,000",4,5.0,40,81.0,House,buy
+844," Svay Dankum, Siem Reap, Siem Reap","$330,000",6,6.0,,,House,buy
+845,"Phsar Kandal I, Daun Penh, Phnom Penh","$150,000$100,000SAVE33.33%",2,2.0,120,,Apartment,buy
+846,"Kaoh Sdach, Kiri Sakor, Koh Kong","$250,000",3,4.0,252,,Villa,buy
+847,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,260,000",,,,450.0,Land,buy
+848,"BKK 1, Chamkarmon, Phnom Penh","$183,000",1,1.0,53,,Condo,buy
+849,"BKK 1, Chamkarmon, Phnom Penh","$99,000",1,1.0,30,,Condo,buy
+850," Krang Thnong, Sen Sok, Phnom Penh","$35,000",1,1.0,,57.0,Flat,buy
+851,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$360,000",3,3.0,,151.0,Flat,buy
+852,"Boeung Kak 2, Toul Kork, Phnom Penh","$300,000",5,4.0,144,75.0,Flat,buy
+853," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$250,000",4,5.0,256,64.0,Flat,buy
+854," Phnom Penh Thmey, Sen Sok, Phnom Penh","$110,000",6,7.0,,64.0,Flat,buy
+855," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$280,000",7,8.0,256,64.0,Flat,buy
+856,"Andoung Khmer, Kampot, Kampot","$175,000",2,3.0,,,House,buy
+857,"Chroy Changvar, Chroy Changvar, Phnom Penh","$600,000",,,,350.0,House,buy
+858,"Boeung Kak 1, Toul Kork, Phnom Penh","$2,200,000",9,7.0,,500.0,Villa,buy
+859,"Phsar Kandal II, Daun Penh, Phnom Penh","$141,000",2,2.0,128,,Apartment,buy
+860,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$220,000",3,4.0,80,312.0,Villa,buy
+861,"Kakap, Por Sen Chey, Phnom Penh","$260,000",4,4.0,180,308.0,Villa,buy
+862,"Chak Angrae Leu, Meanchey, Phnom Penh","$110,000$75,000SAVE31.82%",1,2.0,52,,Condo,buy
+863,"BKK 2, Chamkarmon, Phnom Penh","$350,000",2,2.0,82,82.0,Land,buy
+864," Preaek Lieb, Chroy Changvar, Phnom Penh","$490,000",6,8.0,,366.0,Shophouse,buy
+865," Preaek Lieb, Chroy Changvar, Phnom Penh","$170,000",1,1.0,,143.0,House,buy
+866," Preaek Koy, S'ang, Kandal","$74,850",,,,2994.0,Land,buy
+867," Preaek Lieb, Chroy Changvar, Phnom Penh","$195,000",3,4.0,,98.0,Link,buy
+868," Chrang Chamres I, Russey Keo, Phnom Penh","$6,820,000",,,,3410.0,Land,buy
+869," BKK 3, Chamkarmon, Phnom Penh","$200,000",5,4.0,50,172.0,Flat,buy
+870," Phnom Penh Thmey, Sen Sok, Phnom Penh","$300,000",4,5.0,,92.0,Flat,buy
+871," Phnom Penh Thmey, Sen Sok, Phnom Penh","$580,000",9,3.0,,108.0,Shophouse,buy
+872,"Srah Chak, Daun Penh, Phnom Penh","$1,700,000",2,3.0,,330.0,Villa,buy
+873,"Tumnob Tuek, Chamkarmon, Phnom Penh","$6,600/m²",,,,180.0,Land,buy
+874,"Tumnob Tuek, Chamkarmon, Phnom Penh","$3,500/m²",,,,578.0,Land,buy
+875,"Preaek Aeng, Chbar Ampov, Phnom Penh","$158,000",4,5.0,,,Apartment,buy
+876,"Preaek Aeng, Chbar Ampov, Phnom Penh","$78,000",2,3.0,,68.0,Apartment,buy
+877,"Tonle Bassac, Chamkarmon, Phnom Penh","$12,008,000",,,,1501.0,Land,buy
+878," Run Ta Aek, Banteay Srei, Siem Reap",$52/m²,,,,,Land,buy
+879," Siem Reap, Siem Reap, Siem Reap","$100,000",,,,,Land,buy
+880,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,300,000",8,7.0,,456.0,Villa,buy
+881," Boeung Kak 2, Toul Kork, Phnom Penh","$65,000",1,1.0,33,,Condo,buy
+882," Boeng Reang, Daun Penh, Phnom Penh","$3,060,000",8,9.0,,425.0,Villa,buy
+883," Tonle Bassac, Chamkarmon, Phnom Penh","$2,200,000",1,1.0,,825.0,Villa,buy
+884," Kep, Kep, Kep","$2,000,000",25,,,4000.0,Villa,buy
+885," Traeuy Kaoh, Kampot, Kampot","$600,000",9,11.0,,2500.0,Villa,buy
+886," Phnom Penh Thmey, Sen Sok, Phnom Penh","$115,000",1,1.0,62,,Condo,buy
+887," Preaek Anhchanh, Mukh Kampul, Kandal","$59,000",2,3.0,,81.0,Flat,buy
+888," Chroy Changvar, Chroy Changvar, Phnom Penh","$800,000",7,7.0,,360.0,Villa,buy
+889," BKK 3, Chamkarmon, Phnom Penh","$550,000",7,7.0,,132.0,House,buy
+890," Prey Sa, Dangkao, Phnom Penh","$125,000",4,5.0,,70.0,Link,buy
+891,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$1,500,000",6,7.0,,,House,buy
+892," Phnom Penh Thmey, Sen Sok, Phnom Penh","$60,000",2,2.0,40,,Condo,buy
+893,"BKK 1, Chamkarmon, Phnom Penh","$80,000",1,1.0,30,37.0,Condo,buy
+894," Chaom Chau 1, Por Sen Chey, Phnom Penh","$135,000",5,6.0,,135000.0,Flat,buy
+895,"Chey Chumneah, Daun Penh, Phnom Penh","$650,000",8,7.0,,,Flat,buy
+896," Chaom Chau 1, Por Sen Chey, Phnom Penh","$135,000",4,5.0,,67.0,Flat,buy
+897,"Wat Phnom, Daun Penh, Phnom Penh","$200,000",2,2.0,,165.0,Flat,buy
+898," Tuol Sangkae 2, Russey Keo, Phnom Penh","$650,000",1,1.0,112,,House,buy
+899," Boeung Kak 1, Toul Kork, Phnom Penh","$95,000$85,000SAVE10.53%",2,1.0,54,,Condo,buy
+900," Phleung Chheh Roteh, Por Sen Chey, Phnom Penh","$99,900",4,5.0,,175.0,Shophouse,buy
+901," Akreiy Ksatr, Lvea Aem, Kandal","$39,500",2,2.0,,50.0,Flat,buy
+902," Preaek Lieb, Chroy Changvar, Phnom Penh","$450,000",4,6.0,336,276.0,Villa,buy
+903,"Boeung Kak 1, Toul Kork, Phnom Penh","$3,500/m²",,,,1320.0,Land,buy
+904," Nirouth, Chbar Ampov, Phnom Penh","$175,000",4,5.0,,85.0,Link,buy
+905,"Tuol Sangkae 1, Russey Keo, Phnom Penh","$538,000",5,6.0,,368.0,Villa,buy
+906,"Veal Sbov, Chbar Ampov, Phnom Penh","$295,000",4,5.0,,72.0,Twin,buy
+907,"Boeung Prolit, 7 Makara, Phnom Penh","$480,000",2,2.0,,90.0,Flat,buy
+908," Preaek Lieb, Chroy Changvar, Phnom Penh","$330,000",4,5.0,234,178.0,Twin,buy
+909," Preaek Lieb, Chroy Changvar, Phnom Penh","$690,000",5,6.0,468,420.0,Villa,buy
+910," Sangkat Bei, Sihanoukville, Sihanoukville","$380,000",4,5.0,,120.0,Shophouse,buy
+911,"Boeung Kak 1, Toul Kork, Phnom Penh","$3,500,000",15,15.0,,729.0,Villa,buy
+912," Mittapheap, 7 Makara, Phnom Penh","$180,000",3,3.0,,,Apartment,buy
+913," Olympic, Chamkarmon, Phnom Penh","$50,000",1,1.0,45,,Condo,buy
+914," Boeung Kak 1, Toul Kork, Phnom Penh","$600,000",3,4.0,333,,Condo,buy
+915," Preaek Lieb, Chroy Changvar, Phnom Penh","$95,000",2,2.0,71,,Condo,buy
+916," Chak Angrae Kraom, Meanchey, Phnom Penh","$9,504,000",,,,3520.0,Land,buy
+917," Chrang Chamres 2, Russey Keo, Phnom Penh","$750,000",,,,,Shophouse,buy
+918," Sangkat Bei, Sihanoukville, Sihanoukville","$1,400,000",24,24.0,,263.0,Apartment,buy
+919,"Nirouth, Chbar Ampov, Phnom Penh","$400,000",5,7.0,270,250.0,Twin,buy
+920," Tonle Bassac, Chamkarmon, Phnom Penh","$303,000",3,2.0,119,,Apartment,buy
+921," Sala Kamraeuk, Siem Reap, Siem Reap","$130,000",2,3.0,,,House,buy
+922," Sala Kamraeuk, Siem Reap, Siem Reap","$129,000",6,4.0,,,House,buy
+923," Chroy Changvar, Chroy Changvar, Phnom Penh","$190,000",3,4.0,152,,Condo,buy
+924," Phnom Penh Thmey, Sen Sok, Phnom Penh","$390,000",4,5.0,,,Twin,buy
+925," Svay Dankum, Siem Reap, Siem Reap","$280,000",5,4.0,,,House,buy
+926,"Phsar Kandal II, Daun Penh, Phnom Penh","$250,000",5,3.0,,,Flat,buy
+927," Phnom Penh Thmey, Sen Sok, Phnom Penh","$320,000",4,6.0,,157.0,Twin,buy
+928,"Phsar Kandal I, Daun Penh, Phnom Penh","$1,500,000",2,2.0,,74.0,Shophouse,buy
+929,"Phsar Kandal I, Daun Penh, Phnom Penh","$2,800,000",6,11.0,,126.0,House,buy
+930," Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,500,000",6,8.0,,438.0,Villa,buy
+931," Phnom Penh Thmey, Sen Sok, Phnom Penh","$350,000",4,6.0,,157.0,Twin,buy
+932," Phnom Penh Thmey, Sen Sok, Phnom Penh","$300,000",4,5.0,,157.0,Twin,buy
+933,"Chroy Changvar, Chroy Changvar, Phnom Penh","$160,315",1,1.0,75,,Apartment,buy
+934,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$2,200,000",6,7.0,,475.0,Villa,buy
+935," Phsar Kandal I, Daun Penh, Phnom Penh","$200,000",2,2.0,70,,Apartment,buy
+936," Dangkao, Dangkao, Phnom Penh","$169,000",3,5.0,227,99.0,Shophouse,buy
+937,"Tonle Bassac, Chamkarmon, Phnom Penh","$550,604",3,3.0,288,,Condo,buy
+938," Dangkao, Dangkao, Phnom Penh","$249,000",4,5.0,287,185.0,Twin,buy
+939," Tonle Bassac, Chamkarmon, Phnom Penh","$130,000",1,1.0,53,,Condo,buy
+940," Svay Dankum, Siem Reap, Siem Reap","$634,950",,,,,Land,buy
+941,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$2,000,000",,4.0,,,Apartment,buy
+942," Svay Dankum, Siem Reap, Siem Reap","$190,000",2,3.0,,,House,buy
+943,"Phsar Thmei III, Daun Penh, Phnom Penh","$790,000",2,3.0,,107.0,Shophouse,buy
+944," Svay Dankum, Siem Reap, Siem Reap","$850,000",2,3.0,,,House,buy
+945," Boeung Kak 1, Toul Kork, Phnom Penh","$76,200",1,1.0,40,,Condo,buy
+946," Boeung Kak 1, Toul Kork, Phnom Penh","$68,200",1,,43,,Condo,buy
+947," Boeung Tumpun, Meanchey, Phnom Penh","$550,000",10,11.0,,87.0,Shophouse,buy
+948,"BKK 3, Chamkarmon, Phnom Penh","$150,693",2,1.0,72,,Condo,buy
+949,"Anlong Romiet, Kandal Stueng, Kandal","$69,000",4,5.0,,200.0,House,buy
+950,"BKK 3, Chamkarmon, Phnom Penh","$103,730",1,1.0,57,,Condo,buy
+951," Nirouth, Chbar Ampov, Phnom Penh","$255,000",4,5.0,,68.0,Shophouse,buy
+952," Kampong Kraeng, Tuek Chhou, Kampot","$1,800,000",,,,6645.0,Land,buy
+953," Chak Angrae Leu, Meanchey, Phnom Penh","$480,000",4,4.0,260,,Condo,buy
+954,"Chakto Mukh, Daun Penh, Phnom Penh","$42,000",2,1.0,88,,Flat,buy
+955,"Phsar Thmei I, Daun Penh, Phnom Penh","$850,000",6,8.0,113,,Shophouse,buy
+956," Tuol Sangkae 1, Russey Keo, Phnom Penh","$82,000",1,1.0,67,,Condo,buy
+957,"BKK 2, Chamkarmon, Phnom Penh","$53,000",1,1.0,35,,Condo,buy
+958," Chrang Chamres 2, Russey Keo, Phnom Penh","$140,000",3,4.0,,60.0,Link,buy
+959," Sala Kamraeuk, Siem Reap, Siem Reap",$450/m²,,,,,Land,buy
+960," Chroy Changvar, Chroy Changvar, Phnom Penh","$8,455,200",1,1.0,,3523.0,Villa,buy
+961,"Chaom Chau, Por Sen Chey, Phnom Penh","$2,900,000",7,10.0,200,844.0,Villa,buy
+962,"214 , Boeng Reang, Daun Penh, Phnom Penh","$95,000",,1.0,38,,Condo,buy
+963," Tonle Bassac, Chamkarmon, Phnom Penh",$450,1,1.0,,,Apartment,buy
+964," Svay Dankum, Siem Reap, Siem Reap","$800,000",3,3.0,,,Land,buy
+965," Tonle Bassac, Chamkarmon, Phnom Penh","$409,217",,,,,Condo,buy
+966," Tonle Bassac, Chamkarmon, Phnom Penh","$150,172",,,,,Condo,buy
+967," Tonle Bassac, Chamkarmon, Phnom Penh","$442,300",,,,,Condo,buy
+968," Sala Kamraeuk, Siem Reap, Siem Reap","$1,160,000",,,,,Land,buy
+969,"Boeung Trabek, Chamkarmon, Phnom Penh","$8,496,000",,,,708.0,Land,buy
+970,"Svay Dankum, Siem Reap, Siem Reap","$612,000",,,,3060.0,Land,buy
+971,"Chey Chumneah, Daun Penh, Phnom Penh","$917,000",3,2.0,,131.0,Apartment,buy
+972,"Chey Chumneah, Daun Penh, Phnom Penh","$1,500,000",4,5.0,108,141.0,Shophouse,buy
+973,"Chey Chumneah, Daun Penh, Phnom Penh","$800,000",4,6.0,,118.0,Shophouse,buy
+974,"Chey Chumneah, Daun Penh, Phnom Penh","$650,000",,,,100.0,Shophouse,buy
+975,"Chey Chumneah, Daun Penh, Phnom Penh","$580,000",3,6.0,,68.0,Flat,buy
+976,"Phsar Chas, Daun Penh, Phnom Penh","$450,000",3,3.0,151,151.0,Shophouse,buy
+977," BKK 1, Chamkarmon, Phnom Penh","$125,000",1,1.0,89,,Condo,buy
+978," Chreav, Siem Reap, Siem Reap","$150,000",3,4.0,,,House,buy
+979,"Chay Stueng Chay Stueng, Kampong Seila, Kampong Seila, Sihanoukville","$292,050",4,5.0,,1239.0,Villa,buy
+980," Chey Chumneah, Daun Penh, Phnom Penh","$700,000",5,3.0,400,100.0,Flat,buy
+981,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,400,000",,,,280.0,Land,buy
+982," BKK 3, Chamkarmon, Phnom Penh",$450,,,,,Condo,buy
+983," Kouk Roka, Prek Pnov, Phnom Penh","$50,000",2,3.0,,49.0,Flat,buy
+984,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,500,000",,,,442.0,Land,buy
+985," Tumnob Tuek, Chamkarmon, Phnom Penh","$230,000",3,4.0,,72.0,Shophouse,buy
+986," Pong Tuek, Dangkao, Phnom Penh","$90,000",4,5.0,,79.0,Flat,buy
+987,"Stueng Mean chey 1, Meanchey, Phnom Penh","$1,200,000",,,,1804.0,Land,buy
+988," Chrang Chamres 2, Russey Keo, Phnom Penh","$280,000",5,6.0,,92.0,Shophouse,buy
+989," Krang Thnong, Sen Sok, Phnom Penh","$110,000",2,3.0,,90.0,Link,buy
+990," Boeung Kak 1, Toul Kork, Phnom Penh","$260,000",2,3.0,,87.0,Flat,buy
+991," Veal Vong, 7 Makara, Phnom Penh","$280,000",1,1.0,,88.0,Shophouse,buy
+992," Tuol Sangke, Russey Keo, Phnom Penh","$250,000",4,5.0,,148.0,Flat,buy
+993,"Tuek L'ak 1, Toul Kork, Phnom Penh","$260,000",,,,271.0,Land,buy
+994," Chaom Chau 3, Por Sen Chey, Phnom Penh","$98,000",3,3.0,,98.0,Link,buy
+995," Kakab 1, Por Sen Chey, Phnom Penh","$120,000",5,6.0,,102.0,Flat,buy
+996," Ta Khmao, Ta Khmau, Kandal","$47,000",2,3.0,,77.0,Flat,buy
+997," Khmuonh, Sen Sok, Phnom Penh","$255,000",4,5.0,,160.0,Twin,buy
+998," Svay Dankum, Siem Reap, Siem Reap","$1,054,000",1,1.0,,1054.0,House,buy
+999,"Phsar Thmei III, Daun Penh, Phnom Penh","$700,000",4,5.0,,,Shophouse,buy
+1000,"Phsar Kandal II, Daun Penh, Phnom Penh","$4,500permonth",5,5.0,519,,Penthouse,rent
+1001,Time Square II,$600permonth,2,1.0,43,,Apartment,rent
+1002,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$4,000permonth",,,,732.0,Shophouse,rent
+1003," Svay Dankum, Siem Reap, Siem Reap","$86,478","['1', '3']",,"['32', '136']",,Condo,rent
+1004,Kingston Residence,$800permonth,2,2.0,70,,Serviced,rent
+1005,The Emerald,"$1,200permonth",1,2.0,75,,Serviced,rent
+1006,The View Serviced Residence,$500permonth,1,1.0,27,,Serviced,rent
+1007," Tuek Thla, Sen Sok, Phnom Penh","$77,164","['1', '3']",,"['30', '127']",,,rent
+1008,Residence 105 Hotel & Apartment,$850permonth,2,2.0,50,,Serviced,rent
+1009,Phnom Penh 51 Hotel & Apartment,"$1,000permonth",1,1.0,52,,Serviced,rent
+1010,Soho Residence,"$1,700permonth",3,2.0,80,,Serviced,rent
+1011,Oakwood Premier Phnom Penh,"$1,085permonth",1,1.0,44,,Serviced,rent
+1012,Mekong View Tower 2,$650permonth,2,2.0,105,,Serviced,rent
+1013,Sak Nika Apartment,$800permonth,1,1.0,55,,Serviced,rent
+1014,493 Apartment,"$1,100permonth",2,2.0,130,,Serviced,rent
+1015,SunCity Serviced Apartment,"$2,500permonth",2,2.0,110,,Serviced,rent
+1016," BKK 1, Chamkarmon, Phnom Penh","$181,000","['2', '3']",,"['65', '153']",,,rent
+1017,Granferte Phnom Penh,"$1,600permonth",2,2.0,92,,Serviced,rent
+1018,"Boeung Prolit, 7 Makara, Phnom Penh",$750permonth,2,2.0,130,,Apartment,rent
+1019,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$900permonth,2,2.0,85,,Apartment,rent
+1020," Boeung Kak 1, Toul Kork, Phnom Penh",$400permonth,1,1.0,45,,Apartment,rent
+1021," Boeung Kak 1, Toul Kork, Phnom Penh",$750permonth,1,1.0,75,,Apartment,rent
+1022," Boeung Kak 1, Toul Kork, Phnom Penh",$950permonth,2,2.0,98,,Apartment,rent
+1023,"BKK 1, Chamkarmon, Phnom Penh","$1,400permonth",1,1.0,55,,Apartment,rent
+1024,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$600permonth,1,2.0,80,,Apartment,rent
+1025,"Wat Phnom, Daun Penh, Phnom Penh",$550permonth,2,1.0,,,Apartment,rent
+1026," Sangkat Bei, Sihanoukville, Sihanoukville",$400permonth,1,1.0,32,,Apartment,rent
+1027," Sangkat Bei, Sihanoukville, Sihanoukville",$900permonth,1,1.0,63,,Apartment,rent
+1028,"Chakto Mukh, Daun Penh, Phnom Penh","$4,500permonth",1,2.0,128,,Shophouse,rent
+1029,"Chey Chumneah, Daun Penh, Phnom Penh",$900permonth,3,2.0,130,,Apartment,rent
+1030,"Ou Baek K'am, Sen Sok, Phnom Penh",$900permonth,2,1.0,,95.0,Apartment,rent
+1031,"Sangkat Bei, Sihanoukville, Sihanoukville",$400permonth,,,,,Apartment,rent
+1032,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,2,2.0,80,,Apartment,rent
+1033,Picasso City Garden,"$1,750permonth",2,1.0,70,,Apartment,rent
+1034,Picasso City Garden,"$3,250permonth",3,2.0,120,,Apartment,rent
+1035,"Wat Phnom, Daun Penh, Phnom Penh",$350permonth,1,1.0,52,,Apartment,rent
+1036,Picasso City Garden,"$7,000permonth",5,4.0,310,,Penthouse,rent
+1037,"BKK 1, Chamkarmon, Phnom Penh","$1,050permonth",1,1.0,85,,Apartment,rent
+1038," Boeung Prolit, 7 Makara, Phnom Penh","$1,000permonth",2,2.0,100,,Apartment,rent
+1039,"Tuek L'ak 1, Toul Kork, Phnom Penh",$600permonth,2,2.0,59,,Apartment,rent
+1040,"Tonle Bassac, Chamkarmon, Phnom Penh",$800permonth,2,2.0,120,,Apartment,rent
+1041,Olympia City,$400permonth,1,1.0,48,,Condo,rent
+1042," Sla Kram, Siem Reap, Siem Reap","$2,000permonth",4,4.0,,,House,rent
+1043," Tonle Bassac, Chamkarmon, Phnom Penh","$1,500permonth",3,4.0,192,348.0,Villa,rent
+1044," BKK 3, Chamkarmon, Phnom Penh","$2,000permonth",4,4.0,,,Villa,rent
+1045,"Boeung Trabek, Chamkarmon, Phnom Penh","$1,500permonth",3,4.0,,375.0,Villa,rent
+1046," Boeung Prolit, 7 Makara, Phnom Penh",$530permonth,1,1.0,45,,Condo,rent
+1047," Tonle Bassac, Chamkarmon, Phnom Penh","$3,500permonth",4,4.0,,,Villa,rent
+1048,"Tonle Bassac, Chamkarmon, Phnom Penh","$7,000permonth",6,6.0,,,Villa,rent
+1049,"BKK 3, Chamkarmon, Phnom Penh","$4,000permonth",5,5.0,,450.0,Villa,rent
+1050," BKK 2, Chamkarmon, Phnom Penh","$8,000permonth",16,16.0,1092,372.0,Apartment,rent
+1051," Svay Dankum, Siem Reap, Siem Reap","$1,500permonth",4,4.0,,,Apartment,rent
+1052," BKK 1, Chamkarmon, Phnom Penh",$550permonth,2,2.0,85,85.0,Apartment,rent
+1053," BKK 1, Chamkarmon, Phnom Penh",$800permonth,,,80,,Condo,rent
+1054," Tonle Bassac, Chamkarmon, Phnom Penh","$1,700permonth",3,2.0,88,,Condo,rent
+1055,"BKK 3, Chamkarmon, Phnom Penh","$1,700permonth",4,4.0,,275.0,Villa,rent
+1056,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,800permonth",4,5.0,,303.0,Villa,rent
+1057,"Ou Baek K'am, Sen Sok, Phnom Penh","$2,300permonth",3,3.0,164,,Condo,rent
+1058,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$850permonth,2,3.0,108,,Apartment,rent
+1059,"Veal Vong, 7 Makara, Phnom Penh",$350permonth,1,1.0,40,,Apartment,rent
+1060,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,450permonth",3,2.0,123,,Apartment,rent
+1061," BKK 1, Chamkarmon, Phnom Penh","$1,800permonth",,,,,Condo,rent
+1062,L’attrait Boeung Keng Kang,"$1,500permonth",1,1.0,50,,Condo,rent
+1063,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,000permonth",3,4.0,260,161.0,Link,rent
+1064,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,000permonth",4,3.0,,,Villa,rent
+1065,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,200permonth",3,4.0,260,161.0,Link,rent
+1066,"BKK 1, Chamkarmon, Phnom Penh","$1,800permonth",2,2.0,100,,Apartment,rent
+1067,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,500permonth",4,5.0,440,275.0,Villa,rent
+1068," Svay Dankum, Siem Reap, Siem Reap",$400permonth,2,1.0,,,Apartment,rent
+1069,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,500permonth",4,5.0,440,,Villa,rent
+1070,"Sala Kamraeuk, Siem Reap, Siem Reap",$530permonth,1,1.0,,,Apartment,rent
+1071,"Boeung Kak 2, Toul Kork, Phnom Penh",$750permonth,1,1.0,66,,Apartment,rent
+1072," Sla Kram, Siem Reap, Siem Reap",$400permonth,2,2.0,,,House,rent
+1073," Svay Dankum, Siem Reap, Siem Reap",$600permonth,8,9.0,,,House,rent
+1074,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,100permonth",3,2.0,115,,Apartment,rent
+1075,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,050permonth",,1.0,40,,Apartment,rent
+1076,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",2,2.0,160,,Apartment,rent
+1077,"BKK 1, Chamkarmon, Phnom Penh",$600permonth,1,1.0,58,,Apartment,rent
+1078,"Boeung Prolit, 7 Makara, Phnom Penh",$700permonth,1,1.0,80,,Apartment,rent
+1079,"Boeung Prolit, 7 Makara, Phnom Penh","$1,100permonth",2,2.0,120,,Apartment,rent
+1080," Chey Chumneah, Daun Penh, Phnom Penh","$1,500permonth",1,1.0,80,95.0,Apartment,rent
+1081,"Chey Chumneah, Daun Penh, Phnom Penh",$700permonth,2,2.0,65,,Apartment,rent
+1082,"Boeung Kak 1, Toul Kork, Phnom Penh","$1,700permonth",2,3.0,74,,Apartment,rent
+1083,"Boeung Kak 1, Toul Kork, Phnom Penh",$850permonth,1,1.0,75,,Apartment,rent
+1084," BKK 1, Chamkarmon, Phnom Penh","$1,500permonth",2,1.0,95,150.0,Apartment,rent
+1085,"Boeung Trabek, Chamkarmon, Phnom Penh",$950permonth,3,2.0,171,,Apartment,rent
+1086,"Srah Chak, Daun Penh, Phnom Penh",$700permonth,1,1.0,49,,Apartment,rent
+1087,"Boeung Trabek, Chamkarmon, Phnom Penh","$2,300permonth",5,6.0,,337.0,Villa,rent
+1088,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$350permonth,,1.0,40,,Apartment,rent
+1089,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,2,2.0,90,,Apartment,rent
+1090,"Tumnob Tuek, Chamkarmon, Phnom Penh",$280permonth,,1.0,23,,Apartment,rent
+1091,"BKK 2, Chamkarmon, Phnom Penh","$3,000permonth",4,5.0,160,,Apartment,rent
+1092,"Srah Chak, Daun Penh, Phnom Penh","$3,200permonth",3,2.0,190,,Apartment,rent
+1093,"Srah Chak, Daun Penh, Phnom Penh",$950permonth,2,2.0,85,,Apartment,rent
+1094," Svay Dankum, Siem Reap, Siem Reap",$450permonth,1,1.0,,,Apartment,rent
+1095," Tonle Bassac, Chamkarmon, Phnom Penh","$4,500permonth",4,5.0,450,330.0,Villa,rent
+1096,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,700permonth",3,4.0,,320.0,Villa,rent
+1097," Svay Dankum, Siem Reap, Siem Reap",$550permonth,1,1.0,,,Apartment,rent
+1098," Svay Dankum, Siem Reap, Siem Reap",$450permonth,1,1.0,,,Apartment,rent
+1099," Svay Dankum, Siem Reap, Siem Reap",$650permonth,2,1.0,,,Apartment,rent
+1100,"St368 St368, BKK 3, Chamkarmon, Phnom Penh",$850permonth,2,2.0,95,,Apartment,rent
+1101," Sla Kram, Siem Reap, Siem Reap",$350permonth,4,5.0,80,100.0,House,rent
+1102,"Tonle Bassac, Chamkarmon, Phnom Penh","$6,500permonth",6,7.0,,305.0,Villa,rent
+1103,"BKK 1, Chamkarmon, Phnom Penh","$1,800permonth",3,2.0,100,,Apartment,rent
+1104," Boeung Kak 2, Toul Kork, Phnom Penh","$2,800permonth",4,5.0,,800.0,Villa,rent
+1105,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,700permonth",4,5.0,252,,Villa,rent
+1106,"BKK 2, Chamkarmon, Phnom Penh","$4,000permonth",3,4.0,200,,Penthouse,rent
+1107,"BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,70,,Apartment,rent
+1108," Svay Dankum, Siem Reap, Siem Reap",$300permonth,1,1.0,,,Apartment,rent
+1109," Svay Dankum, Siem Reap, Siem Reap",$400permonth,2,2.0,,,Apartment,rent
+1110," Chreav, Siem Reap, Siem Reap",$400permonth,3,3.0,,,House,rent
+1111," Boeung Kak 1, Toul Kork, Phnom Penh",$550permonth,1,1.0,45,60.0,Apartment,rent
+1112," Tonle Bassac, Chamkarmon, Phnom Penh",$800permonth,2,1.0,65,80.0,Apartment,rent
+1113,"BKK 1, Chamkarmon, Phnom Penh",$900permonth,2,1.0,81,,Apartment,rent
+1114,"BKK 1, Chamkarmon, Phnom Penh","$2,700permonth",3,3.0,108,,Penthouse,rent
+1115,"Boeung Prolit, 7 Makara, Phnom Penh","$1,000permonth",2,2.0,80,,Apartment,rent
+1116," Sangkat Bei, Sihanoukville, Sihanoukville",$450permonth,1,1.0,43,,Apartment,rent
+1117," Chakto Mukh, Daun Penh, Phnom Penh",$370permonth,1,1.0,50,,Apartment,rent
+1118,"Boeung Prolit, 7 Makara, Phnom Penh",$900permonth,2,2.0,80,,Apartment,rent
+1119,"BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",2,2.0,85,,Apartment,rent
+1120,"BKK 1, Chamkarmon, Phnom Penh",$850permonth,1,1.0,57,,Apartment,rent
+1121,"BKK 1, Chamkarmon, Phnom Penh",$750permonth,1,1.0,45,,Apartment,rent
+1122," BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",1,1.0,113,,Apartment,rent
+1123," BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",1,1.0,77,,Apartment,rent
+1124,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,500permonth",4,5.0,250,303.0,Villa,rent
+1125,"Srah Chak, Daun Penh, Phnom Penh","$2,800permonth",2,3.0,,330.0,Villa,rent
+1126,"Boeung Kak 1, Toul Kork, Phnom Penh",$550permonth,1,1.0,70,,Apartment,rent
+1127,"Boeung Kak 1, Toul Kork, Phnom Penh",$320permonth,,1.0,22,,Apartment,rent
+1128,"BKK 3, Chamkarmon, Phnom Penh","$1,700permonth",3,3.0,220,375.0,Apartment,rent
+1129,"Phsar Chas, Daun Penh, Phnom Penh","$1,500permonth",3,4.0,,330.0,Villa,rent
+1130,"Srah Chak, Daun Penh, Phnom Penh",$450permonth,1,1.0,60,,Apartment,rent
+1131,"BKK 1, Chamkarmon, Phnom Penh",$700permonth,2,2.0,100,,Apartment,rent
+1132,"BKK 1, Chamkarmon, Phnom Penh","$6,500permonth",5,7.0,700,500.0,Villa,rent
+1133,"Boeung Kak 1, Toul Kork, Phnom Penh","$1,500permonth",3,2.0,141,,Condo,rent
+1134,"BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,65,,Apartment,rent
+1135,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$900permonth,2,2.0,,118.0,Apartment,rent
+1136,"BKK 1, Chamkarmon, Phnom Penh",$800permonth,1,2.0,78,,Apartment,rent
+1137,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,105,,Apartment,rent
+1138,"BKK 1, Chamkarmon, Phnom Penh","$2,600permonth",3,3.0,150,,Apartment,rent
+1139,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,2,1.0,45,,Apartment,rent
+1140," Svay Dankum, Siem Reap, Siem Reap",$600permonth,,,,,Land,rent
+1141,"BKK 1, Chamkarmon, Phnom Penh","$2,500permonth",3,3.0,200,600.0,Apartment,rent
+1142,"BKK 1, Chamkarmon, Phnom Penh","$2,000permonth",4,5.0,220,600.0,Apartment,rent
+1143," BKK 1, Chamkarmon, Phnom Penh","$6,300permonth",4,4.0,240,,Penthouse,rent
+1144,"Kakap, Por Sen Chey, Phnom Penh","$3,500permonth",8,9.0,,280.0,Villa,rent
+1145,"BKK 1, Chamkarmon, Phnom Penh","$5,000permonth",4,5.0,313,,Villa,rent
+1146,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$250permonth,1,1.0,45,,Apartment,rent
+1147," Sangkat Muoy, Sihanoukville, Sihanoukville",$400permonth,1,1.0,,40.0,Apartment,rent
+1148,"Phsar Kandal I, Daun Penh, Phnom Penh",$850permonth,2,1.0,60,,Apartment,rent
+1149,"Boeung Kak 1, Toul Kork, Phnom Penh","$1,000permonth",2,2.0,99,,Apartment,rent
+1150," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,1,1.0,64,,Apartment,rent
+1151," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,1,1.0,50,,Apartment,rent
+1152," Chak Angrae Leu, Meanchey, Phnom Penh",$650permonth,1,1.0,60,,Condo,rent
+1153,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,680permonth",2,2.0,101,,Apartment,rent
+1154,"BKK 3, Chamkarmon, Phnom Penh","$1,900permonth",3,2.0,220,,Apartment,rent
+1155,"BKK 1, Chamkarmon, Phnom Penh",$500permonth,1,1.0,40,,Apartment,rent
+1156," Boeung Trabek, Chamkarmon, Phnom Penh",$900permonth,2,1.0,65,50.0,Apartment,rent
+1157," BKK 3, Chamkarmon, Phnom Penh",$500permonth,1,1.0,45,50.0,Apartment,rent
+1158,"BKK 1, Chamkarmon, Phnom Penh","$2,100permonth",3,3.0,148,,Apartment,rent
+1159," Boeng Reang, Daun Penh, Phnom Penh",$700permonth,1,1.0,,,Apartment,rent
+1160," Boeung Prolit, 7 Makara, Phnom Penh","$3,000permonth",3,3.0,280,,Apartment,rent
+1161," Sala Kamraeuk, Siem Reap, Siem Reap",$350permonth,,,,,Apartment,rent
+1162," BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",2,2.0,,,Apartment,rent
+1163," Sla Kram, Siem Reap, Siem Reap",$800permonth,4,4.0,,,Apartment,rent
+1164,"BKK 1, Chamkarmon, Phnom Penh","$1,320permonth",1,1.0,55,,Apartment,rent
+1165,"BKK 1, Chamkarmon, Phnom Penh",$880permonth,,1.0,37,,Apartment,rent
+1166," Kouk Chak, Siem Reap, Siem Reap",$380permonth,1,1.0,,,Apartment,rent
+1167,"BKK 1, Chamkarmon, Phnom Penh","$2,640permonth",2,2.0,113,,Apartment,rent
+1168," BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,,,Apartment,rent
+1169," BKK 2, Chamkarmon, Phnom Penh",$700permonth,2,1.0,,,Apartment,rent
+1170,"BKK 1, Chamkarmon, Phnom Penh","$1,650permonth",2,2.0,125,,Apartment,rent
+1171," Sala Kamraeuk, Siem Reap, Siem Reap",$650permonth,2,3.0,,,Apartment,rent
+1172," Boeung Tumpun 2, Meanchey, Phnom Penh",$450permonth,1,1.0,,,Apartment,rent
+1173," Svay Dankum, Siem Reap, Siem Reap",$600permonth,2,2.0,,,Apartment,rent
+1174," BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",2,2.0,,,Condo,rent
+1175," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,1,1.0,,,Apartment,rent
+1176," Tonle Bassac, Chamkarmon, Phnom Penh","$1,500permonth",3,3.0,90,,Apartment,rent
+1177," Svay Dankum, Siem Reap, Siem Reap",$650permonth,2,2.0,,,Apartment,rent
+1178,LZ Sea View Residences,$400permonth,1,1.0,43,,Condo,rent
+1179," Sla Kram, Siem Reap, Siem Reap",$550permonth,2,2.0,,,Apartment,rent
+1180," Svay Dankum, Siem Reap, Siem Reap",$650permonth,2,2.0,,,Apartment,rent
+1181,"Samrong Tong, Samraong Tong, Kampong Speu",$200permonth,2,2.0,72,,House,rent
+1182,"Sla Kram, Siem Reap, Siem Reap",$350permonth,1,1.0,,,Apartment,rent
+1183," Svay Dankum, Siem Reap, Siem Reap","$1,200permonth",7,7.0,,,House,rent
+1184," Svay Dankum, Siem Reap, Siem Reap",$250permonth,3,3.0,,,House,rent
+1185,"Svay Dankum, Siem Reap, Siem Reap",$700permonth,,,,,Villa,rent
+1186,"0 0, Sala Kamraeuk, Siem Reap, Siem Reap",$530permonth,1,1.0,50,,Apartment,rent
+1187,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$800permonth,2,2.0,,,Apartment,rent
+1188,"Svay Dankum, Siem Reap, Siem Reap","$1,000permonth",2,3.0,,,Apartment,rent
+1189,"Toul Svay Prey 1, Chamkarmon, Phnom Penh",$900permonth,2,2.0,,,Apartment,rent
+1190,"Tonle Bassac, Chamkarmon, Phnom Penh",$850permonth,2,2.0,,,Apartment,rent
+1191,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,200permonth",,,,,Condo,rent
+1192,"Tonle Bassac, Chamkarmon, Phnom Penh","$6,300permonth",,,,,Condo,rent
+1193,"Tonle Bassac, Chamkarmon, Phnom Penh","$5,300permonth",,,,,Condo,rent
+1194,"Tonle Bassac, Chamkarmon, Phnom Penh","$12,000permonth",,,,,Condo,rent
+1195,De Castle Royal Condominium,$800permonth,1,1.0,74,,Serviced,rent
+1196,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,500permonth",2,2.0,123,,Condo,rent
+1197,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,100permonth",,,,,Condo,rent
+1198,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,300permonth",,,,,Condo,rent
+1199,"BKK 1, Chamkarmon, Phnom Penh","$3,500permonth",3,2.0,185,,Apartment,rent
+1200,"BKK 1, Chamkarmon, Phnom Penh","$1,800permonth",2,2.0,128,,Apartment,rent
+1201,"BKK 1, Chamkarmon, Phnom Penh",$850permonth,1,1.0,56,,Condo,rent
+1202,"BKK 1, Chamkarmon, Phnom Penh","$1,400permonth",2,2.0,76,,Condo,rent
+1203," Svay Dankum, Siem Reap, Siem Reap","$2,500permonth",,,,,Land,rent
+1204,"Nirouth, Chbar Ampov, Phnom Penh","$4,500permonth",5,8.0,,519.0,Villa,rent
+1205,"BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",3,2.0,150,,Apartment,rent
+1206," BKK 3, Chamkarmon, Phnom Penh","$8,000permonth",11,15.0,910,310.0,Villa,rent
+1207,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$850permonth,1,1.0,55,,Apartment,rent
+1208,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$850permonth,,1.0,49,,Apartment,rent
+1209,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,1,1.0,40,,Apartment,rent
+1210,"Toul Svay Prey 1, Chamkarmon, Phnom Penh",$700permonth,2,2.0,110,,Apartment,rent
+1211,"Toul Svay Prey 1, Chamkarmon, Phnom Penh",$550permonth,1,1.0,70,,Apartment,rent
+1212,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$3,800permonth",5,7.0,,,Villa,rent
+1213," Sala Kamraeuk, Siem Reap, Siem Reap",$380permonth,2,1.0,,,Apartment,rent
+1214," BKK 1, Chamkarmon, Phnom Penh",$750permonth,1,1.0,,,Apartment,rent
+1215," Sala Kamraeuk, Siem Reap, Siem Reap",$460permonth,2,2.0,,,Apartment,rent
+1216,"BKK 1, Chamkarmon, Phnom Penh","$1,100permonth",1,2.0,120,,Apartment,rent
+1217,"Boeung Kak 1, Toul Kork, Phnom Penh",$450permonth,1,1.0,,,Apartment,rent
+1218,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,190,,Apartment,rent
+1219,"Tonle Bassac, Chamkarmon, Phnom Penh",$550permonth,1,1.0,,,Studio,rent
+1220,"Boeung Kak 2, Toul Kork, Phnom Penh","$3,500permonth",7,8.0,,,Villa,rent
+1221,"BKK 3, Chamkarmon, Phnom Penh","$5,000permonth",6,6.0,,475.0,Villa,rent
+1222,"BKK 1, Chamkarmon, Phnom Penh",$900permonth,1,2.0,,,Apartment,rent
+1223,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,,,Condo,rent
+1224,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,2,2.0,150,,Apartment,rent
+1225," Svay Dankum, Siem Reap, Siem Reap",$850permonth,4,5.0,,,House,rent
+1226,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",2,2.0,94,,Apartment,rent
+1227,"BKK 1, Chamkarmon, Phnom Penh",$500permonth,,1.0,54,,Apartment,rent
+1228," Svay Dankum, Siem Reap, Siem Reap",$350permonth,1,2.0,,,House,rent
+1229,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$700permonth,3,2.0,150,,Apartment,rent
+1230," Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,300permonth",4,5.0,,,Twin,rent
+1231,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,200permonth",4,5.0,400,350.0,Villa,rent
+1232," Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,500permonth",4,5.0,,,Twin,rent
+1233,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,2,2.0,84,,Apartment,rent
+1234," BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,,,Studio,rent
+1235," Boeung Kak 1, Toul Kork, Phnom Penh",$400permonth,1,1.0,,,Studio,rent
+1236," BKK 1, Chamkarmon, Phnom Penh","$1,400permonth",2,2.0,,,Apartment,rent
+1237,"Chroy Changvar, Chroy Changvar, Phnom Penh","$1,590permonth",1,1.0,95,,Apartment,rent
+1238,"BKK 1, Chamkarmon, Phnom Penh",$450permonth,1,1.0,40,,Apartment,rent
+1239,"Svay Dankum, Siem Reap, Siem Reap","$1,500permonth",4,4.0,,,Villa,rent
+1240,"Chakto Mukh, Daun Penh, Phnom Penh",$400permonth,1,1.0,38,,Apartment,rent
+1241,"Phsar Thmei III, Daun Penh, Phnom Penh","$2,500permonth",12,14.0,,,Shophouse,rent
+1242," BKK 1, Chamkarmon, Phnom Penh",$700permonth,1,1.0,80,,Apartment,rent
+1243,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$3,000permonth",,,,,Apartment,rent
+1244,"BKK 3, Chamkarmon, Phnom Penh","$2,800permonth",,,,,Shophouse,rent
+1245,"Boeung Trabek, Chamkarmon, Phnom Penh",$850permonth,2,2.0,67,,Apartment,rent
+1246,"Boeung Trabek, Chamkarmon, Phnom Penh",$550permonth,1,1.0,45,,Apartment,rent
+1247,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,2,2.0,80,,Apartment,rent
+1248,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,300permonth",2,3.0,145,,Apartment,rent
+1249,"Boeung Trabek, Chamkarmon, Phnom Penh",$550permonth,2,3.0,90,,Apartment,rent
+1250," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,800permonth",3,3.0,,,Apartment,rent
+1251," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,1,1.0,50,,Apartment,rent
+1252,"Olympic, Chamkarmon, Phnom Penh",$360permonth,1,1.0,45,,Apartment,rent
+1253,"Phsar Thmei III, Daun Penh, Phnom Penh","$2,000permonth",4,4.0,,,Shophouse,rent
+1254,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,500permonth",6,7.0,,,Shophouse,rent
+1255,"Tonle Bassac, Chamkarmon, Phnom Penh",$450permonth,1,1.0,50,,Apartment,rent
+1256,"Tonle Bassac, Chamkarmon, Phnom Penh",$350permonth,1,1.0,50,,Apartment,rent
+1257,"Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,1,1.0,50,,Apartment,rent
+1258," Nirouth, Chbar Ampov, Phnom Penh","$1,800permonth",3,4.0,,,Villa,rent
+1259,"BKK 1, Chamkarmon, Phnom Penh",$500permonth,1,1.0,,,Apartment,rent
+1260,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,200permonth",3,2.0,95,,Condo,rent
+1261," Sala Kamraeuk, Siem Reap, Siem Reap",$450permonth,2,3.0,,,House,rent
+1262," Sala Kamraeuk, Siem Reap, Siem Reap",$700permonth,2,2.0,,,Apartment,rent
+1263,"Nirouth, Chbar Ampov, Phnom Penh","$12,000permonth",6,8.0,,,Villa,rent
+1264,"Svay Dankum, Siem Reap, Siem Reap",$650permonth,2,2.0,,,Villa,rent
+1265," Chreav, Siem Reap, Siem Reap","$1,500permonth",,,,,Land,rent
+1266,"BKK 1, Chamkarmon, Phnom Penh","$4,600permonth",7,6.0,800,525.0,Villa,rent
+1267," Sala Kamraeuk, Siem Reap, Siem Reap",$600permonth,,,,,Shophouse,rent
+1268,"Toul Tum Poung 2, Chamkarmon, Phnom Penh",$450permonth,1,1.0,,,Serviced,rent
+1269,"BKK 1, Chamkarmon, Phnom Penh","$6,000permonth",5,4.0,240,,Apartment,rent
+1270,"Tonle Bassac, Chamkarmon, Phnom Penh",$500permonth,,1.0,41,,Apartment,rent
+1271," Toul Svay Prey 1, Chamkarmon, Phnom Penh","$5,000permonth",6,7.0,,,Villa,rent
+1272,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,500permonth",2,2.0,128,,Apartment,rent
+1273,"BKK 3, Chamkarmon, Phnom Penh","$1,000permonth",,,,,Shophouse,rent
+1274,"BKK 1, Chamkarmon, Phnom Penh","$1,400permonth",1,1.0,77,,Condo,rent
+1275,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,100,,Apartment,rent
+1276,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,750permonth",2,,88,,Condo,rent
+1277,"BKK 3, Chamkarmon, Phnom Penh",$750permonth,2,2.0,,,Serviced,rent
+1278,"Sla Kram, Siem Reap, Siem Reap","$1,200permonth",4,6.0,,,Villa,rent
+1279,"Tuek Thla, Sen Sok, Phnom Penh","$1,000permonth",4,5.0,,,Villa,rent
+1280,"Tonle Bassac, Chamkarmon, Phnom Penh",$650permonth,2,2.0,75,,Apartment,rent
+1281,"Tonle Bassac, Chamkarmon, Phnom Penh",$500permonth,1,1.0,55,,Apartment,rent
+1282,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,200permonth",1,1.0,97,,Apartment,rent
+1283,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,800permonth",2,2.0,136,,Apartment,rent
+1284,"Tonle Bassac, Chamkarmon, Phnom Penh",$800permonth,1,1.0,90,,Apartment,rent
+1285,"Boeung Kak 1, Toul Kork, Phnom Penh","$1,600permonth",4,8.0,,,Villa,rent
+1286," Tonle Bassac, Chamkarmon, Phnom Penh","$4,500permonth",4,4.0,,,Villa,rent
+1287," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,500permonth",4,6.0,,,Villa,rent
+1288,"BKK 1, Chamkarmon, Phnom Penh",$600permonth,1,1.0,,,Apartment,rent
+1289,"Sla Kram, Siem Reap, Siem Reap","$3,500permonth",4,5.0,,,House,rent
+1290,"Phsar Kandal II, Daun Penh, Phnom Penh",$850permonth,4,2.0,64,,Shophouse,rent
+1291,"BKK 1, Chamkarmon, Phnom Penh","$2,400permonth",2,2.0,107,,Apartment,rent
+1292,"BKK 1, Chamkarmon, Phnom Penh","$1,500permonth",1,1.0,62,,Apartment,rent
+1293," Chakto Mukh, Daun Penh, Phnom Penh","$1,500permonth",3,3.0,150,,Apartment,rent
+1294,"Tumnob Tuek, Chamkarmon, Phnom Penh",$500permonth,1,1.0,58,,Apartment,rent
+1295,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",1,1.0,50,,Apartment,rent
+1296,"BKK 1, Chamkarmon, Phnom Penh","$1,500permonth",2,2.0,125,,Apartment,rent
+1297,"BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",1,2.0,100,,Apartment,rent
+1298,"Tumnob Tuek, Chamkarmon, Phnom Penh",$550permonth,1,1.0,50,,Apartment,rent
+1299,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,700permonth",3,3.0,180,,Apartment,rent
+1300,"BKK 1, Chamkarmon, Phnom Penh","$1,100permonth",1,1.0,65,,Apartment,rent
+1301,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,100permonth",,,134,,Apartment,rent
+1302,"Phsar Thmei III, Daun Penh, Phnom Penh","$1,500permonth",3,2.0,153,,Apartment,rent
+1303,"Boeng Reang, Daun Penh, Phnom Penh",$600permonth,2,1.0,,,Shophouse,rent
+1304,"BKK 1, Chamkarmon, Phnom Penh",$750permonth,1,1.0,45,,Apartment,rent
+1305,"Chey Chumneah, Daun Penh, Phnom Penh","$2,000permonth",14,16.0,,,Shophouse,rent
+1306,"Wat Phnom, Daun Penh, Phnom Penh","$1,300permonth",2,2.0,,,Shophouse,rent
+1307,"Phsar Chas, Daun Penh, Phnom Penh","$1,200permonth",5,6.0,,,Shophouse,rent
+1308,"Tumnob Tuek, Chamkarmon, Phnom Penh",$550permonth,1,1.0,65,,Apartment,rent
+1309,"Svay Dankum, Siem Reap, Siem Reap","$1,200permonth",3,4.0,,,Apartment,rent
+1310,"Sla Kram, Siem Reap, Siem Reap",$450permonth,2,2.0,,,Apartment,rent
+1311,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$6,500permonth",3,4.0,,,Shophouse,rent
+1312,"Veal Vong, 7 Makara, Phnom Penh",$800permonth,1,2.0,88,,Apartment,rent
+1313,"Veal Vong, 7 Makara, Phnom Penh",$650permonth,1,1.0,70,,Apartment,rent
+1314,"Veal Vong, 7 Makara, Phnom Penh",$600permonth,1,1.0,65,,Apartment,rent
+1315,"Wat Phnom, Daun Penh, Phnom Penh",$700permonth,,1.0,45,,Apartment,rent
+1316," Sla Kram, Siem Reap, Siem Reap",$300permonth,2,1.0,,,Apartment,rent
+1317," Sla Kram, Siem Reap, Siem Reap",$270permonth,2,1.0,,,Apartment,rent
+1318,"Svay Dankum, Siem Reap, Siem Reap","$1,300permonth",4,5.0,,,Villa,rent
+1319,"Tonle Bassac, Chamkarmon, Phnom Penh",$500permonth,1,1.0,,,Apartment,rent
+1320," Tonle Bassac, Chamkarmon, Phnom Penh","$2,000permonth",3,4.0,,,Villa,rent
+1321,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,2,2.0,,,Apartment,rent
+1322,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,,,Apartment,rent
+1323,"Sla Kram, Siem Reap, Siem Reap",$490permonth,1,1.0,,,Apartment,rent
+1324," Chreav, Siem Reap, Siem Reap",$250permonth,2,2.0,,,House,rent
+1325," Nirouth, Chbar Ampov, Phnom Penh","$7,900permonth",5,6.0,,,Apartment,rent
+1326,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$1,200permonth",3,3.0,140,,Apartment,rent
+1327,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$2,800permonth",8,11.0,,,House,rent
+1328," Tuek L'ak 1, Toul Kork, Phnom Penh",$400permonth,1,1.0,48,,Apartment,rent
+1329,"Tumnob Tuek, Chamkarmon, Phnom Penh","$2,000permonth",3,2.0,202,,Apartment,rent
+1330,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,400permonth",2,2.0,155,,Apartment,rent
+1331,"BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",2,3.0,107,,Apartment,rent
+1332,"BKK 2, Chamkarmon, Phnom Penh",$500permonth,,1.0,23,,Apartment,rent
+1333,"BKK 2, Chamkarmon, Phnom Penh",$500permonth,1,1.0,29,,Apartment,rent
+1334,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",1,1.0,56,,Apartment,rent
+1335,"BKK 1, Chamkarmon, Phnom Penh",$800permonth,2,1.0,45,,Apartment,rent
+1336," Svay Dankum, Siem Reap, Siem Reap",$600permonth,,,,,Land,rent
+1337,Urban Palace,"$2,230permonth",2,2.0,124,,Serviced,rent
+1338,"Tonle Bassac, Chamkarmon, Phnom Penh",$900permonth,2,2.0,90,,Apartment,rent
+1339," Svay Dankum, Siem Reap, Siem Reap",$300permonth,,,,,Land,rent
+1340," Tonle Bassac, Chamkarmon, Phnom Penh","$3,000permonth",4,5.0,,,Villa,rent
+1341," BKK 1, Chamkarmon, Phnom Penh","$3,000permonth",5,7.0,,,Villa,rent
+1342," Sala Kamraeuk, Siem Reap, Siem Reap","$1,800permonth",,,,,Land,rent
+1343," BKK 1, Chamkarmon, Phnom Penh","$1,100permonth",2,2.0,,,Apartment,rent
+1344," Tonle Bassac, Chamkarmon, Phnom Penh","$2,800permonth",4,5.0,,,Villa,rent
+1345," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,500permonth",6,7.0,,,Villa,rent
+1346," Toul Tum Poung 2, Chamkarmon, Phnom Penh","$1,500permonth",,,,275.0,House,rent
+1347," Tonle Bassac, Chamkarmon, Phnom Penh","$12,000permonth",12,16.0,,,Apartment,rent
+1348," Boeung Tumpun, Meanchey, Phnom Penh",$480permonth,1,1.0,49,,Apartment,rent
+1349," Sala Kamraeuk, Siem Reap, Siem Reap",$250permonth,1,1.0,,,Apartment,rent
+1350,"Sla Kram, Siem Reap, Siem Reap",$700permonth,3,3.0,,,House,rent
+1351," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,1,1.0,,,Apartment,rent
+1352," BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,,,Apartment,rent
+1353," BKK 1, Chamkarmon, Phnom Penh","$2,100permonth",3,3.0,,,Apartment,rent
+1354," Tonle Bassac, Chamkarmon, Phnom Penh","$1,480permonth",2,2.0,75,,Apartment,rent
+1355,"Olympic, Chamkarmon, Phnom Penh",$600permonth,2,2.0,60,,Apartment,rent
+1356,"Olympic, Chamkarmon, Phnom Penh",$800permonth,2,3.0,95,,Apartment,rent
+1357,"Olympic, Chamkarmon, Phnom Penh",$500permonth,1,1.0,45,,Apartment,rent
+1358,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$800permonth,1,2.0,80,,Apartment,rent
+1359,"Toul Tum Poung 2, Chamkarmon, Phnom Penh","$5,500permonth",15,15.0,,,Apartment,rent
+1360,"Boeng Reang, Daun Penh, Phnom Penh","$1,150permonth",2,2.0,83,,Apartment,rent
+1361,"Chroy Changvar, Chroy Changvar, Phnom Penh",$250permonth,1,1.0,33,,Condo,rent
+1362,"Chey Chumneah, Daun Penh, Phnom Penh","$3,000permonth",5,5.0,360,,Apartment,rent
+1363,"Olympic, Chamkarmon, Phnom Penh",$700permonth,2,2.0,65,,Apartment,rent
+1364," Boeung Kak 2, Toul Kork, Phnom Penh","$1,700permonth",5,7.0,384,,Villa,rent
+1365,"Boeng Reang, Daun Penh, Phnom Penh","$5,000permonth",16,16.0,,,Shophouse,rent
+1366,"BKK 1, Chamkarmon, Phnom Penh",$330permonth,1,1.0,30,,Apartment,rent
+1367,"BKK 1, Chamkarmon, Phnom Penh","$6,000permonth",10,11.0,,,Villa,rent
+1368,"BKK 1, Chamkarmon, Phnom Penh","$12,000permonth",25,25.0,,,Villa,rent
+1369,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,000permonth",3,3.0,123,,Apartment,rent
+1370,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,500permonth",2,2.0,84,,Apartment,rent
+1371,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,400permonth",,,62,,Apartment,rent
+1372,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,1,1.0,65,,Apartment,rent
+1373,"Toul Tum Poung 2, Chamkarmon, Phnom Penh",$350permonth,1,1.0,54,,Apartment,rent
+1374,"Chakto Mukh, Daun Penh, Phnom Penh","$2,500permonth",6,11.0,,,Shophouse,rent
+1375,"Wat Phnom, Daun Penh, Phnom Penh","$1,250permonth",2,3.0,220,,Apartment,rent
+1376,"Phsar Kandal I, Daun Penh, Phnom Penh",$300permonth,1,1.0,64,,Apartment,rent
+1377,"BKK 3, Chamkarmon, Phnom Penh",$500permonth,2,1.0,60,,Apartment,rent
+1378,"Phsar Kandal I, Daun Penh, Phnom Penh","$1,200permonth",2,2.0,250,,Flat,rent
+1379,"Boeng Reang, Daun Penh, Phnom Penh","$1,100permonth",2,2.0,83,,Apartment,rent
+1380,"Boeng Reang, Daun Penh, Phnom Penh",$750permonth,1,1.0,58,,Apartment,rent
+1381,"Toul Svay Prey 2, Chamkarmon, Phnom Penh",$900permonth,2,2.0,110,,Apartment,rent
+1382,"Toul Svay Prey 2, Chamkarmon, Phnom Penh",$600permonth,1,1.0,55,,Apartment,rent
+1383,"Chakto Mukh, Daun Penh, Phnom Penh",$800permonth,1,1.0,80,,Apartment,rent
+1384,"Phsar Kandal I, Daun Penh, Phnom Penh",$800permonth,2,2.0,70,,Apartment,rent
+1385,"Phsar Kandal II, Daun Penh, Phnom Penh",$400permonth,1,1.0,40,,Apartment,rent
+1386,"Phsar Kandal II, Daun Penh, Phnom Penh",$320permonth,,1.0,25,,Apartment,rent
+1387,"Boeung Trabek, Chamkarmon, Phnom Penh",$850permonth,2,2.0,86,,Apartment,rent
+1388,"Boeung Trabek, Chamkarmon, Phnom Penh",$475permonth,,1.0,37,,Apartment,rent
+1389,"Boeung Trabek, Chamkarmon, Phnom Penh",$570permonth,1,1.0,50,,Apartment,rent
+1390,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$1,200permonth",2,2.0,98,,Apartment,rent
+1391,"Toul Svay Prey 2, Chamkarmon, Phnom Penh",$750permonth,1,1.0,60,,Apartment,rent
+1392,"BKK 1, Chamkarmon, Phnom Penh","$8,000permonth",6,5.0,,,Villa,rent
+1393," Svay Dankum, Siem Reap, Siem Reap",$600permonth,3,4.0,,,House,rent
+1394,"BKK 1, Chamkarmon, Phnom Penh","$12,000permonth",10,,,,Villa,rent
+1395," Sla Kram, Siem Reap, Siem Reap",$850permonth,7,8.0,,,House,rent
+1396,"Tumnob Tuek, Chamkarmon, Phnom Penh","$850,000permonth",5,4.0,,,Shophouse,rent
+1397,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$650permonth,2,2.0,90,,Apartment,rent
+1398," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,2,2.0,65,,Apartment,rent
+1399," Tonle Bassac, Chamkarmon, Phnom Penh",$550permonth,1,1.0,45,,Apartment,rent
+1400," BKK 2, Chamkarmon, Phnom Penh",$900permonth,2,2.0,80,,Apartment,rent
+1401,"Phsar Chas, Daun Penh, Phnom Penh",$400permonth,1,1.0,67,,Apartment,rent
+1402,"Boeng Reang, Daun Penh, Phnom Penh",$600permonth,1,2.0,70,,Apartment,rent
+1403," Chakto Mukh, Daun Penh, Phnom Penh",$400permonth,1,1.0,30,,Apartment,rent
+1404,"Chakto Mukh, Daun Penh, Phnom Penh",$300permonth,1,1.0,48,,Apartment,rent
+1405,"Chakto Mukh, Daun Penh, Phnom Penh",$350permonth,2,1.0,48,,Apartment,rent
+1406," BKK 1, Chamkarmon, Phnom Penh",$400permonth,1,1.0,35,,Apartment,rent
+1407,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$450permonth,2,1.0,50,,Apartment,rent
+1408,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$320permonth,1,1.0,30,,Apartment,rent
+1409,"BKK 1, Chamkarmon, Phnom Penh","$1,900permonth",3,3.0,,,Apartment,rent
+1410,"BKK 1, Chamkarmon, Phnom Penh",$900permonth,2,2.0,,,Apartment,rent
+1411," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$380permonth,1,1.0,50,,Apartment,rent
+1412,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,2,1.0,50,,Apartment,rent
+1413," Phsar Kandal I, Daun Penh, Phnom Penh",$300permonth,1,1.0,28,,Apartment,rent
+1414," Phsar Kandal I, Daun Penh, Phnom Penh",$400permonth,1,1.0,45,,Apartment,rent
+1415,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$300permonth,1,1.0,30,,Apartment,rent
+1416,"BKK 3, Chamkarmon, Phnom Penh",$750permonth,2,2.0,70,,Apartment,rent
+1417," Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,2,2.0,,,Apartment,rent
+1418,"BKK 3, Chamkarmon, Phnom Penh",$600permonth,1,1.0,61,,Apartment,rent
+1419," Tonle Bassac, Chamkarmon, Phnom Penh",$920permonth,1,1.0,,,Apartment,rent
+1420,"BKK 3, Chamkarmon, Phnom Penh",$800permonth,2,1.0,68,,Apartment,rent
+1421," Boeung Kak 1, Toul Kork, Phnom Penh","$4,200permonth",3,3.0,,,Apartment,rent
+1422,Prince Huan Yu Center,$800permonth$700SAVE12.50%,1,1.0,62,,Condo,rent
+1423," BKK 1, Chamkarmon, Phnom Penh","$2,500permonth",2,2.0,,,Apartment,rent
+1424," BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",2,2.0,,,Apartment,rent
+1425," Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,1,1.0,,,Apartment,rent
+1426," Tonle Bassac, Chamkarmon, Phnom Penh",$900permonth,2,1.0,,,Apartment,rent
+1427,"Tonle Bassac, Chamkarmon, Phnom Penh",$400permonth,1,1.0,64,,Apartment,rent
+1428,"BKK 3, Chamkarmon, Phnom Penh","$1,100permonth",2,2.0,134,,Apartment,rent
+1429,"BKK 3, Chamkarmon, Phnom Penh",$850permonth,2,1.0,95,,Apartment,rent
+1430,"BKK 3, Chamkarmon, Phnom Penh",$750permonth,1,1.0,79,,Apartment,rent
+1431,"BKK 3, Chamkarmon, Phnom Penh",$450permonth,,1.0,45,,Apartment,rent
+1432,"BKK 3, Chamkarmon, Phnom Penh",$800permonth,2,2.0,105,,Apartment,rent
+1433,"BKK 3, Chamkarmon, Phnom Penh",$650permonth,1,1.0,55,,Apartment,rent
+1434,"Toul Tum Poung 2, Chamkarmon, Phnom Penh",$650permonth,2,2.0,110,,Apartment,rent
+1435,"BKK 3, Chamkarmon, Phnom Penh",$500permonth,1,1.0,29,,Apartment,rent
+1436,"BKK 3, Chamkarmon, Phnom Penh",$700permonth,1,1.0,58,,Apartment,rent
+1437,"Tonle Bassac, Chamkarmon, Phnom Penh",$350permonth,1,1.0,44,,Apartment,rent
+1438,"Chakto Mukh, Daun Penh, Phnom Penh","$5,000permonth",,4.0,,,Apartment,rent
+1439,"Tonle Bassac, Chamkarmon, Phnom Penh",$350permonth,1,1.0,62,,Apartment,rent
+1440,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,000permonth",3,4.0,,,House,rent
+1441,"Chey Chumneah, Daun Penh, Phnom Penh","$2,500permonth",3,3.0,,,Shophouse,rent
+1442,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",3,2.0,,,Apartment,rent
+1443,"BKK 2, Chamkarmon, Phnom Penh",$650permonth,2,1.0,,,Apartment,rent
+1444,"Tumnob Tuek, Chamkarmon, Phnom Penh",$600permonth,2,1.0,,,Condo,rent
+1445,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,700permonth",3,2.0,,,Condo,rent
+1446,"BKK 2, Chamkarmon, Phnom Penh",$900permonth,2,2.0,120,,Apartment,rent
+1447,"BKK 2, Chamkarmon, Phnom Penh",$500permonth,1,1.0,50,,Apartment,rent
+1448,"BKK 3, Chamkarmon, Phnom Penh",$450permonth,1,1.0,66,,Apartment,rent
+1449,"BKK 3, Chamkarmon, Phnom Penh",$300permonth,1,1.0,60,,Apartment,rent
+1450,"Chey Chumneah, Daun Penh, Phnom Penh",$500permonth,2,2.0,70,,Apartment,rent
+1451,"Tonle Bassac, Chamkarmon, Phnom Penh","$12,000permonth",17,18.0,,,Apartment,rent
+1452,"BKK 1, Chamkarmon, Phnom Penh","$9,000permonth",9,9.0,,493.0,Villa,rent
+1453,"BKK 1, Chamkarmon, Phnom Penh","$2,500permonth",8,7.0,,,Flat,rent
+1454,"Chakto Mukh, Daun Penh, Phnom Penh","$1,000permonth",2,2.0,,,Apartment,rent
+1455,"Chey Chumneah, Daun Penh, Phnom Penh","$1,600permonth",4,5.0,,,Shophouse,rent
+1456,"Boeung Kak 1, Toul Kork, Phnom Penh","$4,000permonth",7,9.0,,,Villa,rent
+1457,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$650permonth,2,2.0,88,,Apartment,rent
+1458,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,2,1.0,88,,Apartment,rent
+1459,"Toul Tum Poung 2, Chamkarmon, Phnom Penh",$340permonth,1,1.0,,,Apartment,rent
+1460,"BKK 1, Chamkarmon, Phnom Penh","$1,700permonth",2,2.0,76,,Apartment,rent
+1461,"BKK 1, Chamkarmon, Phnom Penh",$860permonth,1,1.0,44,,Apartment,rent
+1462,"BKK 1, Chamkarmon, Phnom Penh",$570permonth,,1.0,30,,Apartment,rent
+1463,"BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",3,2.0,122,,Apartment,rent
+1464,"BKK 1, Chamkarmon, Phnom Penh",$900permonth,2,2.0,84,,Apartment,rent
+1465,"BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,,,Apartment,rent
+1466,"BKK 1, Chamkarmon, Phnom Penh",$700permonth,,,,,Condo,rent
+1467,Platinum Bay,$500permonth,1,1.0,44,,Condo,rent
+1468,"Toul Tum Poung 2, Chamkarmon, Phnom Penh","$5,800permonth",,,,,Flat,rent
+1469,"Toul Tum Poung 2, Chamkarmon, Phnom Penh","$1,200permonth",6,7.0,,,Flat,rent
+1470,"Chakto Mukh, Daun Penh, Phnom Penh","$1,500permonth",,1.0,,,House,rent
+1471,"Boeung Kak 2, Toul Kork, Phnom Penh","$6,500permonth",,,,,Land,rent
+1472,"Tumnob Tuek, Chamkarmon, Phnom Penh","$1,500permonth",3,4.0,,,Shophouse,rent
+1473," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,100permonth",2,2.0,,100.0,Apartment,rent
+1474,"BKK 1, Chamkarmon, Phnom Penh",$800permonth,1,1.0,55,,Apartment,rent
+1475,"Boeng Reang, Daun Penh, Phnom Penh","$1,550permonth",1,1.0,,,Apartment,rent
+1476,"Boeng Reang, Daun Penh, Phnom Penh","$2,650permonth",2,2.0,,,Apartment,rent
+1477,"Chakto Mukh, Daun Penh, Phnom Penh","$3,050permonth",2,2.0,,,Condo,rent
+1478,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,180permonth",3,2.0,,,Apartment,rent
+1479,"BKK 1, Chamkarmon, Phnom Penh","$4,600permonth",8,6.0,,,Villa,rent
+1480,"BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,,,Apartment,rent
+1481,"Tonle Bassac, Chamkarmon, Phnom Penh","$2,000permonth",2,2.0,,,Condo,rent
+1482,"Tonle Bassac, Chamkarmon, Phnom Penh","$7,000permonth",4,4.0,386,,Apartment,rent
+1483,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",,,,,Condo,rent
+1484,"BKK 1, Chamkarmon, Phnom Penh","$3,800permonth",3,3.0,,,Condo,rent
+1485,"BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",1,1.0,,,Condo,rent
+1486,"Nirouth, Chbar Ampov, Phnom Penh",$550permonth,2,1.0,46,,Condo,rent
+1487,"Boeng Reang, Daun Penh, Phnom Penh","$8,000permonth",11,13.0,,,Villa,rent
+1488,"BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,60,,Apartment,rent
+1489,"BKK 1, Chamkarmon, Phnom Penh","$2,500permonth",2,2.0,,,Apartment,rent
+1490," Chroy Changvar, Chroy Changvar, Phnom Penh","$154,400","['1', '3']",,"['42', '237']",,,rent
+1491,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh","$2,500permonth",,,,,Apartment,rent
+1492,"BKK 1, Chamkarmon, Phnom Penh","$2,700permonth",,,,730.0,Apartment,rent
+1493," Chakto Mukh, Daun Penh, Phnom Penh",$700permonth,1,1.0,60,,Apartment,rent
+1494,"Chakto Mukh, Daun Penh, Phnom Penh",$750permonth,1,1.0,50,,Studio,rent
+1495," Boeung Kak 2, Toul Kork, Phnom Penh",$600permonth,1,1.0,,69.0,Apartment,rent
+1496,"Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,,,,,Condo,rent
+1497," Toul Tum Poung 1, Chamkarmon, Phnom Penh","$2,500permonth",3,3.0,,170.0,Apartment,rent
+1498," Sla Kram, Siem Reap, Siem Reap","$1,000permonth",,,,,House,rent
+1499," Sla Kram, Siem Reap, Siem Reap",$350permonth,2,3.0,,,Apartment,rent
+1500,"Chroy Changvar, Chroy Changvar, Phnom Penh","$1,800permonth",3,,,,Villa,rent
+1501,"BKK 1, Chamkarmon, Phnom Penh","$3,500permonth",4,3.0,,,Apartment,rent
+1502,"BKK 1, Chamkarmon, Phnom Penh","$3,000permonth",6,7.0,,,Villa,rent
+1503,"Boeng Reang, Daun Penh, Phnom Penh","$20,000permonth",,,,724.0,Villa,rent
+1504," Tumnob Tuek, Chamkarmon, Phnom Penh",$550permonth,1,1.0,,60.0,Apartment,rent
+1505," Chreav, Siem Reap, Siem Reap",$400permonth,1,1.0,,,Apartment,rent
+1506,"Tonle Bassac, Chamkarmon, Phnom Penh","$5,500permonth",,,,,Villa,rent
+1507,"Wat Phnom, Daun Penh, Phnom Penh","$1,800permonth",,,,,Apartment,rent
+1508," Tonle Bassac, Chamkarmon, Phnom Penh",$800permonth,1,1.0,,46.0,Apartment,rent
+1509," BKK 1, Chamkarmon, Phnom Penh","$1,050permonth",1,1.0,,85.0,Apartment,rent
+1510," Chakto Mukh, Daun Penh, Phnom Penh","$1,500permonth",1,1.0,,68.0,Apartment,rent
+1511," Siem Reap, Siem Reap, Siem Reap",$800permonth,3,3.0,,,House,rent
+1512," Phsar Chas, Daun Penh, Phnom Penh",$600permonth,1,1.0,60,,Apartment,rent
+1513," Tonle Bassac, Chamkarmon, Phnom Penh","$2,300permonth",4,5.0,,,Villa,rent
+1514," Sala Kamraeuk, Siem Reap, Siem Reap",$500permonth,2,2.0,,,Apartment,rent
+1515,"Phnom Penh Thmey, Sen Sok, Phnom Penh",$450permonth,1,1.0,,,Condo,rent
+1516,"BKK 1, Chamkarmon, Phnom Penh","$8,000permonth",5,5.0,411,,Apartment,rent
+1517,"BKK 1, Chamkarmon, Phnom Penh",$650permonth,1,1.0,57,,Apartment,rent
+1518," Chreav, Siem Reap, Siem Reap",$300permonth,2,3.0,,,House,rent
+1519," Boeung Trabek, Chamkarmon, Phnom Penh",$670permonth,,,,,Apartment,rent
+1520," Svay Dankum, Siem Reap, Siem Reap",$350permonth,2,1.0,,,Apartment,rent
+1521," Boeung Tumpun, Meanchey, Phnom Penh","$1,000permonth",2,2.0,,85.0,Apartment,rent
+1522," BKK 1, Chamkarmon, Phnom Penh","$4,500permonth",2,2.0,,155.0,Apartment,rent
+1523," Kandaek, Prasat Bakong, Siem Reap",$700permonth,3,3.0,,,House,rent
+1524," Kandaek, Prasat Bakong, Siem Reap",$800permonth,3,3.0,,,House,rent
+1525," BKK 1, Chamkarmon, Phnom Penh",$550permonth,1,1.0,45,,Apartment,rent
+1526," Tonle Bassac, Chamkarmon, Phnom Penh",$800permonth,2,2.0,88,,Apartment,rent
+1527," Sla Kram, Siem Reap, Siem Reap",$350permonth,4,5.0,,,House,rent
+1528," BKK 1, Chamkarmon, Phnom Penh","$1,600permonth",2,2.0,125,,Apartment,rent
+1529,"BKK 1, Chamkarmon, Phnom Penh","$1,500permonth",3,3.0,160,,Apartment,rent
+1530," Tonle Bassac, Chamkarmon, Phnom Penh",$650permonth,1,1.0,75,,Apartment,rent
+1531,"Snaor, Por Sen Chey, Phnom Penh","$7,000permonth",5,6.0,,228.0,Villa,rent
+1532," BKK 1, Chamkarmon, Phnom Penh",$700permonth,1,1.0,78,,Apartment,rent
+1533," BKK 2, Chamkarmon, Phnom Penh",$800permonth,2,2.0,118,,Apartment,rent
+1534," Sala Kamraeuk, Siem Reap, Siem Reap",$300permonth,1,1.0,,,Apartment,rent
+1535,"Phsar Depou I, Toul Kork, Phnom Penh",$350permonth,1,1.0,40,,Condo,rent
+1536,"Tonle Bassac, Chamkarmon, Phnom Penh","$4,800permonth",4,5.0,384,416.0,Villa,rent
+1537,"Wat Phnom, Daun Penh, Phnom Penh","$2,000permonth",4,5.0,144,,Apartment,rent
+1538,"F F, Chey Chumneah, Daun Penh, Phnom Penh","$1,400permonth",3,3.0,,,Apartment,rent
+1539,"Tonle Bassac, Chamkarmon, Phnom Penh",$750permonth,1,1.0,57,,Apartment,rent
+1540,"BKK 1, Chamkarmon, Phnom Penh","$3,500permonth",4,3.0,270,,Apartment,rent
+1541,"Boeung Kak 2, Toul Kork, Phnom Penh",$400permonth,1,1.0,48,,Apartment,rent
+1542,"Tuol Sangkae 2, Russey Keo, Phnom Penh",$800permonth,4,5.0,,,House,rent
+1543,"Sla Kram, Siem Reap, Siem Reap","$1,000permonth",6,7.0,,,Apartment,rent
+1544,"Olympic, Chamkarmon, Phnom Penh","$3,600permonth",2,2.0,303,,Serviced,rent
+1545,The Emerald,"$2,000permonth",2,3.0,115,,Serviced,rent
+1546,"Sala Kamraeuk, Siem Reap, Siem Reap","$1,250permonth",2,2.0,,,Villa,rent
+1547,"Sla Kram, Siem Reap, Siem Reap","$2,500permonth",,,,,Apartment,rent
+1548,"Svay Dankum, Siem Reap, Siem Reap",$450permonth,2,2.0,,,Apartment,rent
+1549,"Svay Dankum, Siem Reap, Siem Reap","$1,200permonth",5,6.0,,,Villa,rent
+1550,"BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",,,,,Condo,rent
+1551,"Chakto Mukh, Daun Penh, Phnom Penh",$500permonth,2,2.0,,,Apartment,rent
+1552,"Preaek Aeng, Chbar Ampov, Phnom Penh","$5,000permonth",6,8.0,,,Villa,rent
+1553,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,500permonth",3,4.0,380,308.0,Villa,rent
+1554," Svay Dankum, Siem Reap, Siem Reap","$1,250permonth",4,5.0,,,House,rent
+1555,"Nirouth, Chbar Ampov, Phnom Penh","$4,200permonth",4,5.0,378,377.0,Villa,rent
+1556,"Phsar Depou III, Toul Kork, Phnom Penh",$350permonth,1,1.0,,,Apartment,rent
+1557,"Toul Svay Prey 2, Chamkarmon, Phnom Penh","$2,500permonth",4,5.0,,375.0,Villa,rent
+1558,"Kakap, Por Sen Chey, Phnom Penh","$1,200permonth",8,9.0,,,Shophouse,rent
+1559," BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",,,,,Condo,rent
+1560,"Chak Angrae Leu, Meanchey, Phnom Penh",$350permonth,,,,,Flat,rent
+1561," Tuek Thla, Sen Sok, Phnom Penh","$1,000permonth",5,5.0,,,Shophouse,rent
+1562," Tuek Thla, Sen Sok, Phnom Penh","$2,000permonth",3,4.0,216,,Condo,rent
+1563,"BKK 1, Chamkarmon, Phnom Penh","$1,500permonth",2,2.0,,,Apartment,rent
+1564,"Svay Dankum, Siem Reap, Siem Reap",$590permonth,2,2.0,,,Apartment,rent
+1565," Veal Vong, 7 Makara, Phnom Penh",$600permonth,,,,,Apartment,rent
+1566,"Preaek Aeng, Chbar Ampov, Phnom Penh","$12,000permonth",7,8.0,1100,2378.0,Villa,rent
+1567,"Svay Dankum, Siem Reap, Siem Reap",$800permonth,2,2.0,,,Apartment,rent
+1568," Boeung Kak 2, Toul Kork, Phnom Penh",$750permonth,,,,,Condo,rent
+1569,The View Serviced Residence,"$1,500permonth",2,2.0,62,,Serviced,rent
+1570,The View Serviced Residence,$750permonth,1,1.0,47,,Serviced,rent
+1571,"Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,1,1.0,,,Apartment,rent
+1572,"Sala Kamraeuk, Siem Reap, Siem Reap",$500permonth,1,1.0,,,Apartment,rent
+1573,"Sala Kamraeuk, Siem Reap, Siem Reap",$700permonth,2,2.0,,,Apartment,rent
+1574,Amata Residence,"$5,000permonth",4,4.0,250,,Serviced,rent
+1575,Amata Residence,"$2,700permonth",2,2.0,120,,Serviced,rent
+1576,Amata Residence,"$1,700permonth",2,2.0,80,,Serviced,rent
+1577,Amata Residence,$900permonth,,1.0,60,,Serviced,rent
+1578,Residence 105 Hotel & Apartment,"$2,200permonth",3,3.0,130,,Serviced,rent
+1579,Residence 105 Hotel & Apartment,$650permonth,1,1.0,35,,Serviced,rent
+1580,"Mittapheap, 7 Makara, Phnom Penh",$360permonth,1,1.0,,,Apartment,rent
+1581,"Sala Kamraeuk, Siem Reap, Siem Reap",$360permonth,1,1.0,,,Apartment,rent
+1582," Sala Kamraeuk, Siem Reap, Siem Reap",$850permonth,2,2.0,,,Apartment,rent
+1583,Soho Residence,$600permonth,1,1.0,35,,Serviced,rent
+1584,Soho Residence,"$1,700permonth",2,2.0,110,,Serviced,rent
+1585,Soho Residence,$550permonth,1,1.0,30,,Serviced,rent
+1586,Soho Residence,$450permonth,1,1.0,25,,Serviced,rent
+1587," Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,,,,,Apartment,rent
+1588," Svay Dankum, Siem Reap, Siem Reap",$650permonth,4,5.0,,,House,rent
+1589," Sala Kamraeuk, Siem Reap, Siem Reap",$700permonth,4,5.0,,,House,rent
+1590,"Svay Dankum, Siem Reap, Siem Reap","$1,700permonth",4,5.0,,,House,rent
+1591," Nirouth, Chbar Ampov, Phnom Penh",$750permonth,4,5.0,,,Shophouse,rent
+1592,TAO Riverside Residence,"$3,350permonth$3,000SAVE10.45%",3,2.0,125,,Serviced,rent
+1593," Chey Chumneah, Daun Penh, Phnom Penh","$1,300permonth",1,1.0,,,Apartment,rent
+1594,"Chbar Ampov I, Chbar Ampov, Phnom Penh","$1,100permonth",,,,708.0,Land,rent
+1595,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$1,200permonth$1,000SAVE16.67%",4,5.0,,,Link,rent
+1596,"Chroy Changvar, Chroy Changvar, Phnom Penh",$750permonth$500SAVE33.33%,2,2.0,42,,Link,rent
+1597,SOPHEA SUITES,"$9,500permonth",4,4.0,400,,Serviced,rent
+1598,SOPHEA SUITES,"$10,000permonth",3,3.0,400,,Serviced,rent
+1599,SOPHEA SUITES,"$3,500permonth",3,3.0,160,,Serviced,rent
+1600,SOPHEA SUITES,"$3,000permonth",2,3.0,125,,Serviced,rent
+1601,SOPHEA SUITES,"$1,800permonth",2,3.0,100,,Serviced,rent
+1602,"Krabei Riel, Siem Reap, Siem Reap",$450permonth,2,3.0,,,Apartment,rent
+1603,Tulip Apartment,"$3,500permonth",4,4.0,160,,Serviced,rent
+1604,Tulip Apartment,"$3,000permonth",3,2.0,155,,Serviced,rent
+1605,Tulip Apartment,"$1,400permonth",2,1.0,105,,Serviced,rent
+1606,Mekong View Tower 2,$450permonth,1,1.0,79,,Serviced,rent
+1607,"Svay Dankum, Siem Reap, Siem Reap",$300permonth,2,2.0,,,Apartment,rent
+1608,"Svay Dankum, Siem Reap, Siem Reap",$320permonth,2,2.0,,,Apartment,rent
+1609,"Boeng Reang, Daun Penh, Phnom Penh","$4,800permonth",3,2.0,,,Shophouse,rent
+1610,"Chey Chumneah, Daun Penh, Phnom Penh","$1,300permonth",1,1.0,,,Apartment,rent
+1611,"Chakto Mukh, Daun Penh, Phnom Penh",$450permonth,1,1.0,,,Apartment,rent
+1612," Svay Dankum, Siem Reap, Siem Reap",$300permonth,2,3.0,,,House,rent
+1613," Sala Kamraeuk, Siem Reap, Siem Reap",$250permonth,1,1.0,,,Apartment,rent
+1614," Svay Dankum, Siem Reap, Siem Reap",$250permonth,1,1.0,,,Apartment,rent
+1615," Svay Dankum, Siem Reap, Siem Reap",$250permonth,1,1.0,,,Apartment,rent
+1616," Svay Dankum, Siem Reap, Siem Reap",$600permonth,5,6.0,,,House,rent
+1617," Sala Kamraeuk, Siem Reap, Siem Reap",$450permonth,2,2.0,,,House,rent
+1618,"Boeung Kak 2, Toul Kork, Phnom Penh",$450permonth,1,1.0,,,Apartment,rent
+1619,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,300permonth",2,3.0,,,Apartment,rent
+1620,SunCity Serviced Apartment,"$2,500permonth",2,2.0,110,,Serviced,rent
+1621,Tulip Apartment,"$1,250permonth",1,1.0,75,,Serviced,rent
+1622,Tulip Apartment,"$1,050permonth",1,1.0,75,,Serviced,rent
+1623,Helen Fin Inn & Apartment,$650permonth,1,1.0,45,,Serviced,rent
+1624," Siem Reap, Siem Reap, Siem Reap","$3,500permonth",5,6.0,,,House,rent
+1625,The Sokhom Residence,$600permonth,1,1.0,80,,Serviced,rent
+1626,The Sokhom Residence,"$3,500permonth",3,3.0,250,,Serviced,rent
+1627,The Sokhom Residence,"$1,100permonth",2,2.0,80,,Serviced,rent
+1628," Sala Kamraeuk, Siem Reap, Siem Reap",$500permonth,3,3.0,,,House,rent
+1629,,"$1,200permonth",2,2.0,98,,Serviced,rent
+1630," Kouk Chak, Siem Reap, Siem Reap",$300permonth,1,1.0,,,Apartment,rent
+1631," Kouk Chak, Siem Reap, Siem Reap",$450permonth,2,2.0,,,Apartment,rent
+1632," Kouk Chak, Siem Reap, Siem Reap","$1,500permonth",6,8.0,,,House,rent
+1633," Svay Dankum, Siem Reap, Siem Reap",$300permonth,3,3.0,,,Apartment,rent
+1634,,$700permonth,1,1.0,60,,Serviced,rent
+1635,Helen Fin Inn & Apartment,$600permonth,1,1.0,35,,Serviced,rent
+1636,"Sala Kamraeuk, Siem Reap, Siem Reap",$650permonth,2,2.0,,,Apartment,rent
+1637," Veal Vong, 7 Makara, Phnom Penh",$850permonth,2,2.0,75,105.0,Condo,rent
+1638,"Phnom Penh Thmey, Sen Sok, Phnom Penh",$730permonth,7,8.0,,,Apartment,rent
+1639," Sala Kamraeuk, Siem Reap, Siem Reap",$600permonth,,,,,Land,rent
+1640," Sala Kamraeuk, Siem Reap, Siem Reap",$380permonth,1,1.0,,,House,rent
+1641," Sala Kamraeuk, Siem Reap, Siem Reap",$800permonth,3,4.0,,,Apartment,rent
+1642," Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,1,2.0,,,Apartment,rent
+1643," Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,1,2.0,,,Apartment,rent
+1644," Sala Kamraeuk, Siem Reap, Siem Reap",$250permonth,1,1.0,,,Apartment,rent
+1645," Svay Dankum, Siem Reap, Siem Reap",$400permonth,2,3.0,,,Apartment,rent
+1646,"Sla Kram, Siem Reap, Siem Reap",$450permonth,2,2.0,,,Apartment,rent
+1647,"Boeung Kak 2, Toul Kork, Phnom Penh","$4,500permonth",7,9.0,200,500.0,Villa,rent
+1648,"313 313, Boeung Kak 2, Toul Kork, Phnom Penh","$2,000permonth",,,,60.0,House,rent
+1649,Urban Village Phase 1,$450permonth,2,1.0,,,Condo,rent
+1650,"Tumnob Tuek, Chamkarmon, Phnom Penh",$550permonth,1,1.0,,,House,rent
+1651,Granferte Phnom Penh,"$2,500permonth",1,1.0,69,,Serviced,rent
+1652,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,200permonth",,,,,House,rent
+1653,"Chaom Chau, Por Sen Chey, Phnom Penh","$5,000permonth",,,,4193.0,Land,rent
+1654,"Chaom Chau, Por Sen Chey, Phnom Penh","$1,500permonth",28,28.0,,,House,rent
+1655,"Boeung Trabek, Chamkarmon, Phnom Penh","$1,700permonth",3,3.0,,,Villa,rent
+1656,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,400permonth",,,,,Apartment,rent
+1657,"Boeung Salang, Toul Kork, Phnom Penh",$500permonth,4,4.0,,,House,rent
+1658,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$4,000permonth",7,8.0,,,House,rent
+1659," Sala Kamraeuk, Siem Reap, Siem Reap","$2,000permonth",4,5.0,,,House,rent
+1660,Luxcity Hotel & Apartment,"$7,000permonth",4,4.0,393,,Serviced,rent
+1661,Luxcity Hotel & Apartment,"$8,000permonth",5,5.0,622,,Serviced,rent
+1662,Luxcity Hotel & Apartment,"$1,700permonth",1,1.0,79,,Serviced,rent
+1663,Luxcity Hotel & Apartment,"$1,600permonth",1,1.0,,75.0,Serviced,rent
+1664,"Akreiy Ksatr, Lvea Aem, Kandal",$555permonth,,,,,Condo,rent
+1665,Luxcity Hotel & Apartment,"$1,350permonth",1,1.0,50,,Serviced,rent
+1666,Luxcity Hotel & Apartment,"$1,500permonth",1,1.0,68,,Serviced,rent
+1667," Svay Dankum, Siem Reap, Siem Reap","$1,200permonth",3,3.0,,,House,rent
+1668,"Veal Vong, 7 Makara, Phnom Penh",$500permonth,,,,,Condo,rent
+1669,"Sala Kamraeuk, Siem Reap, Siem Reap",$300permonth,3,4.0,,,House,rent
+1670,"Svay Dankum, Siem Reap, Siem Reap",$400permonth,2,1.0,,,House,rent
+1671,"Svay Dankum, Siem Reap, Siem Reap",$550permonth,4,3.0,,,House,rent
+1672," Siem Reap, Siem Reap, Siem Reap",$650permonth,3,3.0,,,House,rent
+1673,"Chroy Changvar, Chroy Changvar, Phnom Penh",$700permonth,2,2.0,,,Condo,rent
+1674,"Siem Reap, Siem Reap",$450permonth,,,,,Apartment,rent
+1675,"Toul Kork, Phnom Penh",$330permonth,,,,,Apartment,rent
+1676,"DABEST Properties, Sala Kamraeuk, Siem Reap, Siem Reap",$500permonth,2,3.0,,300.0,Villa,rent
+1677,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,100permonth",2,2.0,,,Condo,rent
+1678,"Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,1,1.0,50,,Apartment,rent
+1679," Svay Dankum, Siem Reap, Siem Reap",$600permonth,4,5.0,,,House,rent
+1680,"Svay Dankum, Siem Reap, Siem Reap",$550permonth,3,4.0,,,House,rent
+1681,"Boeung Trabek, Chamkarmon, Phnom Penh",$400permonth,,,,,Apartment,rent
+1682,"Khmuonh, Sen Sok, Phnom Penh",$999permonth,4,5.0,,,Twin,rent
+1683,"Veal Vong, 7 Makara, Phnom Penh","$1,200permonth",2,1.0,136,,Condo,rent
+1684,"Veal Vong, 7 Makara, Phnom Penh",$600permonth,1,1.0,46,,Condo,rent
+1685,"Tuek L'ak 3, Toul Kork, Phnom Penh","$2,500permonth",3,6.0,164,,House,rent
+1686,"Phnom Penh Thmey, Sen Sok, Phnom Penh","$4,200permonth",,,,,Apartment,rent
+1687,"BKK 1, Chamkarmon, Phnom Penh",$550permonth,,,,,Apartment,rent
+1688,"Prey Veaeng, Dangkao, Phnom Penh","$2,500permonth",,,,,Land,rent
+1689," Svay Dankum, Siem Reap, Siem Reap",$700permonth,2,3.0,145,198.0,Villa,rent
+1690,"Preaek Ta Sek, Chroy Changvar, Phnom Penh","$1,200permonth",3,3.0,,,House,rent
+1691," Sala Kamraeuk, Siem Reap, Siem Reap","$1,200permonth",4,5.0,,,Villa,rent
+1692,Royal Park Condo,$300permonth,,,,,Condo,rent
+1693,"Tonle Bassac, Chamkarmon, Phnom Penh","$4,000permonth",6,6.0,,,Villa,rent
+1694," Tonle Bassac, Chamkarmon, Phnom Penh","$1,000permonth",2,2.0,110,,Condo,rent
+1695," Tonle Bassac, Chamkarmon, Phnom Penh",$700permonth,1,1.0,50,,Condo,rent
+1696,"Mittapheap, 7 Makara, Phnom Penh",$350permonth,1,1.0,45,,Studio,rent
+1697,"Chak Angrae Leu, Meanchey, Phnom Penh",$550permonth,,,,,Apartment,rent
+1698,"Preaek Pra, Chbar Ampov, Phnom Penh","$1,800permonth",8,,,,Villa,rent
+1699,"Chrang Chamres I, Russey Keo, Phnom Penh",$450permonth,4,5.0,,,House,rent
+1700,"Dangkao, Dangkao, Phnom Penh",$450permonth,,,,,Shophouse,rent
+1701,"Preaek Kampues, Dangkao, Phnom Penh","$1,200permonth",5,6.0,,,Villa,rent
+1702," Kouk Chak, Siem Reap, Siem Reap",$650permonth,2,2.0,,,Apartment,rent
+1703," Sala Kamraeuk, Siem Reap, Siem Reap",$270permonth,1,1.0,,,Apartment,rent
+1704,"Tonle Bassac, Chamkarmon, Phnom Penh",$450permonth,1,1.0,62,,Condo,rent
+1705,Diamond One,$350permonth,,1.0,49,,Condo,rent
+1706,"Tonle Bassac, Chamkarmon, Phnom Penh",$350permonth,,1.0,49,,Apartment,rent
+1707,TAO Riverside Residence,"$2,100permonth",1,1.0,65,,Serviced,rent
+1708,TAO Riverside Residence,"$1,950permonth",1,1.0,70,,Serviced,rent
+1709,TAO Riverside Residence,"$1,900permonth",1,1.0,75,,Serviced,rent
+1710,TAO Riverside Residence,"$1,700permonth$1,500SAVE11.76%",1,1.0,55,,Studio,rent
+1711,TAO Riverside Residence,"$1,350permonth",1,1.0,50,,Studio,rent
+1712,"Veal Vong, 7 Makara, Phnom Penh",$500permonth,1,1.0,,,Apartment,rent
+1713," Kouk Chak, Siem Reap, Siem Reap",$350permonth,1,,,,Apartment,rent
+1714," Sala Kamraeuk, Siem Reap, Siem Reap",$200permonth,1,,,,Apartment,rent
+1715," Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,2,2.0,,,House,rent
+1716," Svay Dankum, Siem Reap, Siem Reap",$350permonth,1,,,,Apartment,rent
+1717,"Veal Vong, 7 Makara, Phnom Penh","$2,950permonth",2,,,,Condo,rent
+1718,"Nirouth, Chbar Ampov, Phnom Penh","$1,000permonth",4,5.0,,,House,rent
+1719,"Chroy Changvar, Chroy Changvar, Phnom Penh",$550permonth,1,,50,,Apartment,rent
+1720,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$4,700permonth",3,,380,,Condo,rent
+1721,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,500permonth",1,1.0,,,Condo,rent
+1722,"Tonle Bassac, Chamkarmon, Phnom Penh",$650permonth,,1.0,,,Apartment,rent
+1723,"Tonle Bassac, Chamkarmon, Phnom Penh","$4,000permonth",3,4.0,,,Villa,rent
+1724,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,300permonth",5,5.0,,,Villa,rent
+1725,"Veal Vong, 7 Makara, Phnom Penh",$700permonth,2,1.0,,,Condo,rent
+1726,"Tonle Bassac, Chamkarmon, Phnom Penh","$3,800permonth",5,6.0,,,Villa,rent
+1727,"Tonle Bassac, Chamkarmon, Phnom Penh","$5,000permonth",5,6.0,,,Villa,rent
+1728,"Svay Dankum, Siem Reap, Siem Reap",$500permonth,2,3.0,,,Apartment,rent
+1729,"Svay Dankum, Siem Reap, Siem Reap",$250permonth,2,3.0,,,Apartment,rent
+1730,"Boeung Tumpun, Meanchey, Phnom Penh",$400permonth,1,1.0,,,Condo,rent
+1731," Sla Kram, Siem Reap, Siem Reap",$400permonth,2,2.0,,,House,rent
+1732,"Tuek L'ak 1, Toul Kork, Phnom Penh","$3,000permonth",7,9.0,112,,Apartment,rent
+1733,"Chak Angrae Leu, Meanchey, Phnom Penh",$600permonth,2,1.0,75,,Condo,rent
+1734,De Castle Diamond Condominium,"$1,275permonth",4,4.0,281,,Condo,rent
+1735,De Castle Diamond Condominium,"$1,275permonth",4,4.0,281,,Condo,rent
+1736,De Castle Diamond Condominium,$999permonth,4,4.0,281,,Condo,rent
+1737,De Castle Diamond Condominium,"$1,275permonth",4,4.0,281,,Condo,rent
+1738,De Castle Diamond Condominium,$999permonth,3,3.0,229,,Condo,rent
+1739,De Castle Diamond Condominium,$875permonth,3,3.0,229,,Condo,rent
+1740,De Castle Diamond Condominium,"$1,150permonth",3,3.0,251,,Condo,rent
+1741,De Castle Diamond Condominium,"$1,150permonth",3,3.0,251,,Condo,rent
+1742,De Castle Diamond Condominium,"$1,150permonth",3,3.0,251,,Condo,rent
+1743,De Castle Diamond Condominium,"$1,400permonth",3,3.0,251,,Condo,rent
+1744,De Castle Diamond Condominium,$825permonth,2,2.0,150,,Condo,rent
+1745,De Castle Diamond Condominium,$825permonth,2,2.0,150,,Condo,rent
+1746,De Castle Diamond Condominium,$725permonth,1,1.0,114,,Condo,rent
+1747,De Castle Diamond Condominium,$725permonth,1,1.0,114,,Condo,rent
+1748,De Castle Diamond Condominium,$725permonth,1,1.0,114,,Condo,rent
+1749,"Boeung Kak 1, Toul Kork, Phnom Penh",$350permonth,,,32,,Condo,rent
+1750,"Veal Vong, 7 Makara, Phnom Penh","$1,200permonth",2,,130,,Condo,rent
+1751,"Chey Chumneah, Daun Penh, Phnom Penh","$1,500permonth",2,5.0,66,,House,rent
+1752,"Sla Kram, Siem Reap, Siem Reap",$600permonth,2,,,,Villa,rent
+1753,"Kouk Roka, Prek Pnov, Phnom Penh",$400permonth,4,5.0,,,House,rent
+1754,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$330permonth,,,,,Apartment,rent
+1755,"BKK 1, Chamkarmon, Phnom Penh",$600permonth,,,30,,Apartment,rent
+1756,"Svay Dankum, Siem Reap, Siem Reap",$280permonth,1,1.0,,,Flat,rent
+1757,"Boeung Tumpun, Meanchey, Phnom Penh",$700permonth,,,25,,Condo,rent
+1758," Sala Kamraeuk, Siem Reap, Siem Reap",$650permonth,2,4.0,,,Villa,rent
+1759,"Siem Reap, Siem Reap",$250permonth,,,,,Apartment,rent
+1760,"Sla Kram, Siem Reap, Siem Reap",$400permonth,,,,,House,rent
+1761,"Sala Kamraeuk, Siem Reap, Siem Reap",$180permonth,,,,,Flat,rent
+1762,"BKK 3, Chamkarmon, Phnom Penh",$190permonth,,,,,Flat,rent
+1763,"BKK 1, Chamkarmon, Phnom Penh","$3,500permonth",,,138,,Apartment,rent
+1764,"BKK 3, Chamkarmon, Phnom Penh","$2,000permonth",,,220,,Apartment,rent
+1765,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$350permonth,,,,,Apartment,rent
+1766,"BKK 3, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1767,"Sen Sok, Phnom Penh",$390permonth,,,,,Apartment,rent
+1768,"Svay Dankum, Siem Reap, Siem Reap",$350permonth,,,,,House,rent
+1769,"Svay Dankum, Siem Reap, Siem Reap",$300permonth,,,,,Apartment,rent
+1770,"Svay Dankum, Siem Reap, Siem Reap",$100permonth,,,,,Flat,rent
+1771,"Tuek Thla, Sen Sok, Phnom Penh","$1,500permonth",,,,,Twin,rent
+1772,"Siem Reap, Siem Reap",$280permonth,,,,,Apartment,rent
+1773,"Daun Penh, Phnom Penh",$300permonth,,,,,Apartment,rent
+1774,"Tuek Thla, Sen Sok, Phnom Penh","$1,500permonth",,,,,Twin,rent
+1775,"BKK 1, Chamkarmon, Phnom Penh",$550permonth,,,,,Apartment,rent
+1776,"BKK 3, Chamkarmon, Phnom Penh",$800permonth,,,,,Apartment,rent
+1777,"Sala Kamraeuk, Siem Reap, Siem Reap",$400permonth,,,,,House,rent
+1778,"Sla Kram, Siem Reap, Siem Reap",$350permonth,,,,,House,rent
+1779,"Siem Reap, Siem Reap",$400permonth,,,,,Villa,rent
+1780,"Preaek Lieb, Chroy Changvar, Phnom Penh","$1,500permonth",,,72,,Twin,rent
+1781,"BKK 1, Chamkarmon, Phnom Penh","$2,300permonth",,,160,,Villa,rent
+1782,"Siem Reap, Siem Reap",$180permonth,,,,,Apartment,rent
+1783,"Siem Reap, Siem Reap",$210permonth,,,,,Apartment,rent
+1784,"Siem Reap, Siem Reap",$150permonth,,,,,Flat,rent
+1785,"Sla Kram, Siem Reap, Siem Reap",$200permonth,,,,,Apartment,rent
+1786,"Siem Reap, Siem Reap",$100permonth,,,,,Flat,rent
+1787,"Siem Reap, Siem Reap",$900permonth,,,,,Villa,rent
+1788,"Sla Kram, Siem Reap, Siem Reap",$160permonth,,,,,Flat,rent
+1789,"Daun Penh, Phnom Penh",$350permonth,,,,,Flat,rent
+1790,"Boeung Tumpun, Meanchey, Phnom Penh",$250permonth,,,,,Serviced,rent
+1791,"BKK 1, Chamkarmon, Phnom Penh",$800permonth,,,,,Apartment,rent
+1792,"Toul Kork, Phnom Penh",$550permonth,,,,,Apartment,rent
+1793,"Ou Baek K'am, Sen Sok, Phnom Penh",$250permonth,,,,,Apartment,rent
+1794,"Toul Kork, Phnom Penh",$350permonth,,,,,Apartment,rent
+1795,"Toul Kork, Phnom Penh",$350permonth,,,,,Apartment,rent
+1796,"Toul Kork, Phnom Penh",$450permonth,,,,,Apartment,rent
+1797,"Kampot, Kampot",$350permonth,,,,,House,rent
+1798,"Siem Reap, Siem Reap",$400permonth,,,,,Serviced,rent
+1799,"Sla Kram, Siem Reap, Siem Reap",$300permonth,,,,,Apartment,rent
+1800,"Siem Reap, Siem Reap",$650permonth,,,,,Apartment,rent
+1801,"Sla Kram, Siem Reap, Siem Reap",$450permonth,,,,,Apartment,rent
+1802,"BKK 1, Chamkarmon, Phnom Penh","$1,650permonth",,,105,,Apartment,rent
+1803,"BKK 3, Chamkarmon, Phnom Penh",$420permonth,,,65,,Apartment,rent
+1804,"Chak Angrae Leu, Meanchey, Phnom Penh",$750permonth,,,72,,Condo,rent
+1805,"BKK 1, Chamkarmon, Phnom Penh",$900permonth,,,,,Condo,rent
+1806,"Toul Kork, Phnom Penh",$530permonth,,,52,,Apartment,rent
+1807,"BKK 1, Chamkarmon, Phnom Penh",$700permonth,,,75,,Apartment,rent
+1808,"Kampot, Kampot",$300permonth,,,,,House,rent
+1809,"Kampot, Kampot",$300permonth,,,,,House,rent
+1810,"Sla Kram, Siem Reap, Siem Reap",$300permonth,,,,,House,rent
+1811,"Siem Reap, Siem Reap",$150permonth,,,,,House,rent
+1812,"Chamkarmon, Phnom Penh",$299permonth,,,,,Apartment,rent
+1813,"Nirouth, Chbar Ampov, Phnom Penh","$1,400permonth",,,72,,Twin,rent
+1814,"Meanchey, Phnom Penh",$550permonth,,,61,,Villa,rent
+1815,"Daun Penh, Phnom Penh",$425permonth,,,,,Apartment,rent
+1816,"Sala Kamraeuk, Siem Reap, Siem Reap",$550permonth,,,,,Apartment,rent
+1817,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$550permonth,,,,,Apartment,rent
+1818,"Chroy Changvar, Chroy Changvar, Phnom Penh","$2,500permonth",,,,,Villa,rent
+1819,"Daun Penh, Phnom Penh",$650permonth,,,,,Apartment,rent
+1820,"Svay Dankum, Siem Reap, Siem Reap",$300permonth,,,,,Apartment,rent
+1821,"Sla Kram, Siem Reap, Siem Reap",$400permonth,,,,,Apartment,rent
+1822,"Sala Kamraeuk, Siem Reap, Siem Reap",$350permonth,,,,,Apartment,rent
+1823,"Toul Svay Prey 1, Chamkarmon, Phnom Penh","$1,000permonth",,,,,Apartment,rent
+1824,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$380permonth,,,,,Apartment,rent
+1825,"Siem Reap, Siem Reap",$300permonth,,,195,,House,rent
+1826,"Svay Dankum, Siem Reap, Siem Reap",$500permonth,,,,,Apartment,rent
+1827,"Svay Dankum, Siem Reap, Siem Reap",$200permonth,,,,,Apartment,rent
+1828,"Siem Reap, Siem Reap",$320permonth,,,,,Apartment,rent
+1829,"BKK 3, Chamkarmon, Phnom Penh",$700permonth,,,,,Apartment,rent
+1830,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$300permonth,,,,,Apartment,rent
+1831,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$300permonth,,,,,Apartment,rent
+1832,"Khsach Kandal, Kandal",$170permonth,,,,,Apartment,rent
+1833,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1834,"Daun Penh, Phnom Penh",$550permonth,,,,,Apartment,rent
+1835,"Kampot, Kampot",$250permonth,,,,,House,rent
+1836,"Tumnob Tuek, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1837,"Sala Kamraeuk, Siem Reap, Siem Reap",$100permonth,,,,,Apartment,rent
+1838,"Svay Dankum, Siem Reap, Siem Reap",$250permonth,,,,,Apartment,rent
+1839,"Sala Kamraeuk, Siem Reap, Siem Reap",$300permonth,,,,,Apartment,rent
+1840,"Tonle Bassac, Chamkarmon, Phnom Penh","$1,000permonth",,,85,,Apartment,rent
+1841,"BKK 2, Chamkarmon, Phnom Penh",$500permonth,,,49,,Apartment,rent
+1842,"BKK 1, Chamkarmon, Phnom Penh","$1,700permonth",,,,,Apartment,rent
+1843,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,,,,,Apartment,rent
+1844,"BKK 3, Chamkarmon, Phnom Penh",$370permonth,,,60,,Apartment,rent
+1845,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,,,,,Apartment,rent
+1846,"BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",,,,,Apartment,rent
+1847,"Daun Penh, Phnom Penh",$750permonth,,,,,Apartment,rent
+1848,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$350permonth,,,,,Serviced,rent
+1849,"Toul Kork, Phnom Penh","$2,700permonth",,,,,Condo,rent
+1850,"Svay Dankum, Siem Reap, Siem Reap",$200permonth,,,,,Flat,rent
+1851,"Svay Dankum, Siem Reap, Siem Reap",$200permonth,,,,,Apartment,rent
+1852,"Sla Kram, Siem Reap, Siem Reap",$200permonth,,,,,Apartment,rent
+1853,"Siem Reap, Siem Reap",$250permonth,,,,,Apartment,rent
+1854,"Siem Reap, Siem Reap",$950permonth,,,,,Villa,rent
+1855,"Sala Kamraeuk, Siem Reap, Siem Reap",$145permonth,,,,,Apartment,rent
+1856,"Sla Kram, Siem Reap, Siem Reap",$400permonth,,,,,Apartment,rent
+1857,"Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,,,70,,Apartment,rent
+1858,"Veal Vong, 7 Makara, Phnom Penh","$2,300permonth",,,281,,Serviced,rent
+1859,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$250permonth,,,55,,Apartment,rent
+1860,"BKK 3, Chamkarmon, Phnom Penh",$300permonth,,,,,Apartment,rent
+1861,"Boeung Trabek, Chamkarmon, Phnom Penh",$250permonth,,,,,Apartment,rent
+1862,"Toul Kork, Phnom Penh",$150permonth,,,20,,Flat,rent
+1863,"BKK 2, Chamkarmon, Phnom Penh",$750permonth,,,240,,Apartment,rent
+1864,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$250permonth,,,,,Flat,rent
+1865,"Svay Dankum, Siem Reap, Siem Reap",$250permonth,,,,,Apartment,rent
+1866,"Siem Reap, Siem Reap",$140permonth,,,,,Apartment,rent
+1867,"Siem Reap, Siem Reap",$350permonth,,,,,Apartment,rent
+1868,"Siem Reap, Siem Reap",$395permonth,,,250,,Apartment,rent
+1869,"Siem Reap, Siem Reap",$350permonth,,,,,Apartment,rent
+1870,"Toul Svay Prey 2, Chamkarmon, Phnom Penh",$950permonth,,,,,Apartment,rent
+1871,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1872,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1873,"Daun Penh, Phnom Penh",$750permonth,,,,,Apartment,rent
+1874,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,,,,,Apartment,rent
+1875,"BKK 3, Chamkarmon, Phnom Penh","$1,000permonth",,,,,Apartment,rent
+1876,"Toul Kork, Phnom Penh",$350permonth,,,,,Apartment,rent
+1877,"BKK 3, Chamkarmon, Phnom Penh",$650permonth,,,79,,Apartment,rent
+1878,"Toul Svay Prey 1, Chamkarmon, Phnom Penh",$400permonth,,,,,Serviced,rent
+1879,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$300permonth,,,,,House,rent
+1880,"Sen Sok, Phnom Penh","$2,700permonth",,,238,,Villa,rent
+1881,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$700permonth,,,,,Apartment,rent
+1882,"BKK 2, Chamkarmon, Phnom Penh",$190permonth,,,30,,Flat,rent
+1883,"BKK 3, Chamkarmon, Phnom Penh",$600permonth,,,55,,Apartment,rent
+1884,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$280permonth,,,30,,Flat,rent
+1885,"Daun Penh, Phnom Penh",$730permonth,,,,,Serviced,rent
+1886,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",,,,,Serviced,rent
+1887,"BKK 1, Chamkarmon, Phnom Penh","$1,700permonth",,,,,Apartment,rent
+1888,"Boeung Tumpun, Meanchey, Phnom Penh",$275permonth,,,,,Apartment,rent
+1889,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$300permonth,,,,,Apartment,rent
+1890,"BKK 1, Chamkarmon, Phnom Penh",$550permonth,,,,,Apartment,rent
+1891,"Siem Reap, Siem Reap",$180permonth,,,,,Apartment,rent
+1892,"Toul Kork, Phnom Penh",$650permonth,,,49,,Apartment,rent
+1893,"Toul Kork, Phnom Penh",$650permonth,,,,,Apartment,rent
+1894,"Sen Sok, Phnom Penh","$1,300permonth",,,,,Villa,rent
+1895,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$260permonth,,,,,Flat,rent
+1896,"Tuek Thla, Sen Sok, Phnom Penh",$300permonth,,,,,Apartment,rent
+1897,"Kampot, Kampot",$250permonth,,,,,House,rent
+1898,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$650permonth,,,,,Apartment,rent
+1899,"Sen Sok, Phnom Penh",$600permonth,,,80,,Condo,rent
+1900,"Tonle Bassac, Chamkarmon, Phnom Penh",$600permonth,,,,,Apartment,rent
+1901,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1902,"Chroy Changvar, Phnom Penh",$320permonth,,,,,Flat,rent
+1903,"Dangkao, Phnom Penh",$200permonth,,,49,,House,rent
+1904,"Tonle Bassac, Chamkarmon, Phnom Penh",$650permonth,,,65,,Apartment,rent
+1905,"Tumnob Tuek, Chamkarmon, Phnom Penh",$450permonth,,,,,Apartment,rent
+1906,"Kampot, Kampot",$200permonth,,,,,Apartment,rent
+1907,"Kampot, Kampot",$150permonth,,,,,House,rent
+1908,"Kampot, Kampot",$250permonth,,,,,Apartment,rent
+1909,"Tonle Bassac, Chamkarmon, Phnom Penh",$850permonth,,,50,,Apartment,rent
+1910,"Boeung Tumpun, Meanchey, Phnom Penh",$250permonth,,,,,Condo,rent
+1911,"Tonle Bassac, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1912,"Russey Keo, Phnom Penh",$450permonth,,,68,,House,rent
+1913,"BKK 3, Chamkarmon, Phnom Penh",$700permonth,,,79,,Serviced,rent
+1914,"Toul Kork, Phnom Penh",$650permonth,,,,,Condo,rent
+1915,"Toul Kork, Phnom Penh",$700permonth,,,,,Condo,rent
+1916,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,,,,,Apartment,rent
+1917,"Boeung Tumpun, Meanchey, Phnom Penh",$170permonth,,,,,Condo,rent
+1918,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$370permonth,,,,,Serviced,rent
+1919,"Daun Penh, Phnom Penh",$550permonth,,,75,,Condo,rent
+1920,"Boeung Trabek, Chamkarmon, Phnom Penh",$600permonth,,,,,Apartment,rent
+1921,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$450permonth,,,,,Apartment,rent
+1922,"BKK 2, Chamkarmon, Phnom Penh",$350permonth,,,,,Flat,rent
+1923,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$700permonth,,,,,Apartment,rent
+1924,"Chamkarmon, Phnom Penh",$550permonth,,,,,Apartment,rent
+1925,"Toul Kork, Phnom Penh",$350permonth,,,,,Flat,rent
+1926,"Toul Kork, Phnom Penh",$370permonth,,,,,Apartment,rent
+1927,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,,,,,Serviced,rent
+1928,"BKK 2, Chamkarmon, Phnom Penh",$450permonth,,,,,Serviced,rent
+1929,"BKK 1, Chamkarmon, Phnom Penh",$800permonth,,,,,Apartment,rent
+1930,"BKK 3, Chamkarmon, Phnom Penh",$300permonth,,,,,Apartment,rent
+1931,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$450permonth,,,,,Apartment,rent
+1932,"Sen Sok, Phnom Penh",$450permonth,,,,,Apartment,rent
+1933,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,,,,,Serviced,rent
+1934,"Tonle Bassac, Chamkarmon, Phnom Penh",$400permonth,,,60,,Condo,rent
+1935,"Chamkarmon, Phnom Penh","$1,000permonth",,,,,Apartment,rent
+1936,"Stueng Mean chey, Meanchey, Phnom Penh",$600permonth,,,61,,House,rent
+1937,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$250permonth,,,,,Apartment,rent
+1938,"Veal Vong, 7 Makara, Phnom Penh",$500permonth,1,1.0,47,,Flat,rent
+1939,"Daun Penh, Phnom Penh",$350permonth,,,,,Apartment,rent
+1940,"BKK 1, Chamkarmon, Phnom Penh","$1,200permonth",,,,,Condo,rent
+1941,"Daun Penh, Phnom Penh",$700permonth,,,,,House,rent
+1942,"Daun Penh, Phnom Penh",$700permonth,,,,,House,rent
+1943,"Daun Penh, Phnom Penh","$1,100permonth",,,,,Serviced,rent
+1944,"BKK 3, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1945,"BKK 1, Chamkarmon, Phnom Penh",$320permonth,,,50,,Apartment,rent
+1946,"Svay Dankum, Siem Reap, Siem Reap",$350permonth,,,,,Apartment,rent
+1947,"Sla Kram, Siem Reap, Siem Reap",$300permonth,,,,,Serviced,rent
+1948,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$400permonth,,,,,Apartment,rent
+1949,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1950,"Dangkao, Phnom Penh",$250permonth,,,,,House,rent
+1951,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,,,,,Apartment,rent
+1952,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$280permonth,,,,,Flat,rent
+1953,"BKK 3, Chamkarmon, Phnom Penh",$430permonth,,,,,Serviced,rent
+1954,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$370permonth,,,,,Apartment,rent
+1955,"BKK 3, Chamkarmon, Phnom Penh",$900permonth,,,140,,Apartment,rent
+1956,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$450permonth,,,,,Apartment,rent
+1957,"BKK 2, Chamkarmon, Phnom Penh",$450permonth,,,55,,Apartment,rent
+1958,"Chamkarmon, Phnom Penh",$430permonth,,,,,Serviced,rent
+1959,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$260permonth,,,,,Apartment,rent
+1960,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,,,59,,Serviced,rent
+1961,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$650permonth,,,,,Serviced,rent
+1962,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$450permonth,,,,,Serviced,rent
+1963,"Chak Angrae Leu, Meanchey, Phnom Penh",$500permonth,,,,,Condo,rent
+1964,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$350permonth,,,,,Serviced,rent
+1965,"BKK 3, Chamkarmon, Phnom Penh",$600permonth,,,,,Serviced,rent
+1966,"Boeung Trabek, Chamkarmon, Phnom Penh",$300permonth,,,,,Serviced,rent
+1967,"Chroy Changvar, Phnom Penh",$220permonth,,,,,Flat,rent
+1968,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$500permonth,,,,,Apartment,rent
+1969,"Toul Kork, Phnom Penh",$550permonth,,,,,Apartment,rent
+1970,"Veal Vong, 7 Makara, Phnom Penh",$500permonth,,,,,Apartment,rent
+1971,"BKK 1, Chamkarmon, Phnom Penh",$550permonth,,,,,Condo,rent
+1972,"Kampot, Kampot",$250permonth,,,,,House,rent
+1973,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$700permonth,,,100,,Apartment,rent
+1974,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$270permonth,,,,,Apartment,rent
+1975,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$450permonth,,,72,,Apartment,rent
+1976,"Preaek Anhchanh, Mukh Kampul, Kandal",$350permonth,,,97,,House,rent
+1977,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$650permonth,,,100,,Apartment,rent
+1978,"BKK 3, Chamkarmon, Phnom Penh",$750permonth,,,,,Apartment,rent
+1979,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$260permonth,,,,,Apartment,rent
+1980,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$600permonth,,,,,Apartment,rent
+1981,"BKK 1, Chamkarmon, Phnom Penh","$3,200permonth",,,,,Apartment,rent
+1982,"BKK 1, Chamkarmon, Phnom Penh","$2,500permonth",,,,,Apartment,rent
+1983,"BKK 1, Chamkarmon, Phnom Penh","$1,300permonth",,,,,Apartment,rent
+1984,"BKK 1, Chamkarmon, Phnom Penh","$1,000permonth",,,,,Apartment,rent
+1985,"Sen Sok, Phnom Penh",$550permonth,,,,,Condo,rent
+1986,"Kampot, Kampot",$450permonth,,,,,House,rent
+1987,"Kampot, Kampot",$300permonth,,,,,House,rent
+1988,"Svay Dankum, Siem Reap, Siem Reap",$300permonth,,,,,Villa,rent
+1989,"Siem Reap, Siem Reap",$300permonth,,,,,Apartment,rent
+1990,"Toul Tum Poung 1, Chamkarmon, Phnom Penh","$1,300permonth",,,,,Apartment,rent
+1991,"Tonle Bassac, Chamkarmon, Phnom Penh",$500permonth,,,68,,Condo,rent
+1992,"Phnom Penh, Phnom Penh",$450permonth,,,55,,Apartment,rent
+1993,"Toul Kork, Phnom Penh",$500permonth,,,99,,Condo,rent
+1994,"Phsar Chas, Daun Penh, Phnom Penh",$400permonth,,,,,House,rent
+1995,"Phsar Daeum Thkov, Chamkarmon, Phnom Penh",$850permonth,,,,,Apartment,rent
+1996,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$750permonth,,,,,Apartment,rent
+1997,"BKK 1, Chamkarmon, Phnom Penh",$550permonth,,,45,,Condo,rent
+1998,"Toul Tum Poung 1, Chamkarmon, Phnom Penh",$280permonth,,,,,Apartment,rent
+1999,"Toul Kork, Phnom Penh",$450permonth,,,,,House,rent
