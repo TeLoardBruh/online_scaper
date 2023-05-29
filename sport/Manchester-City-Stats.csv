@@ -24,12 +24,12 @@ Date,Venue,Result,Formation,Comp,Opponent,Referee
 2022-12-22,Home,W,4-3-3,EFL Cup,Liverpool,David Coote
 2022-12-28,Away,W,4-3-3,Premier League,Leeds United,Stuart Attwell
 2022-12-31,Home,D,4-3-3,Premier League,Everton,Andy Madley
-Date,Venue,Result,Formation,Comp,Opponent,Referee
 2023-01-05,Away,W,3-2-4-1,Premier League,Chelsea,Paul Tierney
 2023-01-08,Home,W,4-3-3,FA Cup,Chelsea,Robert Jones
 2023-01-11,Away,L,4-3-3,EFL Cup,Southampton,Peter Bankes
 2023-01-14,Away,L,4-3-3,Premier League,Manchester Utd,Stuart Attwell
 2023-01-19,Home,W,4-2-3-1,Premier League,Tottenham,Simon Hooper
+Date,Venue,Result,Formation,Comp,Opponent,Referee
 2023-01-22,Home,W,3-2-4-1,Premier League,Wolves,David Coote
 2023-01-27,Home,W,3-2-4-1,FA Cup,Arsenal,Paul Tierney
 2023-02-05,Away,L,4-4-2,Premier League,Tottenham,Andy Madley
@@ -50,7 +50,6 @@ Date,Venue,Result,Formation,Comp,Opponent,Referee
 2023-04-19,Away,D,3-2-4-1,Champions Lg,de Bayern Munich,Clément Turpin
 2023-04-22,Neutral,W,3-4-3◆,FA Cup,Sheffield Utd,Stuart Attwell
 2023-04-26,Home,W,4-3-3,Premier League,Arsenal,Michael Oliver
-Date,Venue,Result,Formation,Comp,Opponent,Referee
 2023-04-30,Away,W,3-2-4-1,Premier League,Fulham,Simon Hooper
 2023-05-03,Home,W,3-2-4-1,Premier League,West Ham,John Brooks
 2023-05-06,Home,W,3-2-4-1,Premier League,Leeds United,Andy Madley
