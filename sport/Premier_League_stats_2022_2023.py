@@ -62,12 +62,12 @@ st.markdown("#### show relationship of games play, formation")
 option = st.selectbox("Choose your team ",fnames)
 
 team_name = option
-total_winning_form = 'total_winning_formation_'+team_name
-total_losing_form = 'total_losing_formation_'+team_name
-team_winning_formation_home = 'team_winning_formation_home_'+team_name
-team_losing_formation_home = 'team_losing_formation_home_'+team_name
-team_winning_formation_away_venue = 'team_winning_formation_away_venue_'+team_name
-team_losing_formation_away_venue = 'team_losing_formation_away_venue_'+team_name
+total_winning_form = f'total_winning_formation_{team_name}'
+total_losing_form = f'total_losing_formation_{team_name}'
+team_winning_formation_home = f'team_winning_formation_home_{team_name}'
+team_losing_formation_home = f'team_losing_formation_home_{team_name}'
+team_winning_formation_away_venue = f'team_winning_formation_away_venue_{team_name}'
+team_losing_formation_away_venue = f'team_losing_formation_away_venue_{team_name}'
 
 st.markdown("### Team total winning game both home and away and the formation 🏆")
 st.bar_chart(relation_dataframe(team_name)[total_winning_form])
