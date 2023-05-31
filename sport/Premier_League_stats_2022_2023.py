@@ -42,6 +42,8 @@ total_losing_home= 'Total losing home'
 total_losing_away = 'Total losing away'
 total_draw_home = 'Total draw home'
 total_draw_away = 'Total draw away'
+
+
 def read_csv_from_path(team_name):
     return pd.read_csv(f"{os.path.dirname(os.path.abspath(__file__))}/data/{team_name}.csv")
 
@@ -107,57 +109,95 @@ with tab1:
    st.subheader(f'All competition stats {team_name}')
    df
 
+def get_stats(team_name, result_label, result1, result2, venue, venue1):
+    df = read_csv_from_path(team_name)
+   
+    col1, col2, col3, col4 = st.columns(4)
+    if result_label == 'winning':
+        total_stats = df[(df['Venue'] == venue) | (df['Venue'] == venue1)]['Result'].value_counts().to_list()[0]
+    if result_label == 'losing':
+        total_stats = df[(df['Venue'] == venue) | (df['Venue'] == venue1)]['Result'].value_counts().to_list()[1]
+    if result_label == 'draw':
+        total_stats = df[(df['Venue'] == venue) | (df['Venue'] == venue1)]['Result'].value_counts().to_list()[2]
+    
+    total_result1_home_stats = df[(df['Result'] == result1) & (df['Venue'] == venue)].value_counts().value_counts().to_list()[0]
+
+    total_result2_away_stats =df[(df['Result'] == result2) & (df['Venue'] == venue1)].value_counts().value_counts().to_list()[0]
+
+    col1.metric("Total game played", f"{len(df)}")
+    if venue != venue1:
+        col2.metric(f"Total {result_label} {venue}", f"{total_stats}")
+        col3.metric(f"Total {result_label} {venue}", f"{total_result1_home_stats}")
+        col4.metric(f"Total {result_label} {venue1}", f"{total_result2_away_stats}")
+    else:
+        col2.metric(f"Total {result_label} {venue}", f"{total_stats}")
+
 with tab2:
-    select_stats_formation = st.selectbox("Select which stats you want to see.",[total_winning_home_away, total_losing_home_away ,total_winning_home, total_winning_away, total_losing_home, total_losing_away])
+    select_stats_formation = st.selectbox("Select which stats you want to see.",[total_winning_home_away, total_losing_home_away, total_draw_home_away ,total_winning_home, total_winning_away, total_losing_home, total_losing_away, total_draw_home, total_draw_away])
 
     if select_stats_formation == total_winning_home_away:
-        st.subheader("Team total winning game both home and away and the formation 🏆")
-        col1, col2, col3, col4 = st.columns(4)
-        df = read_csv_from_path(team_name)
-   
-        col1, col2, col3, col4 = st.columns(4)
-        total_win = df['Result'].value_counts().to_list()[0]
-        total_winning_home_stats = df[(df['Result'] == 'W') & (df['Venue']== 'Home')].value_counts().value_counts().to_list()[0]
-
-        total_winning_away_stats =df[(df['Result'] == 'W') & (df['Venue']== 'Away')].value_counts().value_counts().to_list()[0]
-
-        col1.metric("Total game played", f"{len(df)}")
-        col2.metric("Total winning", f"{total_win}")
-        col3.metric("Total winning home", f"{total_winning_home_stats}")
-        col4.metric("Total winning away", f"{total_winning_away_stats}")
+        get_stats(team_name, result_label='winning', result1='W', result2='W',venue='Home',venue1='Away')
         
-        st.bar_chart(relation_dataframe(team_name)[total_winning_form])
+        st.subheader("Team total winning game both home and away and the formation 🏆")
+        
+        st.bar_chart(relation_dataframe(team_name)[total_winning_form],use_container_width=True)
 
     if select_stats_formation == total_losing_home_away:
+        get_stats(team_name, result_label='losing', result1='L', result2='L',venue='Home',venue1='Away')
+        
         st.subheader("Team total losing game both home and away and the formation 🌧️")
+
         st.bar_chart(relation_dataframe(team_name)[total_losing_form])
 
     if select_stats_formation == total_draw_home_away:
-        st.subheader("Team total draw game at away ground and the formation 🌧️")
+        get_stats(team_name, result_label='draw', result1='D', result2='D',venue='Home',venue1='Away')
+        
+        st.subheader("Team total draw game at away ground and the formation 🟰")
+        
         st.bar_chart(relation_dataframe(team_name)[total_draw_form])
 
     if select_stats_formation == total_winning_home:
+        get_stats(team_name, result_label='winning', result1='W', result2='W',venue='Home',venue1='Home')
+
         st.subheader("Team total winning game at home and the formation 🏆")
+        
         st.bar_chart(relation_dataframe(team_name)[team_winning_formation_home])
 
     if select_stats_formation == total_winning_away:
+        get_stats(team_name, result_label='winning', result1='W', result2='W',venue='Away',venue1='Away')
+
         st.subheader("Team total winning game at away ground and the formation 🏆")
+
         st.bar_chart(relation_dataframe(team_name)
+                     
+                     
         [team_winning_formation_away_venue])
 
     if select_stats_formation == total_losing_home:
+        get_stats(team_name, result_label='losing', result1='L', result2='L',venue='Home',venue1='Home')
+
         st.subheader("Team total losing game at home and the formation 🌧️")
+        
         st.bar_chart(relation_dataframe(team_name)[team_losing_formation_home])
 
     if select_stats_formation == total_losing_away:
+        get_stats(team_name, result_label='losing', result1='L', result2='L',venue='Away',venue1='Away')
+
         st.subheader("Team total losing game at away ground and the formation 🌧️")
+
         st.bar_chart(relation_dataframe(team_name)[team_losing_formation_away_venue])
-    
+
     if select_stats_formation == total_draw_home:
+        get_stats(team_name, result_label='draw', result1='D', result2='D',venue='Home',venue1='Home')
+
         st.subheader("Team total draw game at home ground and the formation 🟰")
+
         st.bar_chart(relation_dataframe(team_name)[team_draw_formation_home_venue])
 
     if select_stats_formation == total_draw_away:
+        get_stats(team_name, result_label='draw', result1='D', result2='D',venue='Away',venue1='Away')
+        
         st.subheader("Team total draw game at away ground and the formation 🟰")
+
         st.bar_chart(relation_dataframe(team_name)[team_draw_formation_away_venue])
 
