@@ -31,7 +31,7 @@ team_losing_formation_away_venue = f'team_losing_formation_away_venue_{team_name
 team_draw_formation_home_venue = f'team_draw_formation_home_venue_{team_name}'
 team_draw_formation_away_venue = f'team_draw_formation_away_venue_{team_name}'
 
-tab1, tab2 = st.tabs(["Season 2022-2023 Matches |", "Winning And Losing Formation (Home and Away) |"])
+tab1, tab2 = st.tabs(["Season 2022-2023 Matches |", "Winning, Drawing, and Losing Formation (Home and Away) |"])
 
 total_winning_home_away = 'Total winning (home & away)'
 total_losing_home_away = 'Total losing (home & away)'
@@ -140,7 +140,8 @@ with tab2:
         
         st.subheader("Team total winning game both home and away and the formation 🏆")
         
-        st.bar_chart(relation_dataframe(team_name)[total_winning_form],use_container_width=True)
+        st.bar_chart(relation_dataframe(team_name)[total_winning_form])
+
 
     if select_stats_formation == total_losing_home_away:
         get_stats(team_name, result_label='losing', result1='L', result2='L',venue='Home',venue1='Away')
