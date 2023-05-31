@@ -7,7 +7,8 @@ import glob
 
 path = "./data"
 
-df = pd.read_csv('/data/Arsenal-Stats.csv')
+
+df = pd.read_csv(f'{os.path.dirname(os.path.abspath(__file__))}/data/Arsenal-Stats.csv')
 df
 
 # def read_csv_from_path(team_name):
