@@ -5,7 +5,7 @@ import os
 import glob
 
 
-path = "/data/"
+path = "./data"
 
 def read_csv_from_path(team_name):
     return pd.read_csv(os.path.join(path, f"{team_name}.csv"))
